@@ -1,7 +1,7 @@
 import React from 'react';
 import { BiRocket } from 'react-icons/bi';
 import { RiHistoryLine } from 'react-icons/ri';
-import { TbLeaf } from 'react-icons/Tb';
+import { TbLeaf } from 'react-icons/tb';
 import HeroIntroChild from './HeroIntroChild';
 
 const HeroIntro = () => {
