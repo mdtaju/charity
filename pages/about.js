@@ -1,11 +1,14 @@
 import React from 'react';
+import About from '../src/components/About/About';
+import DonateBanner from '../src/components/Donate/DonateBanner';
 import Layout from '../src/components/Layout';
 
 const about = () => {
       return (
             <>
                   <Layout>
-                        <h1 className='mt-28 text-2xl'>About page coming soon</h1>
+                        <DonateBanner />
+                        <About />
                   </Layout>
             </>
       );

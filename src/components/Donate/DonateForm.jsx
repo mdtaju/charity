@@ -1,7 +1,19 @@
-import React from 'react';
+import { Button } from '@mui/material';
+import { createTheme } from '@mui/material/styles';
+import React, { useState } from 'react';
 import Input from '../Input';
+import OptionInput from '../OptionInput';
+import DonateAddForm from './DonateAddForm';
 
 const DonateForm = () => {
+      const [pdCondition, setPdCondition] = useState('');
+      const Theme = createTheme({
+            palette: {
+                  primary: {
+                        main: '#0A5174',
+                  },
+            },
+      });
       return (
             <div className='gap'>
                   <div className="container mx-auto p-3 sm:px-4 md:px-8">
@@ -13,22 +25,49 @@ const DonateForm = () => {
                               </div>
                               <form action="">
                                     <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8'>
-                                          <Input title='Full Name' type='text' placeholder='Enter your name' required />
-                                          <Input title='Email' type='email' placeholder='Enter your email' required />
-                                          <Input title='Phone' type='tel' placeholder='Enter your number' required />
-                                          {/* <Input title='Product type' type='text' placeholder='Ex: T-shirt' required /> */}
-                                          <Input title='Product name' type='text' placeholder='Enter product name' required />
-                                          <div className='flex flex-col gap-2'>
-                                                <p className='font-semibold'>Product type <span className='text-red-500 font-bold text-lg'>{"*"}</span></p>
-                                                <select name="Select a type" id="" className='border border-black px-3 py-2 rounded-sm bg-gray-100 outline-none'>
-                                                      <option value="">New & unused</option>
-                                                      <option value="">New & used</option>
-                                                      <option value="">Old but unused</option>
-                                                      <option value="">Old & used</option>
-                                                </select>
-                                          </div>
-
+                                          <Input title='Full Name' type='text' lbl="Enter your name" />
+                                          <Input title='Email' type='email' lbl='Enter your email' required />
+                                          <Input title='Phone' type='tel' lbl='Enter your number' required />
+                                          <Input title='Product type' type='text' lbl='Ex: T-shirt' required />
+                                          <Input title='Product name' type='text' lbl='Enter product name' required />
+                                          <OptionInput
+                                                title='Product condition'
+                                                lbl='Chose condition'
+                                                state={pdCondition}
+                                                setState={setPdCondition}
+                                                options={['New & unused', 'New & used', 'Old but unused', 'Old & used']}
+                                          />
                                     </div>
+                                    <p className='font-semibold text-[#0A5174] mt-5'>Product image
+                                          {/* <span className='text-red-500 font-bold text-lg'>{"*"}</span> */}
+                                    </p>
+                                    <Button
+                                          className='mt-2'
+                                          variant="contained"
+                                          component="label"
+                                    >
+                                          Upload File
+                                          <input
+                                                type="file"
+                                                hidden
+                                          />
+                                    </Button>
+                                    {/* <div
+                                          className='w-full p-4 mt-2 bg-[#e7e7e7] border-b border-[#0A5174] rounded-t-[3px]'
+                                    >
+                                          Upload File
+                                          <input
+                                                className='w-full h-full invisible'
+                                                type="file"
+                                          // hidden
+                                          />
+                                    </div> */}
+                                    <h1 className='text-center text-[#0A5174] font-semibold text-lg mt-8'>Select your address carefully</h1>
+                                    <p className='text-center italic text-gray-500'>Recommended is manually</p>
+                                    <div className='w-full h-[1px] bg-[#0A5174] mt-2 mb-4'></div>
+
+                                    {/* Donate Address form below */}
+                                    <DonateAddForm />
                               </form>
                         </div>
                   </div>

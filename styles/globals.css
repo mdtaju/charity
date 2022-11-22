@@ -16,7 +16,7 @@ body {
 
 @layer components {
   .tail_navbar_link {
-    @apply cursor-pointer hover:text-[#0A5174] duration-150;
+    @apply cursor-pointer outline-1 outline-dashed outline-transparent hover:outline-[#0A5174] hover:text-[#0A5174] duration-150 p-1;
   }
   .tail_navbar_lan_link {
     @apply transform hover:text-[#0A5174] hover:translate-x-1 duration-150;
@@ -26,5 +26,17 @@ body {
   }
   .gap {
     @apply py-16
+  }
+
+  .default_select {
+    padding: 8px 12px;
+    color: #333;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .MuiInput-root {
+    height: 10px !important;
   }
 }

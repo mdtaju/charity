@@ -10,10 +10,6 @@ const WeDoChild = ({ image, title, description, raised, goal }) => {
                   <div className="p-4">
                         <h1 className='capitalize font-medium text-lg mb-3'>{title}</h1>
                         <p className='text-gray-400'>{description}</p>
-                        <div className='flex items-center justify-between mt-3 text-gray-600'>
-                              <p>Raised:{" "}<span className='font-bold'>${raised}</span></p>
-                              <p>Goal:{" "}<span className='font-bold'>${goal}</span></p>
-                        </div>
                         <button className='btn_primary mt-5'>donate</button>
                   </div>
             </div>

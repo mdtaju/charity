@@ -1,10 +1,21 @@
+import { TextField } from '@mui/material';
 import React from 'react';
 
-const Input = ({ title, ...rest }) => {
+const Input = ({ title, lbl, ...rest }) => {
+
       return (
             <div className='flex flex-col gap-2'>
-                  <p className='font-semibold'>{title} <span className='text-red-500 font-bold text-lg'>{"*"}</span></p>
-                  <input {...rest} className='border border-black px-3 py-2 rounded-sm bg-gray-100 outline-none' />
+                  <p className='font-semibold text-[#0A5174]'>{title}
+                        {/* <span className='text-red-500 font-bold text-lg'>{"*"}</span> */}
+                  </p>
+                  <TextField
+                        {...rest}
+                        required
+                        // id="contained"
+                        variant='filled'
+                        label={lbl}
+                        fullWidth
+                  />
             </div>
       );
 };

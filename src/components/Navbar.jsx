@@ -1,17 +1,20 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import React from 'react';
 import { AiFillCaretDown } from 'react-icons/ai';
 import { GrLanguage } from 'react-icons/gr';
-import logo from '../../public/resources/images/logo.png';
+import logo from '../../public/resources/images/logo.svg';
 import MobileNab from './MobileNab';
 
 // import styles from '../../styles/Navbar.module.scss';
 
 const Navbar = () => {
+      const useLink = useRouter();
+      // console.log(useLink);
 
       return (
-            <div className='bg-white w-full p-4 fixed top-0 right-0 left-0 shadow-md z-40'>
+            <div className='bg-white w-full p-4 md:py-3 md:px-4 fixed top-0 right-0 left-0 shadow-md z-40'>
                   <div className='container mx-auto flex justify-between items-center'>
                         <div className='hidden md:flex items-center gap-8'>
                               <Image src={logo} alt='charity-logo' />
