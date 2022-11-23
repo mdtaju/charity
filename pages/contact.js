@@ -1,11 +1,14 @@
 import React from 'react';
+import Contact from '../src/components/Contact/Contact';
+import DonateBanner from '../src/components/Donate/DonateBanner';
 import Layout from '../src/components/Layout';
 
 const contact = () => {
       return (
             <>
                   <Layout>
-                        <h1 className='mt-28 text-2xl'>Contact page coming soon</h1>
+                        <DonateBanner />
+                        <Contact />
                   </Layout>
             </>
       );
