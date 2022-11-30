@@ -14,6 +14,10 @@ body {
   font-family: 'Poppins', sans-serif !important;
 }
 
+/* @layer base{
+  --
+} */
+
 @layer components {
   .tail_navbar_link {
     @apply cursor-pointer outline-1 outline-dashed outline-transparent hover:outline-[#0A5174] hover:text-[#0A5174] duration-150 p-1;
@@ -38,5 +42,160 @@ body {
   }
   .MuiInput-root {
     height: 10px !important;
+  }
+  
+  /* admin dashboard style */
+  .admin_main_container {
+    @apply w-full min-h-screen;
+  }
+  .sidebar {
+    @apply w-[260px] h-full fixed top-0 left-0 bg-gray-100 z-30 duration-500 border-r border-gray-200;
+  }
+  .sidebar.close {
+    @apply w-[60px]
+  }
+/* logo container */
+.logo_title {
+  @apply text-lg font-bold text-[#0A5174] whitespace-nowrap duration-300 delay-100 ease-in
+}
+.sidebar.close .admin_logo_details .logo_title {
+  @apply opacity-0
+}
+/* admin dashboard navbar */
+.sidebar .sidebar_nav_links {
+  height: 100%;
+  padding: 30px 0px 150px 0px;
+  overflow: auto;
+  user-select: none;
+}
+.sidebar.close .sidebar_nav_links {
+  overflow: visible;
+}
+.sidebar .sidebar_nav_links::-webkit-scrollbar {
+  display: none;
+}
+li.sidebar_multiple_menu_li, li.sidebar_single_menu {
+  border-bottom: 1px solid lightgray;
+}
+.sidebar .sidebar_nav_links li {
+  position: relative;
+  list-style: none;
+  transition: all 0.4s ease;
+  cursor: pointer;
+  padding: 7px 12px;
+}
+.sidebar .sidebar_nav_links li:hover {
+  @apply bg-gray-300;
+}
+.sidebar_single_menu, .sidebar_multiple_menu {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  color: #444;
+}
+.sidebar .sidebar_nav_links li .sidebar_link_name {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 2px;
+  white-space: nowrap;
+  transition: all 0.4s ease;
+}
+.sidebar.close .sidebar_nav_links li .sidebar_link_name {
+  opacity: 0;
+  pointer-events: none;
+}
+.sidebar .sidebar_nav_links li .sidebar_icon_container, .sidebar .sidebar_nav_links li .sidebar_icon_link .arrow_icon_container {
+  height: 30px;
+  min-width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+/* admin dashboard multiple menu */
+.sidebar_icon_link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sidebar.close .sidebar_nav_links li .sidebar_icon_link {
+  display: block;
+}
+.sidebar .sidebar_nav_links li.showMenu .drop_arrow {
+transform: rotate(-180deg);
+}
+.sidebar.close .sidebar_nav_links li .sidebar_icon_link .arrow_icon_container {
+  display: none;
+}
+/* sub menu */
+.sidebar .sidebar_nav_links li .sidebar_sub_menu {
+  padding: 2px 0px;
+  display: none;
+}
+.sidebar .sidebar_nav_links li.showMenu .sidebar_sub_menu {
+  display: block;
+  padding-top: 5px;
+}
+.sidebar .sidebar_nav_links li.showMenu .sidebar_sub_menu li {
+  width: 100%;
+  font-size: 0.95rem;
+  padding: 7px 0px 7px 45px;
+  white-space: nowrap;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+.sidebar .sidebar_nav_links li.showMenu .sidebar_sub_menu li:hover {
+@apply bg-gray-400 rounded-md cursor-pointer
+}
+.sidebar.close .sidebar_nav_links li .sidebar_sub_menu {
+  position: absolute;
+  left: 100%;
+  top: -10px;
+  margin-top: 0;
+  border-radius: 0 6px 6px 0;
+  opacity: 0;
+  display: block;
+  pointer-events: none;
+  background: #D1D5DB;
+  transition: 0s;
+}
+.sidebar.close .sidebar_nav_links li .sidebar_sub_menu li {
+  @apply text-gray-700 py-[8px] px-[10px]
+}
+.sidebar.close .sidebar_nav_links li .sidebar_sub_menu li:hover {
+  @apply bg-gray-400
+}
+.sidebar.close .sidebar_nav_links li:hover .sidebar_sub_menu {
+  top: 0;
+  opacity: 1;
+  pointer-events: auto;
+  transition: all 0.4s ease;
+}
+
+.sidebar.close .sidebar_nav_links li .sidebar_sub_menu .sidebar_link_name {
+  font-size: 0.95rem;
+  opacity: 1;
+  display: block;
+}
+  /* admin dashboard hero section */
+  .admin_hero_section {
+    position: relative;
+    left: 260px;
+    min-height: 100vh;
+    width: calc(100% - 260px);
+    transition: all 0.5s ease;
+  }
+  .sidebar.close ~ .admin_hero_section {
+    left: 60px;
+    width: calc(100% - 60px);
+  }
+  /* profile track animation */
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
   }
 }

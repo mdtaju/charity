@@ -1,12 +1,20 @@
 import { FormControl, FormControlLabel, Radio, RadioGroup } from '@mui/material';
 import React, { useState } from 'react';
+import CharityGoogleMap from '../CharityGoogleMap';
 import Input from '../Input';
 import OptionInput from '../OptionInput';
 // import OptionInput from '../OptionInput';
 
-const DonateAddForm = () => {
-      const [cityName, setCityName] = useState('');
-      const [districtName, setDistrictName] = useState('');
+const DonateAddForm = ({
+      city,
+      setCity,
+      district,
+      setDistrict,
+      addressOne,
+      setAddressOne,
+      addressTwo,
+      setAddressTwo
+}) => {
       const [addSwitch, setAddSwitch] = useState('Manually');
 
       const handleChange = (event) => {
@@ -25,8 +33,8 @@ const DonateAddForm = () => {
                               <FormControlLabel value="Manually" control={<Radio />} label="Manually" />
                               <FormControlLabel
                                     control={<Radio />}
-                                    label="Automatic"
-                                    value="Automatic"
+                                    label="By Maps"
+                                    value="By Maps"
                               />
 
                         </RadioGroup>
@@ -37,23 +45,40 @@ const DonateAddForm = () => {
                                     <OptionInput
                                           title="City"
                                           lbl="Chose your city"
-                                          state={cityName}
-                                          setState={setCityName}
+                                          state={city}
+                                          setState={setCity}
                                           options={['city 1', 'city 2', 'city-3']}
 
                                     />
                                     <OptionInput
                                           title="District"
                                           lbl="Chose your district"
-                                          state={districtName}
-                                          setState={setDistrictName}
+                                          state={district}
+                                          setState={setDistrict}
                                           options={['district 1', 'district 2', 'district-3']}
 
                                     />
-                                    <Input title='Address line 1' type='text' lbl='Enter your address' required />
-                                    <Input title='Address line 2' type='text' lbl='Enter your address' required />
+                                    <Input
+                                          value={addressOne}
+                                          onChange={(e) => setAddressOne(e.target.value)}
+                                          title='Address line 1'
+                                          type='text'
+                                          lbl='Enter your address'
+                                          required
+                                    />
+                                    <Input
+                                          value={addressTwo}
+                                          onChange={(e) => setAddressTwo(e.target.value)}
+                                          title='Address line 2'
+                                          type='text'
+                                          lbl='Enter your address'
+                                          required
+                                    />
                               </div> :
-                              <p className='text-center my-8 text-2xl'>Google map is coming soon</p>
+                              <div className='w-full mt-4'>
+                                    <CharityGoogleMap />
+                                    {/* <MapVanilla /> */}
+                              </div>
                   }
                   <div className='mt-6'>
                         <label htmlFor="policy" className='cursor-pointer select-none'>

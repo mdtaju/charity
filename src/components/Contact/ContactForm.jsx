@@ -16,11 +16,6 @@ const ContactForm = () => {
                                     lbl="Enter you name"
                               />
                               <Input
-                                    type="email"
-                                    title="Email"
-                                    lbl="Enter you email"
-                              />
-                              <Input
                                     type="tel"
                                     title="Phone"
                                     lbl="Enter you name"

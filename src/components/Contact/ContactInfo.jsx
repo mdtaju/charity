@@ -2,8 +2,8 @@ import React from 'react';
 import { AiFillInstagram, AiFillYoutube, AiOutlineTwitter } from 'react-icons/ai';
 import { BsTelephone } from 'react-icons/bs';
 import { GrFacebookOption, GrMapLocation } from 'react-icons/gr';
-import { IoLogoSkype } from 'react-icons/io';
-import { TfiEmail } from 'react-icons/tfi';
+// import { IoLogoSkype } from 'react-icons/io';
+// import { TfiEmail } from 'react-icons/tfi';
 import ContactInfoChild from './ContactInfoChild';
 
 
@@ -11,7 +11,7 @@ const ContactInfo = () => {
       return (
             <div className='p-2'>
                   <div className='mb-4'>
-                        <h1 className='mb-2 capitalize font-medium text-xl text-[#0A5174]'>Interested in discussing?</h1>
+                        <h1 className='mb-2 capitalize font-medium text-xl text-[#0A5174]'>Get in touch with us</h1>
                         <div className='w-1/2 h-[1px] bg-[#0A5174]'></div>
                   </div>
                   <div className="flex flex-col gap-4">
@@ -25,14 +25,14 @@ const ContactInfo = () => {
                         <ContactInfoChild
                               Icon={GrMapLocation}
                               title="Our Office Location"
-                              info="#405, Lan Streen, Tabuk, KSA"
+                              info="Riyadh, 0580055000"
                         />
                         <ContactInfoChild
                               Icon={BsTelephone}
                               title="Contact Number"
-                              info="#405, Lan Streen, Tabuk, KSA"
+                              info="Hail 0561699222"
                         />
-                        <ContactInfoChild
+                        {/* <ContactInfoChild
                               Icon={TfiEmail}
                               title="Email Address"
                               info="#405, Lan Streen, Tabuk, KSA"
@@ -41,7 +41,7 @@ const ContactInfo = () => {
                               Icon={IoLogoSkype}
                               title="Make a Video Call"
                               info="#405, Lan Streen, Tabuk, KSA"
-                        />
+                        /> */}
                   </div>
             </div>
       );

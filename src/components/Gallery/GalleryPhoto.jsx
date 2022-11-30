@@ -3,6 +3,10 @@ import GImg1 from '../../../public/resources/images/gallery-1.jpg';
 import GImg2 from '../../../public/resources/images/gallery-2.jpg';
 import GImg3 from '../../../public/resources/images/gallery-3.jpg';
 import GImg4 from '../../../public/resources/images/gallery-4.jpg';
+import GImg5 from '../../../public/resources/images/gallery-5.jpg';
+import GImg6 from '../../../public/resources/images/gallery-6.jpg';
+import GImg7 from '../../../public/resources/images/gallery-7.jpg';
+import GImg8 from '../../../public/resources/images/gallery-8.jpg';
 import GalleryPtChild from './GalleryPtChild';
 
 const GalleryPhoto = () => {
@@ -26,16 +30,16 @@ const GalleryPhoto = () => {
                               image={GImg4}
                         />
                         <GalleryPtChild
-                              image={GImg1}
+                              image={GImg5}
                         />
                         <GalleryPtChild
-                              image={GImg2}
+                              image={GImg6}
                         />
                         <GalleryPtChild
-                              image={GImg3}
+                              image={GImg7}
                         />
                         <GalleryPtChild
-                              image={GImg4}
+                              image={GImg8}
                         />
                   </div>
             </div>

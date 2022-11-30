@@ -2,6 +2,7 @@ import React from 'react';
 import WeDoOne from '../../public/resources/images/we-do-1.jpg';
 import WeDoTwo from '../../public/resources/images/we-do-2.jpg';
 import WeDoThree from '../../public/resources/images/we-do-3.jpg';
+import WeDoFour from '../../public/resources/images/we-do-4.jpg';
 import WeDoChild from './WeDoChild';
 
 const WeDo = () => {
@@ -38,7 +39,7 @@ const WeDo = () => {
                                     goal='1500'
                               />
                               <WeDoChild
-                                    image={WeDoOne}
+                                    image={WeDoFour}
                                     title='Our Upcoming work'
                                     description='Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi, numquam.'
                                     raised='300'
