@@ -99,11 +99,11 @@ ColorlibStepIcon.propTypes = {
 
 const steps = ['Your Donation', 'Handover', 'Warehouse', 'Poor People'];
 
-export default function CustomizedSteppers() {
+export default function CustomizedSteppers({ TrackStatus = 0 }) {
       return (
-            <div className='overflow-scroll sm:overflow-hidden py-6'>
+            <div className='overflow-scroll sm:overflow-hidden py-6 w-full'>
                   <Stack sx={{ width: '100%' }} spacing={4}>
-                        <Stepper alternativeLabel activeStep={2} connector={<ColorlibConnector />}>
+                        <Stepper alternativeLabel activeStep={TrackStatus} connector={<ColorlibConnector />}>
                               {steps.map((label) => (
                                     <Step key={label}>
                                           <StepLabel StepIconComponent={ColorlibStepIcon}>{label}</StepLabel>

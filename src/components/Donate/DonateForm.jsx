@@ -1,39 +1,90 @@
-import React, { useState } from 'react';
+import { Snackbar } from '@mui/material';
+import axios from 'axios';
+import React, { useEffect, useState } from 'react';
+import { locations } from '../../config/locations';
 import Input from '../Input';
 import OptionInput from '../OptionInput';
 import DonateAddForm from './DonateAddForm';
 
 const DonateForm = () => {
-      const [UserName, setUserName] = useState("");
-      const [Phone, setPhone] = useState("");
-      const [ProductName, setProductName] = useState("");
-      const [ProductCondition, setProductCondition] = useState("");
-      const [City, setCity] = useState("");
-      const [District, setDistrict] = useState("");
-      const [AddressOne, setAddressOne] = useState("");
-      const [AddressTwo, setAddressTwo] = useState("");
-      const handleFormSubmit = (e) => {
-            e.preventDefault();
-            const convertPhone = +Phone;
-            const allData = {
-                  name: UserName,
-                  phone: convertPhone,
-                  productName: ProductName,
-                  productCondition: ProductCondition,
-                  city: City,
-                  district: District,
-                  addressOne: AddressOne,
-                  addressTwo: AddressTwo
+      const [fullName, setFullName] = useState("");
+      const [phone, setPhone] = useState("");
+      const [productName, setProductName] = useState("");
+      const [productCondition, setProductCondition] = useState("");
+      const [city, setCity] = useState("");
+      const [district, setDistrict] = useState("");
+      const [address, setAddress] = useState("");
+      const [region, setRegion] = useState("");
+      const [latNum, setLatNum] = useState("");
+      const [longNum, setLongNum] = useState("");
+      const [trackStatus, setTrackStatus] = useState(0);
+      const [allRegion, setAllRegion] = useState([]);
+      const [allCity, setAllCity] = useState([]);
+      const [allDistrict, setAllDistrict] = useState([]);
+      const [snakeState, setSnakeState] = useState({
+            open: false,
+            vertical: 'top',
+            horizontal: 'center',
+            mss: ""
+      });
+      useEffect(() => {
+            setAllCity([]);
+            setAllDistrict([]);
+            const getAllRegion = locations.filter((item, i, arr) => i === arr.findIndex((t) => (t.regionEnglishName === item.regionEnglishName)));
+            setAllRegion(getAllRegion);
+            if (region) {
+                  const getAllLocation = locations.filter((item) => item.regionEnglishName === region);
+                  const getAllCity = getAllLocation.filter((item, i, arr) => i === arr.findIndex((t) => (t.cityEnglishName === item.cityEnglishName)));
+                  setAllCity(getAllCity)
             }
-            console.log(allData)
-            setUserName("");
+            if (city) {
+                  const getAllLocation = locations.filter((item) => item.cityEnglishName === city);
+                  const getAllDistrict = getAllLocation.filter((item, i, arr) => i === arr.findIndex((t) => (t.districtEnglishName === item.districtEnglishName)));
+                  setAllDistrict(getAllDistrict);
+            }
+      }, [region, city])
+
+      const { vertical, horizontal, open, mss } = snakeState;
+      const handleClose = () => {
+            setSnakeState({ ...snakeState, open: false });
+      };
+      const handleFormSubmit = async (e) => {
+            e.preventDefault();
+            if (phone.length !== 9) {
+                  setSnakeState({ ...snakeState, open: true, mss: 'Phone number should be 9 digits.' });
+                  return;
+            }
+            const getDate = Date.now();
+            const convertPhone = +phone;
+            const track = Math.floor(Math.random() * (convertPhone - 9999) + 9999);
+            const allData = {
+                  fullName,
+                  phone,
+                  productName,
+                  productCondition,
+                  region,
+                  city,
+                  district,
+                  address,
+                  latNum,
+                  longNum,
+                  trackID: track,
+                  trackStatus,
+                  date: getDate
+            }
+            const res = await axios.post("/api/donations", allData);
+            console.log(res);
+
+            setFullName("");
             setPhone("");
             setProductName("");
+            setAddress("");
+            setLatNum("");
+            setLongNum("");
             setProductCondition("");
             setCity("");
             setDistrict("");
-            setAddressOne("");
-            setAddressTwo("");
+            setRegion("");
       }
       return (
             <div className='gap'>
@@ -44,21 +95,27 @@ const DonateForm = () => {
                                     <p className='text-gray-500 italic'>Please fill the form below</p>
                                     <div className='w-1/2 h-[1px] bg-[#0A5174] mx-auto'></div>
                               </div>
+                              <Snackbar
+                                    anchorOrigin={{ vertical, horizontal }}
+                                    open={open}
+                                    onClose={handleClose}
+                                    message={mss}
+                                    key={vertical + horizontal}
+                              />
                               <form onSubmit={handleFormSubmit}>
                                     <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8'>
                                           <Input
                                                 title='Full Name'
                                                 type='text'
                                                 lbl="Enter your name"
-                                                value={UserName}
-                                                onChange={(e) => setUserName(e.target.value)}
+                                                value={fullName}
+                                                onChange={(e) => setFullName(e.target.value)}
                                           />
-                                          {/* <Input title='Email' type='email' lbl='Enter your email' required /> */}
                                           <Input
                                                 title='Phone'
-                                                type='tel'
+                                                type='number'
                                                 lbl='Enter your number'
-                                                value={Phone}
+                                                value={phone}
                                                 onChange={(e) => setPhone(e.target.value)}
                                           />
                                           {/* <Input title='Product type' type='text' lbl='Ex: T-shirt' required /> */}
@@ -66,13 +123,13 @@ const DonateForm = () => {
                                                 title='Product name'
                                                 type='text'
                                                 lbl='Enter product name'
-                                                value={ProductName}
+                                                value={productName}
                                                 onChange={(e) => setProductName(e.target.value)}
                                           />
                                           <OptionInput
                                                 title='Product condition'
                                                 lbl='Chose condition'
-                                                state={ProductCondition}
+                                                state={productCondition}
                                                 setState={setProductCondition}
                                                 options={['New & unused', 'New & used', 'Old but unused', 'Old & used']}
                                           />
@@ -107,14 +164,17 @@ const DonateForm = () => {
 
                                     {/* Donate Address form below */}
                                     <DonateAddForm
-                                          city={City}
+                                          city={city}
                                           setCity={setCity}
-                                          district={District}
+                                          district={district}
                                           setDistrict={setDistrict}
-                                          addressOne={AddressOne}
-                                          setAddressOne={setAddressOne}
-                                          addressTwo={AddressTwo}
-                                          setAddressTwo={setAddressTwo}
+                                          region={region}
+                                          setRegion={setRegion}
+                                          address={address}
+                                          setAddress={setAddress}
+                                          allRegion={allRegion}
+                                          allCity={allCity}
+                                          allDistrict={allDistrict}
                                     />
                               </form>
                         </div>

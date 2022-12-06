@@ -1,4 +1,4 @@
-import { Box } from '@mui/material';
+import { Box, ListItemIcon } from '@mui/material';
 import Button from '@mui/material/Button';
 import Divider from '@mui/material/Divider';
 import Drawer from '@mui/material/Drawer';
@@ -9,8 +9,11 @@ import ListItemText from '@mui/material/ListItemText';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import { AiFillCaretDown, AiFillCloseCircle } from 'react-icons/ai';
+import { AiFillCaretDown, AiFillCloseCircle, AiOutlineHome } from 'react-icons/ai';
 import { HiMenuAlt3 } from 'react-icons/hi';
+// import { ImInfo } from 'react-icons/im';
+// import { GrContact } from 'react-icons/gr';
+// import { FaHandHoldingWater } from 'react-icons/fa';
 import logo from '../../public/resources/images/logo.png';
 
 const label = { inputProps: { 'aria-label': 'Switch demo' } };
@@ -32,15 +35,15 @@ const MobileNab = () => {
                   onClick={toggleDrawer(anchor, false)}
                   onKeyDown={toggleDrawer(anchor, false)}
             >
-                  <Button onClick={toggleDrawer(anchor, false)} style={{ float: 'right' }}><AiFillCloseCircle className='text-2xl text-red-600' /></Button>
+                  <Button onClick={toggleDrawer(anchor, false)} style={{ float: 'right' }}><AiFillCloseCircle className='text-2xl text-red-600 mb-6' /></Button>
 
                   <List>
                         <Link href={'/'}>
                               <ListItem disablePadding >
                                     <ListItemButton>
-                                          {/* <ListItemIcon>
-                                                <span>About</span>
-                                          </ListItemIcon> */}
+                                          <ListItemIcon>
+                                                <AiOutlineHome />
+                                          </ListItemIcon>
                                           <ListItemText primary={'Home'} />
                                     </ListItemButton>
                               </ListItem>

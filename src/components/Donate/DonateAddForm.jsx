@@ -1,22 +1,46 @@
 import { FormControl, FormControlLabel, Radio, RadioGroup } from '@mui/material';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import CharityGoogleMap from '../CharityGoogleMap';
 import Input from '../Input';
 import OptionInput from '../OptionInput';
-// import OptionInput from '../OptionInput';
 
 const DonateAddForm = ({
+      region,
+      setRegion,
       city,
       setCity,
       district,
       setDistrict,
-      addressOne,
-      setAddressOne,
-      addressTwo,
-      setAddressTwo
+      address,
+      setAddress,
+      allRegion,
+      allCity,
+      allDistrict
 }) => {
       const [addSwitch, setAddSwitch] = useState('Manually');
-
+      const [locationRegion, setLocationRegion] = useState([])
+      const [locationCity, setLocationCity] = useState([]);
+      const [locationDistrict, setLocationDistrict] = useState([]);
+      useEffect(() => {
+            let region = [];
+            let city = [];
+            let district = [];
+            for (let i = 0; i < allRegion.length; i++) {
+                  const element = allRegion[i];
+                  region.push(element.regionEnglishName);
+            }
+            for (let i = 0; i < allCity.length; i++) {
+                  const element = allCity[i];
+                  city.push(element.cityEnglishName);
+            }
+            for (let i = 0; i < allDistrict.length; i++) {
+                  const element = allDistrict[i];
+                  district.push(element.districtEnglishName);
+            }
+            setLocationRegion(region)
+            setLocationCity(city)
+            setLocationDistrict(district)
+      }, [allRegion, allCity, allDistrict])
       const handleChange = (event) => {
             setAddSwitch(event.target.value);
       };
@@ -43,33 +67,31 @@ const DonateAddForm = ({
                         addSwitch === 'Manually' ?
                               <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8'>
                                     <OptionInput
+                                          title="Region"
+                                          lbl="Chose your region"
+                                          state={region}
+                                          setState={setRegion}
+                                          options={locationRegion}
+
+                                    />
+                                    <OptionInput
                                           title="City"
                                           lbl="Chose your city"
                                           state={city}
                                           setState={setCity}
-                                          options={['city 1', 'city 2', 'city-3']}
-
+                                          options={locationCity}
                                     />
                                     <OptionInput
                                           title="District"
                                           lbl="Chose your district"
                                           state={district}
                                           setState={setDistrict}
-                                          options={['district 1', 'district 2', 'district-3']}
-
+                                          options={locationDistrict}
                                     />
                                     <Input
-                                          value={addressOne}
-                                          onChange={(e) => setAddressOne(e.target.value)}
-                                          title='Address line 1'
-                                          type='text'
-                                          lbl='Enter your address'
-                                          required
-                                    />
-                                    <Input
-                                          value={addressTwo}
-                                          onChange={(e) => setAddressTwo(e.target.value)}
-                                          title='Address line 2'
+                                          value={address}
+                                          onChange={(e) => setAddress(e.target.value)}
+                                          title='Address'
                                           type='text'
                                           lbl='Enter your address'
                                           required

@@ -1,12 +1,28 @@
+import { Avatar, Popover } from '@mui/material';
 import Badge from '@mui/material/Badge';
 import React from 'react';
 import { AiFillCaretDown } from 'react-icons/ai';
-import { CgProfile } from 'react-icons/cg';
+// import { CgProfile } from 'react-icons/cg';
 import { FiArrowLeftCircle } from 'react-icons/fi';
 import { GrLanguage } from 'react-icons/gr';
 import { HiOutlineBell } from 'react-icons/hi';
 
 const AdminTopNav = ({ handler }) => {
+      const [anchorEl, setAnchorEl] = React.useState(null);
+
+      const handleClick = (event) => {
+            setAnchorEl(event.currentTarget);
+      };
+
+      const handleClose = () => {
+            setAnchorEl(null);
+      };
+      const goProfile = () => {
+            router.replace(`/profile`)
+      }
+
+      const open = Boolean(anchorEl);
+      const id = open ? 'simple-popover' : undefined;
       return (
             <div className='sticky top-0 right-0 w-full h-[60px] bg-white border-b border-gray-200 py-2 px-4 flex justify-between items-center z-40'>
                   <div className='flex gap-4 items-center text-2xl'>
@@ -34,10 +50,38 @@ const AdminTopNav = ({ handler }) => {
                               </Badge>
                         </li>
                         <li className='cursor-pointer flex items-center gap-2'>
-                              <CgProfile className='text-2xl' />
+                              {/* <CgProfile className='text-2xl' /> */}
                               <div className='flex flex-col w-fit h-fit'>
-                                    <p className='text-sm font-semibold text-[#0A5174]'>Jon Doe</p>
-                                    <p className='text-xs font-semibold text-gray-500'>Admin</p>
+                                    <Avatar
+                                          aria-describedby={id}
+                                          variant="contained"
+                                          onClick={handleClick}
+                                          className="cursor-pointer"
+                                    // src={currentUser.photoUrl}
+                                    >admin</Avatar>
+                                    <Popover
+                                          className='w-[300px]'
+                                          id={id}
+                                          open={open}
+                                          anchorEl={anchorEl}
+                                          onClose={handleClose}
+                                          elevation={16}
+                                          anchorOrigin={{
+                                                vertical: 'bottom',
+                                                horizontal: 'right',
+                                          }}
+                                          transformOrigin={{
+                                                vertical: 'top',
+                                                horizontal: 'right',
+                                          }}
+                                    >
+                                          <div className='px-4 py-6 flex flex-col gap-4 w-[180px]'>
+                                                <div>
+                                                      <p className='text-base text-[#0A5174] font-semibold text-center truncate'>name </p>
+                                                </div>
+                                                <button className='btn_primary rounded-full' >Logout</button>
+                                          </div>
+                                    </Popover>
                               </div>
                         </li>
                   </ul>
