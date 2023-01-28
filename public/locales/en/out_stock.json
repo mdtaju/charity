@@ -1,0 +1,14 @@
+{
+      "stockOutMainTitle": "Update Warehouse (Stock out).",
+      "stockOutInputTitle": "SKU Number",
+      "stockOutInputLbl": "Enter SKU Number",
+      "stockOutInputTwoTitle": "Reason",
+      "stockOutInputTwoLbl": "Select a reason",
+      "stockOutInputThreeTitle": "Comment",
+      "stockOutInputThreeLbl": "Write a comment",
+      "stockOutInputFourTitle": "Price",
+      "stockOutInputFourLbl": "Enter the price",
+      "stockOutInputBtn": "Submit",
+      "stockOutSccMss": "Successfully update database.",
+      "stockOutErrMss": "Something went wrong. Please try again."
+}

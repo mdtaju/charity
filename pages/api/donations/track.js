@@ -11,15 +11,24 @@ export default async function handler(req, res) {
 
 const getFromDatabase = async (req, res) => {
       try {
-            const { trackNumber, trackType } = req.body;
-            if (trackType === 'phone') {
-                  const [result] = await pool.query("SELECT * FROM donations WHERE phone = ?", [trackNumber]);
-                  console.log(result)
-                  return res.status(200).json(result)
-            } else {
-                  const [result] = await pool.query("SELECT * FROM donations WHERE trackID = ?", [trackNumber]);
-                  return res.status(200).json(result)
+            const { trackNumber, trackType } = await req.body;
+            switch (trackType) {
+                  case "phone":
+                        const [result] = await pool.query("SELECT * FROM donations WHERE phone = ?", [trackNumber]);
+                        return res.status(200).json(result)
+                  case "trackId":
+                        const [results] = await pool.query("SELECT * FROM donations WHERE id = ?", [trackNumber]);
+                        return res.status(200).json(results)
+                  default:
+                        return
             }
+            // if (trackType === 'phone') {
+            //       const [result] = await pool.query("SELECT * FROM donations WHERE phone = ?", [trackNumber]);
+            //       return res.status(200).json(result)
+            // } else {
+            //       const [result] = await pool.query("SELECT * FROM donations WHERE id = ?", [trackNumber]);
+            //       return res.status(200).json(result)
+            // }
       } catch (error) {
             return res.status(500).json(error)
       }

@@ -1,0 +1,9 @@
+{
+      "generateSKUMainTitle": "إنشاء SKU",
+      "generateSKUInputTitle": "SKU's",
+      "generateSKUInputLbl": "الرجاء إدخال الكميات",
+      "generateSKUInputBtn": "انشاء",
+      "generateSKUDownloadBtn": "تنزيل وإرسال إلى قاعدة البيانات",
+      "generateSKUSssMss": "أرسل بنجاح إلى قاعدة البيانات.",
+      "generateSKUErrMss": "هناك خطأ ما. حاول مرة اخرى."
+}

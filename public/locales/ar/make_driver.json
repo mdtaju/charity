@@ -1,0 +1,14 @@
+{
+      "makeDriverTitle": "اصنع سائقا",
+      "makeDriverInputOneTitle": "الاسم بالكامل",
+      "makeDriverInputOneLbl": "أدخل اسم السائق",
+      "makeDriverInputTwoTitle": "هاتف",
+      "makeDriverInputTwoLbl": "أدخل هاتف السائق",
+      "makeDriverInputThreeTitle": "كلمة المرور",
+      "makeDriverInputThreeLbl": "أدخل كلمة المرور",
+      "makeDriverInputFourTitle": "موقع",
+      "makeDriverInputFourLbl": "أدخل موقع السائق",
+      "makeDriverInputBtn": "إرسال",
+      "makeDriverInputScssMss": "أدخلت بنجاح.",
+      "makeDriverInputErrMss": "هناك خطأ ما. حاول مرة اخرى"
+}

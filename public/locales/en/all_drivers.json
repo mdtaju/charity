@@ -1,0 +1,25 @@
+{
+      "allDriversMainTitle": "All Drivers",
+      "allDriversUpBtn": "Update",
+      "allDriversDelBtn": "Delete",
+      "allDriversUpDlgInOneTitle": "Full Name",
+      "allDriversUpDlgInOneLbl": "Enter driver name",
+      "allDriversUpDlgInTwoTitle": "Phone",
+      "allDriversUpDlgInTwoLbl": "Enter driver phone",
+      "allDriversUpDlgInThreeTitle": "Password",
+      "allDriversUpDlgInThreeLbl": "Enter a password",
+      "allDriversUpDlgInFourTitle": "Location",
+      "allDriversUpDlgInFourLbl": "Enter driver location",
+      "allDriverUpDlgInBtn": "Submit",
+      "allDriverDelDlgBtn": "Confirm to delete",
+      "allDriverDelDlgTitle": "Driver No",
+      "allDriverTableHeaderOne": "Name",
+      "allDriverTableHeaderTwo": "Phone",
+      "allDriverTableHeaderThree": "Password",
+      "allDriverTableHeaderFour": "Location",
+      "allDriverTableHeaderFive": "Date",
+
+      "allDriverDlgDelMss": "Successfully deleted.",
+      "allDriverWrongMss": "Something went wrong. Please try again",
+      "allDriverDlgUpSccMss": "Your update successfully done."
+}

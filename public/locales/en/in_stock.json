@@ -1,0 +1,12 @@
+{
+      "inStockMainTitle": "Update Warehouse (In Stock).",
+      "inStockInputOneTitle": "SKU Number",
+      "inStockInputOneLbl": "Enter SKU Number",
+      "inStockInputTwoTitle": "Condition",
+      "inStockInputTwoLbl": "Select product condition",
+      "inStockInputThreeTitle": "Category",
+      "inStockInputThreeLbl": "Select product category",
+      "inStockInputBtn": "Submit",
+      "inputStockSccMss": "Successfully update database.",
+      "inputStockErrMss": "Something went wrong. Please try again."
+}

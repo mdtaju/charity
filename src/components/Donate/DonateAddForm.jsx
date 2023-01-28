@@ -1,12 +1,13 @@
 import { FormControl, FormControlLabel, Radio, RadioGroup } from '@mui/material';
+import { useTranslation } from 'next-i18next';
+import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
-import CharityGoogleMap from '../CharityGoogleMap';
+import AutoOptionInput from '../AutoOptionInput';
+// import CharityGoogleMap from '../CharityGoogleMap';
+import OpenMap from '../GoogleMap/OpenMap';
 import Input from '../Input';
-import OptionInput from '../OptionInput';
 
 const DonateAddForm = ({
-      region,
-      setRegion,
       city,
       setCity,
       district,
@@ -15,32 +16,42 @@ const DonateAddForm = ({
       setAddress,
       allRegion,
       allCity,
-      allDistrict
+      allDistrict,
+      selectPosition,
+      setSelectPosition,
+      addSwitch,
+      setAddSwitch
 }) => {
-      const [addSwitch, setAddSwitch] = useState('Manually');
-      const [locationRegion, setLocationRegion] = useState([])
+      const { t } = useTranslation("donate");
       const [locationCity, setLocationCity] = useState([]);
       const [locationDistrict, setLocationDistrict] = useState([]);
+      const router = useRouter();
+      // const [selectPosition, setSelectPosition] = useState(null);
       useEffect(() => {
-            let region = [];
             let city = [];
             let district = [];
-            for (let i = 0; i < allRegion.length; i++) {
-                  const element = allRegion[i];
-                  region.push(element.regionEnglishName);
+            if (router.locale === "en") {
+                  for (let i = 0; i < allCity.length; i++) {
+                        const element = allCity[i];
+                        city.push(element.cityEnglishName);
+                  }
+                  for (let i = 0; i < allDistrict.length; i++) {
+                        const element = allDistrict[i];
+                        district.push(element.districtEnglishName);
+                  }
+            } else {
+                  for (let i = 0; i < allCity.length; i++) {
+                        const element = allCity[i];
+                        city.push(element.cityArabicName);
+                  }
+                  for (let i = 0; i < allDistrict.length; i++) {
+                        const element = allDistrict[i];
+                        district.push(element.districtArabicName);
+                  }
             }
-            for (let i = 0; i < allCity.length; i++) {
-                  const element = allCity[i];
-                  city.push(element.cityEnglishName);
-            }
-            for (let i = 0; i < allDistrict.length; i++) {
-                  const element = allDistrict[i];
-                  district.push(element.districtEnglishName);
-            }
-            setLocationRegion(region)
             setLocationCity(city)
             setLocationDistrict(district)
-      }, [allRegion, allCity, allDistrict])
+      }, [allRegion, allCity, allDistrict, router])
       const handleChange = (event) => {
             setAddSwitch(event.target.value);
       };
@@ -54,61 +65,65 @@ const DonateAddForm = ({
                               value={addSwitch}
                               onChange={handleChange}
                         >
-                              <FormControlLabel value="Manually" control={<Radio />} label="Manually" />
                               <FormControlLabel
                                     control={<Radio />}
-                                    label="By Maps"
+                                    label={t("donateAddFormMap")}
                                     value="By Maps"
                               />
+                              <FormControlLabel value="Manually" control={<Radio />} label={t("donateAddFormManually")} />
 
                         </RadioGroup>
                   </FormControl>
                   {
                         addSwitch === 'Manually' ?
                               <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8'>
-                                    <OptionInput
-                                          title="Region"
-                                          lbl="Chose your region"
-                                          state={region}
-                                          setState={setRegion}
-                                          options={locationRegion}
-
-                                    />
-                                    <OptionInput
-                                          title="City"
-                                          lbl="Chose your city"
+                                    <AutoOptionInput
+                                          title={t("donateAddInputCity")}
+                                          locations={locationCity}
+                                          lbl={t("donationAddInputCityLbl")}
                                           state={city}
                                           setState={setCity}
-                                          options={locationCity}
                                     />
-                                    <OptionInput
+                                    <AutoOptionInput
+                                          title={t("donateAddInputDistrict")}
+                                          lbl={t("donationAddInputDistrictLbl")}
+                                          locations={locationDistrict}
+                                          state={district}
+                                          setState={setDistrict}
+                                    />
+                                    {/* <OptionInput
                                           title="District"
                                           lbl="Chose your district"
                                           state={district}
                                           setState={setDistrict}
                                           options={locationDistrict}
-                                    />
+                                    /> */}
                                     <Input
                                           value={address}
                                           onChange={(e) => setAddress(e.target.value)}
-                                          title='Address'
+                                          title={t("donateAddInputAddTitle")}
                                           type='text'
-                                          lbl='Enter your address'
+                                          lbl={t("donateAddInputAddLabel")}
                                           required
                                     />
-                              </div> :
+                              </div>
+                              :
                               <div className='w-full mt-4'>
-                                    <CharityGoogleMap />
-                                    {/* <MapVanilla /> */}
+                                    <OpenMap
+                                          selectPosition={selectPosition}
+                                          setSelectPosition={setSelectPosition}
+                                    />
+                                    {/* <CharityGoogleMap /> */}
                               </div>
                   }
-                  <div className='mt-6'>
+
+                  {/* <div className='mt-6'>
                         <label htmlFor="policy" className='cursor-pointer select-none'>
                               <input type="checkbox" name="" id="policy" />
-                              <span className='text-gray-500 italic'> I agree to the Terms & Conditions</span>
+                              <span className='text-gray-500 italic'> {t("donateAddTerms")}</span>
                         </label>
-                  </div>
-                  <button className='btn_primary w-full mt-6 py-3' type='submit'>Submit</button>
+                  </div> */}
+                  <button className='btn_primary w-full mt-6 py-3' type='submit'>{t("donateAddSubmit")}</button>
             </>
       );
 };

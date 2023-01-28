@@ -4,7 +4,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العمل",
     districtEnglishName: "Al Amal"
   },
@@ -13,7 +13,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النموذجية",
     districtEnglishName: "Al Namudhajiyah"
   },
@@ -22,7 +22,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الجرادية",
     districtEnglishName: "Al Jarradiyah"
   },
@@ -31,7 +31,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الصناعية",
     districtEnglishName: "Al Sinaiyah"
   },
@@ -40,7 +40,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "منفوحة الجديدة",
     districtEnglishName: "Manfuha Al Jadidah"
   },
@@ -49,7 +49,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفاخرية",
     districtEnglishName: "Al Fakhiriyah"
   },
@@ -58,7 +58,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الديرة",
     districtEnglishName: "Al Dirah"
   },
@@ -67,7 +67,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ام الحمام الشرقي",
     districtEnglishName: "East Umm Al Hamam"
   },
@@ -76,7 +76,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الشرفية",
     districtEnglishName: "Al Sharafiyah"
   },
@@ -85,7 +85,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -94,7 +94,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المعذر الشمالي",
     districtEnglishName: "North Mathar"
   },
@@ -103,7 +103,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ام الحمام الغربي",
     districtEnglishName: "West Umm Al Hamam"
   },
@@ -112,7 +112,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرحمانية",
     districtEnglishName: "Ar Rahmaniyah"
   },
@@ -121,7 +121,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "لبن",
     districtEnglishName: "Laban"
   },
@@ -130,7 +130,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -139,7 +139,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الشهداء",
     districtEnglishName: "Al Shohda"
   },
@@ -148,7 +148,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -157,7 +157,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السويدي",
     districtEnglishName: "Al Suwaidi"
   },
@@ -166,7 +166,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -175,7 +175,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "عتيقة",
     districtEnglishName: "Utayqah"
   },
@@ -184,7 +184,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المربع",
     districtEnglishName: "Al Murabba"
   },
@@ -193,7 +193,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفلاح",
     districtEnglishName: "Al Falah"
   },
@@ -202,7 +202,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الندى",
     districtEnglishName: "Al Nada"
   },
@@ -211,7 +211,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المرسلات",
     districtEnglishName: "Al Mursalat"
   },
@@ -220,7 +220,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzha"
   },
@@ -229,7 +229,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الورود",
     districtEnglishName: "Al Woroud"
   },
@@ -238,7 +238,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملك فيصل",
     districtEnglishName: "King Faisal"
   },
@@ -247,7 +247,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المدينة الصناعية الثانية",
     districtEnglishName: "2nd Industrial City"
   },
@@ -256,7 +256,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -265,7 +265,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المنصورة",
     districtEnglishName: "Al Mansurah"
   },
@@ -274,7 +274,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "غبيرة",
     districtEnglishName: "Ghobairah"
   },
@@ -283,7 +283,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farooq"
   },
@@ -292,7 +292,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -301,7 +301,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -310,7 +310,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazeerah"
   },
@@ -319,7 +319,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السعادة",
     districtEnglishName: "Al Saadah"
   },
@@ -328,7 +328,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الناصرية",
     districtEnglishName: "Al Nasiriyah"
   },
@@ -337,7 +337,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المناخ",
     districtEnglishName: "Al Manakh"
   },
@@ -346,7 +346,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدفاع",
     districtEnglishName: "Al Difaa"
   },
@@ -355,7 +355,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النور",
     districtEnglishName: "Al Noor"
   },
@@ -364,7 +364,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -373,7 +373,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -382,7 +382,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "صلاح الدين",
     districtEnglishName: "Salahuddin"
   },
@@ -391,7 +391,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -400,7 +400,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الوزارات",
     districtEnglishName: "Al Wizarat"
   },
@@ -409,7 +409,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "سكيرينة",
     districtEnglishName: "Skirinah"
   },
@@ -418,7 +418,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -427,7 +427,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "جرير",
     districtEnglishName: "Jareer"
   },
@@ -436,7 +436,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المعذر",
     districtEnglishName: "Al Mathar"
   },
@@ -445,7 +445,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -454,7 +454,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملز",
     districtEnglishName: "Al Malaz"
   },
@@ -463,7 +463,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "منفوحة",
     districtEnglishName: "Manfuhah"
   },
@@ -472,7 +472,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "عليشة",
     districtEnglishName: "Olaishah"
   },
@@ -481,7 +481,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -490,7 +490,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khaleej"
   },
@@ -499,7 +499,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الضباط",
     districtEnglishName: "Al Dhubbat"
   },
@@ -508,7 +508,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السويدي الغربي",
     districtEnglishName: "West Suwaidi"
   },
@@ -517,7 +517,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ديراب",
     districtEnglishName: "Dirab"
   },
@@ -526,7 +526,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "احد",
     districtEnglishName: "Ohod"
   },
@@ -535,7 +535,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "نمار",
     districtEnglishName: "Namar"
   },
@@ -544,7 +544,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الشفا",
     districtEnglishName: "Al Shifa"
   },
@@ -553,7 +553,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -562,7 +562,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السليمانية",
     districtEnglishName: "Al Sulaimaniyah"
   },
@@ -571,7 +571,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -580,7 +580,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "عكاظ",
     districtEnglishName: "Okaz"
   },
@@ -589,7 +589,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "شبرا",
     districtEnglishName: "Shubra"
   },
@@ -598,7 +598,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الزهرة",
     districtEnglishName: "Al Zahrah"
   },
@@ -607,7 +607,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "صياح",
     districtEnglishName: "Siyah"
   },
@@ -616,7 +616,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -625,7 +625,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -634,7 +634,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -643,7 +643,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المصانع",
     districtEnglishName: "Al Masani"
   },
@@ -652,7 +652,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -661,7 +661,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -670,7 +670,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -679,7 +679,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدريهمية",
     districtEnglishName: "Al Duraihemiyah"
   },
@@ -688,7 +688,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -697,7 +697,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -706,7 +706,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -715,7 +715,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النسيم الشرقي",
     districtEnglishName: "East Naseem"
   },
@@ -724,7 +724,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -733,7 +733,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -742,7 +742,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النفل",
     districtEnglishName: "Al Nafel"
   },
@@ -751,7 +751,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Maseef"
   },
@@ -760,7 +760,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "التعاون",
     districtEnglishName: "Al Taawun"
   },
@@ -769,7 +769,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الازدهار",
     districtEnglishName: "Al Ezdihar"
   },
@@ -778,7 +778,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -787,7 +787,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -796,7 +796,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الروابي",
     districtEnglishName: "Al Rawabi"
   },
@@ -805,7 +805,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الريان",
     districtEnglishName: "Al Rayan"
   },
@@ -814,7 +814,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ظهرة البديعة",
     districtEnglishName: "Dhahrat Al Badeah"
   },
@@ -823,7 +823,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النظيم",
     districtEnglishName: "Al Nadheem"
   },
@@ -832,7 +832,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرماية",
     districtEnglishName: "Al Rimayah"
   },
@@ -841,7 +841,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "البرية",
     districtEnglishName: "Al Bariyah"
   },
@@ -850,7 +850,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "طيبة",
     districtEnglishName: "Taybah"
   },
@@ -859,7 +859,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المنصورية",
     districtEnglishName: "Mansuriyah"
   },
@@ -868,7 +868,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ضاحية نمار",
     districtEnglishName: "Dahiyat Namar"
   },
@@ -877,7 +877,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المصفاة",
     districtEnglishName: "Al Misfat"
   },
@@ -886,7 +886,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السفارات",
     districtEnglishName: "Assafarat"
   },
@@ -895,7 +895,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "خشم العان",
     districtEnglishName: "Khashm Al An"
   },
@@ -904,7 +904,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -913,7 +913,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "طويق",
     districtEnglishName: "Tuwaiq"
   },
@@ -922,7 +922,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العوالي",
     districtEnglishName: "Al Awaly"
   },
@@ -931,7 +931,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -940,7 +940,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المغرزات",
     districtEnglishName: "Al Mughrazat"
   },
@@ -949,7 +949,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السلي",
     districtEnglishName: "Al Sulay"
   },
@@ -958,7 +958,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqeeq"
   },
@@ -967,7 +967,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakheel"
   },
@@ -976,7 +976,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadeer"
   },
@@ -985,7 +985,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -994,7 +994,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العود",
     districtEnglishName: "Al Oud"
   },
@@ -1003,7 +1003,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ثليم",
     districtEnglishName: "Thulaim"
   },
@@ -1012,7 +1012,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الشميسي",
     districtEnglishName: "Al Shumaisi"
   },
@@ -1021,7 +1021,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الوشام",
     districtEnglishName: "Al Wisham"
   },
@@ -1030,7 +1030,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "منتزه سلام",
     districtEnglishName: "Salam Park"
   },
@@ -1039,7 +1039,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدوبية",
     districtEnglishName: "Al Dubiyah"
   },
@@ -1048,7 +1048,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "معكال",
     districtEnglishName: "Meakal"
   },
@@ -1057,7 +1057,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "جبرة",
     districtEnglishName: "Jabrah"
   },
@@ -1066,7 +1066,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "القرى",
     districtEnglishName: "Al Qura"
   },
@@ -1075,7 +1075,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المرقب",
     districtEnglishName: "Al Marqab"
   },
@@ -1084,7 +1084,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفوطة",
     districtEnglishName: "Al Futah"
   },
@@ -1093,7 +1093,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ام سليم",
     districtEnglishName: "Umm Saleem"
   },
@@ -1102,7 +1102,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الصحافة",
     districtEnglishName: "Al Sahafah"
   },
@@ -1111,7 +1111,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرائد",
     districtEnglishName: "Al Raed"
   },
@@ -1120,7 +1120,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العريجاء الغربي",
     districtEnglishName: "West Oraija"
   },
@@ -1129,7 +1129,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العريجاء",
     districtEnglishName: "Al Uraija"
   },
@@ -1138,7 +1138,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العريجاء الوسطى",
     districtEnglishName: "Middle Oraija"
   },
@@ -1147,7 +1147,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -1156,7 +1156,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدار البيضاء",
     districtEnglishName: "Al Dar Al Baida"
   },
@@ -1165,7 +1165,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "البطيحا",
     districtEnglishName: "Al Butaiha"
   },
@@ -1174,7 +1174,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الزهراء",
     districtEnglishName: "Al Zahra"
   },
@@ -1183,7 +1183,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -1192,7 +1192,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المؤتمرات",
     districtEnglishName: "Al Mutamarat"
   },
@@ -1201,7 +1201,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الوسيطاء",
     districtEnglishName: "Al Wusayta"
   },
@@ -1210,7 +1210,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الجنادرية",
     districtEnglishName: "Al Janadriyah"
   },
@@ -1219,7 +1219,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "اشبيلية",
     districtEnglishName: "Ishbiliyah"
   },
@@ -1228,7 +1228,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المعيزلة",
     districtEnglishName: "Al Maizalah"
   },
@@ -1237,7 +1237,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -1246,7 +1246,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المونسية",
     districtEnglishName: "Al Munisiyah"
   },
@@ -1255,7 +1255,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -1264,7 +1264,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "عرقة",
     districtEnglishName: "Irqah"
   },
@@ -1273,7 +1273,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ظهرة لبن",
     districtEnglishName: "Dhahrat Laban"
   },
@@ -1282,7 +1282,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "حطين",
     districtEnglishName: "Hiteen"
   },
@@ -1291,7 +1291,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الملقا",
     districtEnglishName: "Al Malqa"
   },
@@ -1300,7 +1300,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "القيروان",
     districtEnglishName: "Al Qairawan"
   },
@@ -1309,7 +1309,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmeen"
   },
@@ -1318,7 +1318,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العارض",
     districtEnglishName: "Al Arid"
   },
@@ -1327,7 +1327,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "مطار الملك خالد",
     districtEnglishName: "King Khalid International Airport"
   },
@@ -1336,7 +1336,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النرجس",
     districtEnglishName: "Al Narjis"
   },
@@ -1345,7 +1345,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "جامعة الامام محمد بن سعود الاسلامية",
     districtEnglishName: "Imam Muhammed Bin Saud Islamic University"
   },
@@ -1354,7 +1354,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "بنبان",
     districtEnglishName: "Banban"
   },
@@ -1363,7 +1363,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرمال",
     districtEnglishName: "Al Rimal"
   },
@@ -1372,7 +1372,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -1381,7 +1381,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدحو",
     districtEnglishName: "Al Dahou"
   },
@@ -1390,7 +1390,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العماجية",
     districtEnglishName: "Al Ammajiyah"
   },
@@ -1399,7 +1399,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "هيت",
     districtEnglishName: "Hyt"
   },
@@ -1408,7 +1408,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الحائر",
     districtEnglishName: "Al Haer"
   },
@@ -1417,7 +1417,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "ام الشعال",
     districtEnglishName: "Umm Al Shaal"
   },
@@ -1426,7 +1426,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الغنامية",
     districtEnglishName: "Al Ghannamiyah"
   },
@@ -1435,7 +1435,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "عريض",
     districtEnglishName: "Oraid"
   },
@@ -1444,7 +1444,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -1453,7 +1453,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المهدية",
     districtEnglishName: "Al Mahdiyah"
   },
@@ -1462,7 +1462,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "جامعة الملك سعود",
     districtEnglishName: "King Saud University"
   },
@@ -1471,7 +1471,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النسيم الغربي",
     districtEnglishName: "West Naseem"
   },
@@ -1480,7 +1480,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المشاعل",
     districtEnglishName: "Al Mishael"
   },
@@ -1489,7 +1489,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الندوة",
     districtEnglishName: "Al Nadwah"
   },
@@ -1498,7 +1498,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرابية",
     districtEnglishName: "Al Rabiyah"
   },
@@ -1507,7 +1507,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "وادي لبن",
     districtEnglishName: "Wady Laban"
   },
@@ -1516,7 +1516,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السدرة",
     districtEnglishName: "Al Sidrah"
   },
@@ -1525,7 +1525,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "التضامن",
     districtEnglishName: "Al Tadamun"
   },
@@ -1534,7 +1534,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "مدينة الملك عبدالله للطاقة",
     districtEnglishName: "King Abdullah City for Energy"
   },
@@ -1543,7 +1543,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -1552,7 +1552,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -1561,7 +1561,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -1570,7 +1570,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الدانة",
     districtEnglishName: "Al Danah"
   },
@@ -1579,7 +1579,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الرسالة",
     districtEnglishName: "Al Risalah"
   },
@@ -1588,7 +1588,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الخير",
     districtEnglishName: "Al Khair"
   },
@@ -1597,7 +1597,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الفرسان",
     districtEnglishName: "Al Fursan"
   },
@@ -1606,7 +1606,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الشعلة",
     districtEnglishName: "Al Sholah"
   },
@@ -1615,7 +1615,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الراية",
     districtEnglishName: "Al Rayah"
   },
@@ -1624,7 +1624,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الزهور",
     districtEnglishName: "Al Zahour"
   },
@@ -1633,7 +1633,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الزاهر",
     districtEnglishName: "Al Zaher"
   },
@@ -1642,7 +1642,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Marjan"
   },
@@ -1651,7 +1651,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "البيان",
     districtEnglishName: "Al Bayan"
   },
@@ -1660,7 +1660,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "العلا",
     districtEnglishName: "Al Ula"
   },
@@ -1669,7 +1669,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "المشرق",
     districtEnglishName: "Al Mashriq"
   },
@@ -1678,7 +1678,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "النخبة",
     districtEnglishName: "Al Nakhbah"
   },
@@ -1687,7 +1687,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "السحاب",
     districtEnglishName: "Al Sahab"
   },
@@ -1696,7 +1696,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرياض",
-    cityEnglishName: "RIYADH",
+    cityEnglishName: "Riyadh",
     districtArabicName: "الوسام",
     districtEnglishName: "Al Wasam"
   },
@@ -1705,7 +1705,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "المرقب",
     districtEnglishName: "Al Marqab"
   },
@@ -1714,7 +1714,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -1723,7 +1723,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -1732,7 +1732,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -1741,7 +1741,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الملك سلمان",
     districtEnglishName: "King Salman"
   },
@@ -1750,7 +1750,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -1759,7 +1759,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -1768,7 +1768,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -1777,7 +1777,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -1786,7 +1786,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -1795,7 +1795,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "الجامعيين",
     districtEnglishName: "Al Jamiyin"
   },
@@ -1804,7 +1804,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -1813,7 +1813,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المجمعة",
-    cityEnglishName: "AL MAJMAAH",
+    cityEnglishName: "Al Majmaah",
     districtArabicName: "المستقبل",
     districtEnglishName: "Al Mustaqbal"
   },
@@ -1822,7 +1822,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حرمة",
-    cityEnglishName: "HARMAH",
+    cityEnglishName: "Harmah",
     districtArabicName: "البصيرة",
     districtEnglishName: "Al Basirah"
   },
@@ -1831,7 +1831,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حرمة",
-    cityEnglishName: "HARMAH",
+    cityEnglishName: "Harmah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -1840,7 +1840,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حرمة",
-    cityEnglishName: "HARMAH",
+    cityEnglishName: "Harmah",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -1849,7 +1849,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "مدينة سدير للصناعة والأعمال",
     districtEnglishName: "Sudair Industrial And Business City"
   },
@@ -1858,7 +1858,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -1867,7 +1867,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الملك سعود",
     districtEnglishName: "King Saud"
   },
@@ -1876,7 +1876,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -1885,7 +1885,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -1894,7 +1894,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -1903,7 +1903,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -1912,7 +1912,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "منتزه",
     districtEnglishName: "Muntazah"
   },
@@ -1921,7 +1921,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -1930,7 +1930,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الملك فيصل",
     districtEnglishName: "King Faisal"
   },
@@ -1939,7 +1939,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -1948,7 +1948,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -1957,7 +1957,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -1966,7 +1966,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -1975,7 +1975,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "تمير",
-    cityEnglishName: "TUMAIR",
+    cityEnglishName: "Tumair",
     districtArabicName: "صناعية تمير",
     districtEnglishName: "Tumair Industrial"
   },
@@ -1984,7 +1984,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الارطاوية",
-    cityEnglishName: "AL ARTAWIYAH",
+    cityEnglishName: "Al Artawiyah",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -1993,7 +1993,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "حطين",
     districtEnglishName: "Hiteen"
   },
@@ -2002,7 +2002,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -2011,7 +2011,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -2020,7 +2020,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -2029,7 +2029,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -2038,7 +2038,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -2047,7 +2047,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -2056,7 +2056,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -2065,7 +2065,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Riyan"
   },
@@ -2074,7 +2074,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -2083,7 +2083,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "مرخ",
     districtEnglishName: "Margh"
   },
@@ -2092,7 +2092,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -2101,7 +2101,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -2110,7 +2110,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "احد",
     districtEnglishName: "Uhd"
   },
@@ -2119,7 +2119,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "طويق",
     districtEnglishName: "Tuwik"
   },
@@ -2128,7 +2128,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouq"
   },
@@ -2137,7 +2137,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الصديق",
     districtEnglishName: "As Sediq"
   },
@@ -2146,7 +2146,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmok"
   },
@@ -2155,7 +2155,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الفالح",
     districtEnglishName: "Al Falih"
   },
@@ -2164,7 +2164,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -2173,7 +2173,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "علقة",
     districtEnglishName: "Alkah"
   },
@@ -2182,7 +2182,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الدرعية",
     districtEnglishName: "Al Deriyah"
   },
@@ -2191,7 +2191,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Muntazah"
   },
@@ -2200,7 +2200,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -2209,7 +2209,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "سمنان",
     districtEnglishName: "Semnan"
   },
@@ -2218,7 +2218,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -2227,7 +2227,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "السيح",
     districtEnglishName: "As Sieh"
   },
@@ -2236,7 +2236,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "عريعرة",
     districtEnglishName: "Urierah"
   },
@@ -2245,7 +2245,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -2254,7 +2254,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -2263,7 +2263,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -2272,7 +2272,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الازدهار",
     districtEnglishName: "Al Izdihar"
   },
@@ -2281,7 +2281,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -2290,7 +2290,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "اشبيليا",
     districtEnglishName: "Ishbiliya"
   },
@@ -2299,7 +2299,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -2308,7 +2308,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -2317,7 +2317,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -2326,7 +2326,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "السعادة",
     districtEnglishName: "As Saadah"
   },
@@ -2335,7 +2335,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -2344,7 +2344,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -2353,7 +2353,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "النفل",
     districtEnglishName: "An Naql"
   },
@@ -2362,7 +2362,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -2371,7 +2371,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Fardus"
   },
@@ -2380,7 +2380,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -2389,7 +2389,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -2398,7 +2398,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الندى",
     districtEnglishName: "An Nada"
   },
@@ -2407,7 +2407,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الفروسية",
     districtEnglishName: "Al Frosyah"
   },
@@ -2416,7 +2416,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "السيح",
     districtEnglishName: "As Sieh"
   },
@@ -2425,7 +2425,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الزلفي",
-    cityEnglishName: "AZ ZULFI",
+    cityEnglishName: "Az Zulfi",
     districtArabicName: "الجوى",
     districtEnglishName: "Al Jawa"
   },
@@ -2434,7 +2434,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -2443,7 +2443,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -2452,7 +2452,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -2461,7 +2461,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -2470,7 +2470,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masiaf"
   },
@@ -2479,7 +2479,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -2488,7 +2488,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -2497,7 +2497,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -2506,7 +2506,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -2515,7 +2515,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -2524,7 +2524,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "النفل",
     districtEnglishName: "An Naql"
   },
@@ -2533,7 +2533,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -2542,7 +2542,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -2551,7 +2551,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الغاط",
-    cityEnglishName: "AL GHAT",
+    cityEnglishName: "Al Ghat",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -2560,7 +2560,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "شمال الاذاعة",
     districtEnglishName: "Al Idhaah North"
   },
@@ -2569,7 +2569,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "المعارض",
     districtEnglishName: "Al Maarid"
   },
@@ -2578,7 +2578,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الاذاعة",
     districtEnglishName: "Al Idhaah"
   },
@@ -2587,7 +2587,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -2596,7 +2596,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الملز",
     districtEnglishName: "Al Malaz"
   },
@@ -2605,7 +2605,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الاصفر",
     districtEnglishName: "Al Asfar"
   },
@@ -2614,7 +2614,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الحجاج",
     districtEnglishName: "Al Hujjaj"
   },
@@ -2623,7 +2623,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "المهنيين",
     districtEnglishName: "Al Mihaniyin"
   },
@@ -2632,7 +2632,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -2641,7 +2641,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الملك فيصل",
     districtEnglishName: "King Faisal"
   },
@@ -2650,7 +2650,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -2659,7 +2659,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "العود",
     districtEnglishName: "Al Uud"
   },
@@ -2668,7 +2668,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "المنفوحة",
     districtEnglishName: "Al Manfuhah"
   },
@@ -2677,7 +2677,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -2686,7 +2686,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -2695,7 +2695,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الملك خالد",
     districtEnglishName: "King Khalid"
   },
@@ -2704,7 +2704,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaymaniyah"
   },
@@ -2713,7 +2713,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "عفيف",
-    cityEnglishName: "AFIF",
+    cityEnglishName: "Afif",
     districtArabicName: "الجامعية",
     districtEnglishName: "Al Jamieyah"
   },
@@ -2722,7 +2722,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ثادق",
-    cityEnglishName: "THADIQ",
+    cityEnglishName: "Thadiq",
     districtArabicName: "الديرة القديمة",
     districtEnglishName: "Ad Dirah Al Qadimah"
   },
@@ -2731,7 +2731,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ثادق",
-    cityEnglishName: "THADIQ",
+    cityEnglishName: "Thadiq",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -2740,7 +2740,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ثادق",
-    cityEnglishName: "THADIQ",
+    cityEnglishName: "Thadiq",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -2749,7 +2749,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ثادق",
-    cityEnglishName: "THADIQ",
+    cityEnglishName: "Thadiq",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -2758,7 +2758,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ثادق",
-    cityEnglishName: "THADIQ",
+    cityEnglishName: "Thadiq",
     districtArabicName: "الجنادرية",
     districtEnglishName: "Al Janadriyah"
   },
@@ -2767,7 +2767,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -2776,7 +2776,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "غسلة",
     districtEnglishName: "Gaslah"
   },
@@ -2785,7 +2785,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الوقف",
     districtEnglishName: "Al Wakf"
   },
@@ -2794,7 +2794,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -2803,7 +2803,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -2812,7 +2812,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -2821,7 +2821,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -2830,7 +2830,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الوشم",
     districtEnglishName: "Al Washm"
   },
@@ -2839,7 +2839,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "شقراء",
-    cityEnglishName: "SHAQRA",
+    cityEnglishName: "Shaqra",
     districtArabicName: "الرحبة",
     districtEnglishName: "Al Rehab"
   },
@@ -2848,7 +2848,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "مشرفة",
     districtEnglishName: "Mishrifah"
   },
@@ -2857,7 +2857,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -2866,7 +2866,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "حطين",
     districtEnglishName: "Hiteen"
   },
@@ -2875,7 +2875,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -2884,7 +2884,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الحرمين",
     districtEnglishName: "Al Haramain"
   },
@@ -2893,7 +2893,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -2902,7 +2902,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -2911,7 +2911,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -2920,7 +2920,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -2929,7 +2929,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -2938,7 +2938,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -2947,7 +2947,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -2956,7 +2956,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -2965,7 +2965,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -2974,7 +2974,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -2983,7 +2983,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -2992,7 +2992,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -3001,7 +3001,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayan"
   },
@@ -3010,7 +3010,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "السنبلة",
     districtEnglishName: "As Sunbulah"
   },
@@ -3019,7 +3019,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "الدرع",
     districtEnglishName: "Ad Dar"
   },
@@ -3028,7 +3028,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "منطقة الاستراحات",
     districtEnglishName: "Rest House Area"
   },
@@ -3037,7 +3037,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدوادمي",
-    cityEnglishName: "AD DUWADIMI",
+    cityEnglishName: "Ad Duwadimi",
     districtArabicName: "مصده",
     districtEnglishName: "Musaddah"
   },
@@ -3046,7 +3046,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "Al Sinaiyah"
   },
@@ -3055,7 +3055,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "فيضة الفوازين",
     districtEnglishName: "Faydat Al Fawazin"
   },
@@ -3064,7 +3064,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "التسعين",
     districtEnglishName: "Al Teseen"
   },
@@ -3073,7 +3073,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الذيابية",
     districtEnglishName: "Al Diyabiyah"
   },
@@ -3082,7 +3082,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "برزان",
     districtEnglishName: "Barzan"
   },
@@ -3091,7 +3091,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -3100,7 +3100,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "العقيشية",
     districtEnglishName: "Al Aqishiyah"
   },
@@ -3109,7 +3109,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -3118,7 +3118,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -3127,7 +3127,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "المسلخ",
     districtEnglishName: "Al Maslakh"
   },
@@ -3136,7 +3136,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "المثوية",
     districtEnglishName: "Al Mathawiyah"
   },
@@ -3145,7 +3145,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "التضامن",
     districtEnglishName: "Al Tadamun"
   },
@@ -3154,7 +3154,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "مركز الشرارة",
     districtEnglishName: "Markaz Al Shararh"
   },
@@ -3163,7 +3163,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -3172,7 +3172,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -3181,7 +3181,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "مشرفة",
     districtEnglishName: "Mishrifah"
   },
@@ -3190,7 +3190,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الملك فيصل",
     districtEnglishName: "King Faisal"
   },
@@ -3199,7 +3199,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "صقرة",
     districtEnglishName: "Saqrah"
   },
@@ -3208,7 +3208,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "صقرة الشمالي",
     districtEnglishName: "Saqrah Northern"
   },
@@ -3217,7 +3217,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الرديفة",
     districtEnglishName: "Al Radifah"
   },
@@ -3226,7 +3226,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -3235,7 +3235,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الزعيبة",
     districtEnglishName: "Al Zuaibah"
   },
@@ -3244,7 +3244,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الامير سلطان",
     districtEnglishName: "Prince Sultan"
   },
@@ -3253,7 +3253,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -3262,7 +3262,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "صحارى",
     districtEnglishName: "Sahara"
   },
@@ -3271,7 +3271,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "العلوات",
     districtEnglishName: "Al Alawat"
   },
@@ -3280,7 +3280,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "الشتينية",
     districtEnglishName: "Al Shatiniyyah"
   },
@@ -3289,7 +3289,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "البجادية",
-    cityEnglishName: "AL BIJADIYAH",
+    cityEnglishName: "Al Bijadiyah",
     districtArabicName: "القسيمة",
     districtEnglishName: "Al Qassima"
   },
@@ -3298,7 +3298,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -3307,7 +3307,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -3316,7 +3316,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "السد",
     districtEnglishName: "As Sad"
   },
@@ -3325,7 +3325,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -3334,7 +3334,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -3343,7 +3343,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حريملاء",
-    cityEnglishName: "HURAYMILA",
+    cityEnglishName: "Huraymila",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -3352,7 +3352,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الملقاه",
     districtEnglishName: "Al Malqah"
   },
@@ -3361,7 +3361,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -3370,7 +3370,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الثليما",
     districtEnglishName: "Al Thilaima"
   },
@@ -3379,7 +3379,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "السلمانية",
     districtEnglishName: "Al Salmaniyah"
   },
@@ -3388,7 +3388,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الملك",
     districtEnglishName: "Al Malik"
   },
@@ -3397,7 +3397,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الدرعية",
     districtEnglishName: "Al Diriyah"
   },
@@ -3406,7 +3406,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -3415,7 +3415,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "العاصمة",
     districtEnglishName: "Al Asemah"
   },
@@ -3424,7 +3424,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الدرعية الجديدة",
     districtEnglishName: "Al Diriyah Al Jadidah"
   },
@@ -3433,7 +3433,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الطريف",
     districtEnglishName: "Al Turaif"
   },
@@ -3442,7 +3442,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الروقية",
     districtEnglishName: "Al Rooqiyah"
   },
@@ -3451,7 +3451,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "السرحية",
     districtEnglishName: "Al Sarhiyah"
   },
@@ -3460,7 +3460,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "الشهداء",
     districtEnglishName: "Al Shohda"
   },
@@ -3469,7 +3469,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "ظهرة العودة غرب",
     districtEnglishName: "West Dhahrat Al Oudah"
   },
@@ -3478,7 +3478,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "البليدا",
     districtEnglishName: "Al Blaida"
   },
@@ -3487,7 +3487,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "العلب",
     districtEnglishName: "Al Olab"
   },
@@ -3496,7 +3496,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدرعية",
-    cityEnglishName: "AD DIRIYAH",
+    cityEnglishName: "Ad Diriyah",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -3505,7 +3505,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "العين",
     districtEnglishName: "Al Ain"
   },
@@ -3514,7 +3514,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "سلام",
     districtEnglishName: "Salam"
   },
@@ -3523,7 +3523,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "العدل",
     districtEnglishName: "Al Adel"
   },
@@ -3532,7 +3532,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الكلية الحربية",
     districtEnglishName: "Military college"
   },
@@ -3541,7 +3541,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "عقرباء",
     districtEnglishName: "Aqraba"
   },
@@ -3550,7 +3550,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -3559,7 +3559,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الشهداء",
     districtEnglishName: "Ash Shuhada"
   },
@@ -3568,7 +3568,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الوصيل",
     districtEnglishName: "Al Waseel"
   },
@@ -3577,7 +3577,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -3586,7 +3586,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "هجرة بوضة",
     districtEnglishName: "Bawdah"
   },
@@ -3595,7 +3595,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "نجد",
     districtEnglishName: "Najd"
   },
@@ -3604,7 +3604,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "العيينة",
-    cityEnglishName: "AL UYAINAH",
+    cityEnglishName: "Al Uyainah",
     districtArabicName: "الامير سلطان",
     districtEnglishName: "Prince Sultan"
   },
@@ -3613,7 +3613,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -3622,7 +3622,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -3631,7 +3631,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -3640,7 +3640,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -3649,7 +3649,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "الورود 1",
     districtEnglishName: "Al Wurud 1"
   },
@@ -3658,7 +3658,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -3667,7 +3667,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Muntazah"
   },
@@ -3676,7 +3676,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "البديع الغربي",
     districtEnglishName: "Al Badi Al Gharbi"
   },
@@ -3685,7 +3685,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "العنقري",
     districtEnglishName: "Al Anqari"
   },
@@ -3694,7 +3694,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ضرما",
-    cityEnglishName: "DURUMA",
+    cityEnglishName: "Duruma",
     districtArabicName: "البديع الشرقي",
     districtEnglishName: "Al Badi Ash Sharqi"
   },
@@ -3703,7 +3703,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "ابو سليم",
     districtEnglishName: "Abu Salim"
   },
@@ -3712,7 +3712,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -3721,7 +3721,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -3730,7 +3730,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -3739,7 +3739,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -3748,7 +3748,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -3757,7 +3757,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -3766,7 +3766,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -3775,7 +3775,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -3784,7 +3784,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -3793,7 +3793,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -3802,7 +3802,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -3811,7 +3811,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -3820,7 +3820,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الجفونية",
     districtEnglishName: "Al Jaffuniyyah"
   },
@@ -3829,7 +3829,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "القويعية",
-    cityEnglishName: "AL QUWAYIYAH",
+    cityEnglishName: "Al Quwayiyah",
     districtArabicName: "الضريب",
     districtEnglishName: "Ad Darib"
   },
@@ -3838,7 +3838,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -3847,7 +3847,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الشفاء",
     districtEnglishName: "Al Shifa"
   },
@@ -3856,7 +3856,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -3865,7 +3865,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "البنفسج",
     districtEnglishName: "Al Banafsaj"
   },
@@ -3874,7 +3874,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -3883,7 +3883,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -3892,7 +3892,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "السليمانية",
     districtEnglishName: "Al Sulaymaniyah"
   },
@@ -3901,7 +3901,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -3910,7 +3910,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الوفاء",
     districtEnglishName: "Al Wafa"
   },
@@ -3919,7 +3919,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -3928,7 +3928,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -3937,7 +3937,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzhah"
   },
@@ -3946,7 +3946,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الدار البيضاء",
     districtEnglishName: "Al Dar Al Baida"
   },
@@ -3955,7 +3955,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الدوحة",
     districtEnglishName: "Al Dohah"
   },
@@ -3964,7 +3964,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الفرعة",
     districtEnglishName: "Al Farah"
   },
@@ -3973,7 +3973,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -3982,7 +3982,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الشعيبة",
     districtEnglishName: "Al Shuaibah"
   },
@@ -3991,7 +3991,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "المريقب",
     districtEnglishName: "Al Muraiqeb"
   },
@@ -4000,7 +4000,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -4009,7 +4009,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "الدهناء",
     districtEnglishName: "Al Dahna"
   },
@@ -4018,7 +4018,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "أبا العبلان2",
     districtEnglishName: "Aba Al Ablan 2"
   },
@@ -4027,7 +4027,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -4036,7 +4036,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "أبا العبلان1",
     districtEnglishName: "Aba Al Ablan 1"
   },
@@ -4045,7 +4045,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "مخطط ج3",
     districtEnglishName: "Subdivision Plan 3C"
   },
@@ -4054,7 +4054,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "مخطط ج1",
     districtEnglishName: "Subdivision Plan 1C"
   },
@@ -4063,7 +4063,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "مخطط ج2",
     districtEnglishName: "Subdivision Plan 2C"
   },
@@ -4072,7 +4072,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرويضة",
-    cityEnglishName: "AR RUWAYDAH",
+    cityEnglishName: "Ar Ruwaydah",
     districtArabicName: "مخطط ج4",
     districtEnglishName: "Subdivision Plan 4C"
   },
@@ -4081,7 +4081,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الرين",
-    cityEnglishName: "AR RAYN",
+    cityEnglishName: "Ar Rayn",
     districtArabicName: "نجد",
     districtEnglishName: "Najd"
   },
@@ -4090,7 +4090,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -4099,7 +4099,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "الحزيمية",
     districtEnglishName: "Al Huzaymiyyah"
   },
@@ -4108,7 +4108,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "الصقورية",
     districtEnglishName: "As Suquriyyah"
   },
@@ -4117,7 +4117,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -4126,7 +4126,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "شخيب",
     districtEnglishName: "Shukhib"
   },
@@ -4135,7 +4135,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "طويق",
     districtEnglishName: "Tuwik"
   },
@@ -4144,7 +4144,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "الأندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -4153,7 +4153,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "غرناطه",
     districtEnglishName: "Ghirnatah"
   },
@@ -4162,7 +4162,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -4171,7 +4171,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "المزاحمية",
-    cityEnglishName: "AL MUZAHIMIYAH",
+    cityEnglishName: "Al Muzahimiyah",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -4180,7 +4180,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "المصانع",
     districtEnglishName: "Al Masani"
   },
@@ -4189,7 +4189,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "البركة",
     districtEnglishName: "Al Barakah"
   },
@@ -4198,7 +4198,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Muntazah"
   },
@@ -4207,7 +4207,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الصناعية الجديدة",
     districtEnglishName: "New Industrial"
   },
@@ -4216,7 +4216,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaymaniyah"
   },
@@ -4225,7 +4225,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -4234,7 +4234,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "البرج",
     districtEnglishName: "Al Burj"
   },
@@ -4243,7 +4243,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -4252,7 +4252,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -4261,7 +4261,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -4270,7 +4270,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -4279,7 +4279,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -4288,7 +4288,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -4297,7 +4297,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -4306,7 +4306,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "مشرف",
     districtEnglishName: "Mishrif"
   },
@@ -4315,7 +4315,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الراشدية",
     districtEnglishName: "Ar Rashidiyyah"
   },
@@ -4324,7 +4324,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "المنيفية",
     districtEnglishName: "Al Munyfiyah"
   },
@@ -4333,7 +4333,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الناصفة",
     districtEnglishName: "An Nasifah"
   },
@@ -4342,7 +4342,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -4351,7 +4351,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "المنصورة",
     districtEnglishName: "Al Mansurah"
   },
@@ -4360,7 +4360,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -4369,7 +4369,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -4378,7 +4378,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -4387,7 +4387,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -4396,7 +4396,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -4405,7 +4405,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الزاهر",
     districtEnglishName: "Az Zahir"
   },
@@ -4414,7 +4414,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "منطقة صناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -4423,7 +4423,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "العالية",
     districtEnglishName: "Al Aliyah"
   },
@@ -4432,7 +4432,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الهياثم",
     districtEnglishName: "Al Hayathim"
   },
@@ -4441,7 +4441,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "العدامة",
     districtEnglishName: "Al Adamah"
   },
@@ -4450,7 +4450,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "القطار",
     districtEnglishName: "Al Qitar"
   },
@@ -4459,7 +4459,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "المدينة الصناعية بالخرج",
     districtEnglishName: "Al Kharj Industrial City"
   },
@@ -4468,7 +4468,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "قاعدة الامير سلطان الجوية",
     districtEnglishName: "Prince Sultan Air Base"
   },
@@ -4477,7 +4477,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الخرج",
-    cityEnglishName: "AL KHARJ",
+    cityEnglishName: "Al Kharj",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -4486,7 +4486,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -4495,7 +4495,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -4504,7 +4504,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaymaniyah"
   },
@@ -4513,7 +4513,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "سدير",
     districtEnglishName: "Sudayr"
   },
@@ -4522,7 +4522,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "السعيدان",
     districtEnglishName: "As Saydan"
   },
@@ -4531,7 +4531,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "السماري",
     districtEnglishName: "As Samari"
   },
@@ -4540,7 +4540,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "العويمرية",
     districtEnglishName: "Al Uwaymiriyah"
   },
@@ -4549,7 +4549,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "الصحنة",
     districtEnglishName: "Al Sahnah"
   },
@@ -4558,7 +4558,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "العذراء",
     districtEnglishName: "Al Adhra"
   },
@@ -4567,7 +4567,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -4576,7 +4576,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الدلم",
-    cityEnglishName: "AD DILAM",
+    cityEnglishName: "Ad Dilam",
     districtArabicName: "الناصرية",
     districtEnglishName: "An Nasriyah"
   },
@@ -4585,7 +4585,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الخماسين الشمالي",
     districtEnglishName: "Al Khamasin Al Shamali"
   },
@@ -4594,7 +4594,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "اللدام الجنوبي",
     districtEnglishName: "Al Ludam Al Janubi"
   },
@@ -4603,7 +4603,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الحديدية",
     districtEnglishName: "Al Hadidiyah"
   },
@@ -4612,7 +4612,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "القيروان",
     districtEnglishName: "Al Qayrawan"
   },
@@ -4621,7 +4621,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -4630,7 +4630,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -4639,7 +4639,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "مقابل",
     districtEnglishName: "Muqabil"
   },
@@ -4648,7 +4648,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "صناعية الحديدية",
     districtEnglishName: "Sinaiyat Al Hadidiyah"
   },
@@ -4657,7 +4657,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "التقنية",
     districtEnglishName: "Al Taqniyah"
   },
@@ -4666,7 +4666,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الرويساء",
     districtEnglishName: "Al Ruwaysa"
   },
@@ -4675,7 +4675,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "اللدام الشمالي",
     districtEnglishName: "Al Ludam Al Shamali"
   },
@@ -4684,7 +4684,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "آل عويمر",
     districtEnglishName: "Al Uwaimir"
   },
@@ -4693,7 +4693,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الخماسين",
     districtEnglishName: "Al Khamasin"
   },
@@ -4702,7 +4702,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الولامين",
     districtEnglishName: "Al Walamin"
   },
@@ -4711,7 +4711,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "المعتلاء",
     districtEnglishName: "Al Muatala"
   },
@@ -4720,7 +4720,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "صناعية الشرفا",
     districtEnglishName: "Al Shurafa Industrial"
   },
@@ -4729,7 +4729,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الشرفا",
     districtEnglishName: "Al Shurafa"
   },
@@ -4738,7 +4738,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "ال عريمة",
     districtEnglishName: "Al Uraimah"
   },
@@ -4747,7 +4747,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الزويراء",
     districtEnglishName: "Al Zuwayra"
   },
@@ -4756,7 +4756,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -4765,7 +4765,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzha"
   },
@@ -4774,7 +4774,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -4783,7 +4783,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "نزوى",
     districtEnglishName: "Nazwa"
   },
@@ -4792,7 +4792,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -4801,7 +4801,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -4810,7 +4810,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "ال تميم و الصالحية",
     districtEnglishName: "Al Tamim Wal Salihiyyah"
   },
@@ -4819,7 +4819,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "المدرسة العسكرية",
     districtEnglishName: "Military School"
   },
@@ -4828,7 +4828,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -4837,7 +4837,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الحنابجة",
     districtEnglishName: "Al Hanabijah"
   },
@@ -4846,7 +4846,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -4855,7 +4855,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "المعتلاء الجنوبي",
     districtEnglishName: "Al Muatala Al Janubi"
   },
@@ -4864,7 +4864,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "النويعمة",
     districtEnglishName: "Al Nuwayemah"
   },
@@ -4873,7 +4873,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "القويز",
     districtEnglishName: "Al Quwaiz"
   },
@@ -4882,7 +4882,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "الحي الغربي",
     districtEnglishName: "Al Gharbi"
   },
@@ -4891,7 +4891,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "وادي الدواسر",
-    cityEnglishName: "WADI AD DAWASIR",
+    cityEnglishName: "Wadi Ad Dawasir",
     districtArabicName: "المستشفي",
     districtEnglishName: "Al Mustashfa"
   },
@@ -4900,7 +4900,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -4909,7 +4909,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -4918,7 +4918,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -4927,7 +4927,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -4936,7 +4936,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -4945,7 +4945,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "السليل",
-    cityEnglishName: "AS SULAYYIL",
+    cityEnglishName: "As Sulayyil",
     districtArabicName: "الزهرة",
     districtEnglishName: "Az Zahrah"
   },
@@ -4954,7 +4954,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "المدينة الجديدة",
     districtEnglishName: "Al Madinah Al Jadidah"
   },
@@ -4963,7 +4963,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "الركية",
     districtEnglishName: "Ar Rukiyah"
   },
@@ -4972,7 +4972,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "الحزيمية",
     districtEnglishName: "Al Huzaimiyah"
   },
@@ -4981,7 +4981,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "وسط المدينة",
     districtEnglishName: "City Center"
   },
@@ -4990,7 +4990,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "العثمانية",
     districtEnglishName: "Al Uthmaniyah"
   },
@@ -4999,7 +4999,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "الحريق",
-    cityEnglishName: "AL HARIQ",
+    cityEnglishName: "Al Hariq",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -5008,7 +5008,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -5017,7 +5017,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "خضار",
     districtEnglishName: "Khudar"
   },
@@ -5026,7 +5026,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الباطن",
     districtEnglishName: "Al Batin"
   },
@@ -5035,7 +5035,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -5044,7 +5044,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الشعيب",
     districtEnglishName: "Ash Shuaib"
   },
@@ -5053,7 +5053,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "زياد",
     districtEnglishName: "Ziyad"
   },
@@ -5062,7 +5062,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الفرعة",
     districtEnglishName: "Al Farah"
   },
@@ -5071,7 +5071,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "التضامن",
     districtEnglishName: "Al Tadamun"
   },
@@ -5080,7 +5080,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -5089,7 +5089,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -5098,7 +5098,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masiaf"
   },
@@ -5107,7 +5107,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الصدر",
     districtEnglishName: "Al Sadr"
   },
@@ -5116,7 +5116,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -5125,7 +5125,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -5134,7 +5134,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "حوطة بني تميم",
-    cityEnglishName: "HAWTAT BANI TAMIM",
+    cityEnglishName: "Hawtat Bani Tamim",
     districtArabicName: "الحلة",
     districtEnglishName: "Al Hilah"
   },
@@ -5143,7 +5143,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -5152,7 +5152,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "السحاب",
     districtEnglishName: "As Sahab"
   },
@@ -5161,7 +5161,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -5170,7 +5170,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الدوائر",
     districtEnglishName: "Ad Dawair"
   },
@@ -5179,7 +5179,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -5188,7 +5188,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -5197,7 +5197,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الجفيدرية",
     districtEnglishName: "Al Jufaidariyah"
   },
@@ -5206,7 +5206,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "غصيبة",
     districtEnglishName: "Ghusaiba"
   },
@@ -5215,7 +5215,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "المبرز",
     districtEnglishName: "Al Mubarraz"
   },
@@ -5224,7 +5224,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "السعودية",
     districtEnglishName: "As Saudia"
   },
@@ -5233,7 +5233,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -5242,7 +5242,7 @@ export const locations = [
     regionArabicName: "الرياض",
     regionEnglishName: "Riyadh",
     cityArabicName: "ليلى",
-    cityEnglishName: "LAYLA",
+    cityEnglishName: "Layla",
     districtArabicName: "بدائع الهواملة",
     districtEnglishName: "Badai Al Hawamilah"
   },
@@ -5251,7 +5251,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج10",
     districtEnglishName: "C10"
   },
@@ -5260,7 +5260,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ضاحية الاسكان",
     districtEnglishName: "Dhahiyat Al Iskan"
   },
@@ -5269,7 +5269,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "منطقة إمتداد ضاحية الإسكان",
     districtEnglishName: "Dhahiyat Al Iskan Extension Area"
   },
@@ -5278,7 +5278,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السيل الكبير",
     districtEnglishName: "As Sail Al Kabeer"
   },
@@ -5287,7 +5287,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Huda"
   },
@@ -5296,7 +5296,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shifa"
   },
@@ -5305,7 +5305,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج3",
     districtEnglishName: "C3"
   },
@@ -5314,7 +5314,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج4",
     districtEnglishName: "C4"
   },
@@ -5323,7 +5323,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج5",
     districtEnglishName: "C5"
   },
@@ -5332,7 +5332,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج43",
     districtEnglishName: "C43"
   },
@@ -5341,7 +5341,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج16",
     districtEnglishName: "C16"
   },
@@ -5350,7 +5350,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج18",
     districtEnglishName: "C18"
   },
@@ -5359,7 +5359,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج11",
     districtEnglishName: "C11"
   },
@@ -5368,7 +5368,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج12",
     districtEnglishName: "C12"
   },
@@ -5377,7 +5377,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج15",
     districtEnglishName: "C15"
   },
@@ -5386,7 +5386,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج17",
     districtEnglishName: "C17"
   },
@@ -5395,7 +5395,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج22",
     districtEnglishName: "C22"
   },
@@ -5404,7 +5404,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج23",
     districtEnglishName: "C23"
   },
@@ -5413,7 +5413,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج25",
     districtEnglishName: "C25"
   },
@@ -5422,7 +5422,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج26",
     districtEnglishName: "C26"
   },
@@ -5431,7 +5431,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج28",
     districtEnglishName: "C28"
   },
@@ -5440,7 +5440,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج29",
     districtEnglishName: "C29"
   },
@@ -5449,7 +5449,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "معشي",
     districtEnglishName: "Maashi"
   },
@@ -5458,7 +5458,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القمرية",
     districtEnglishName: "Al Qumariyyah"
   },
@@ -5467,7 +5467,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "عودة",
     districtEnglishName: "Awdah"
   },
@@ -5476,7 +5476,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -5485,7 +5485,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "قروى",
     districtEnglishName: "Qurwa"
   },
@@ -5494,7 +5494,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الصيانة",
     districtEnglishName: "Al Siana"
   },
@@ -5503,7 +5503,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "سوق عكاظ",
     districtEnglishName: "Suq Ukadh"
   },
@@ -5512,7 +5512,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج21",
     districtEnglishName: "C21"
   },
@@ -5521,7 +5521,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج44",
     districtEnglishName: "C44"
   },
@@ -5530,7 +5530,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج27",
     districtEnglishName: "C27"
   },
@@ -5539,7 +5539,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الشهداء الجنوبية",
     districtEnglishName: "Ashuhada Aljanubiyyah"
   },
@@ -5548,7 +5548,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "شهار",
     districtEnglishName: "Shihar"
   },
@@ -5557,7 +5557,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج20",
     districtEnglishName: "C20"
   },
@@ -5566,7 +5566,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "نخب",
     districtEnglishName: "Nakhab"
   },
@@ -5575,7 +5575,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "حوايا الشمالية",
     districtEnglishName: "Huwaya Ash Shamaliyyah"
   },
@@ -5584,7 +5584,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -5593,7 +5593,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "مسرة 1",
     districtEnglishName: "Masarah 1"
   },
@@ -5602,7 +5602,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -5611,7 +5611,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -5620,7 +5620,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -5629,7 +5629,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "حوايا الجنوبية",
     districtEnglishName: "Huwaya Al Janoubiyah"
   },
@@ -5638,7 +5638,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القطبية",
     districtEnglishName: "Al Qutbiyyah"
   },
@@ -5647,7 +5647,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العارمية 2",
     districtEnglishName: "Al Aarmiah 2"
   },
@@ -5656,7 +5656,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المعترض",
     districtEnglishName: "Al Mutarid"
   },
@@ -5665,7 +5665,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الرويدف",
     districtEnglishName: "Al Ruwaidaf"
   },
@@ -5674,7 +5674,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -5683,7 +5683,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القميع",
     districtEnglishName: "Qami"
   },
@@ -5692,7 +5692,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "جبرة",
     districtEnglishName: "Jabrah"
   },
@@ -5701,7 +5701,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الجفيجف",
     districtEnglishName: "Al Jafijif"
   },
@@ -5710,7 +5710,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -5719,7 +5719,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج1",
     districtEnglishName: "C1"
   },
@@ -5728,7 +5728,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الحلقة الغربية",
     districtEnglishName: "Al Halqah Al Gharbia"
   },
@@ -5737,7 +5737,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج6",
     districtEnglishName: "C6"
   },
@@ -5746,7 +5746,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المثناه",
     districtEnglishName: "Al Mathnah"
   },
@@ -5755,7 +5755,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الخضيرة",
     districtEnglishName: "Hadera"
   },
@@ -5764,7 +5764,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج37",
     districtEnglishName: "C37"
   },
@@ -5773,7 +5773,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج35",
     districtEnglishName: "C35"
   },
@@ -5782,7 +5782,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الجال",
     districtEnglishName: "Al Jal"
   },
@@ -5791,7 +5791,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السرور",
     districtEnglishName: "As Sarur"
   },
@@ -5800,7 +5800,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -5809,7 +5809,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المركزية",
     districtEnglishName: "Al Markazia"
   },
@@ -5818,7 +5818,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -5827,7 +5827,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "شبرا",
     districtEnglishName: "Shobra"
   },
@@ -5836,7 +5836,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الشرقية",
     districtEnglishName: "Sharqia"
   },
@@ -5845,7 +5845,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -5854,7 +5854,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -5863,7 +5863,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ريحه",
     districtEnglishName: "Riha"
   },
@@ -5872,7 +5872,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الوشحاء",
     districtEnglishName: "Al Washha"
   },
@@ -5881,7 +5881,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الشهداء الشمالية",
     districtEnglishName: "Ashuhada Alshamaliyyah"
   },
@@ -5890,7 +5890,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج9",
     districtEnglishName: "C9"
   },
@@ -5899,7 +5899,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "قوات الدفاع الجوي",
     districtEnglishName: "Air Defense Forces"
   },
@@ -5908,7 +5908,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -5917,7 +5917,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المضباع",
     districtEnglishName: "Al Mudhbah"
   },
@@ -5926,7 +5926,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الواسط",
     districtEnglishName: "Al Wasit"
   },
@@ -5935,7 +5935,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج33",
     districtEnglishName: "C33"
   },
@@ -5944,7 +5944,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -5953,7 +5953,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج8",
     districtEnglishName: "C8"
   },
@@ -5962,7 +5962,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الضبط",
     districtEnglishName: "Al Dhabt"
   },
@@ -5971,7 +5971,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السويقة",
     districtEnglishName: "Al Sawaiqa"
   },
@@ -5980,7 +5980,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج36",
     districtEnglishName: "C36"
   },
@@ -5989,7 +5989,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "مثمله",
     districtEnglishName: "Masmla"
   },
@@ -5998,7 +5998,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الحوية",
     districtEnglishName: "Al Huwaya"
   },
@@ -6007,7 +6007,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج40",
     districtEnglishName: "C40"
   },
@@ -6016,7 +6016,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج41",
     districtEnglishName: "C41"
   },
@@ -6025,7 +6025,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الاخباب",
     districtEnglishName: "Akhbab"
   },
@@ -6034,7 +6034,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القراحين",
     districtEnglishName: "Alqrahin"
   },
@@ -6043,7 +6043,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "السداد",
     districtEnglishName: "As Sadad"
   },
@@ -6052,7 +6052,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "أم العراد",
     districtEnglishName: "Umm Alarad"
   },
@@ -6061,7 +6061,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الحدائق",
     districtEnglishName: "Al Hadaek"
   },
@@ -6070,7 +6070,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "أم السباع",
     districtEnglishName: "Al Sabaa"
   },
@@ -6079,7 +6079,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المعارض",
     districtEnglishName: "Al Maarid"
   },
@@ -6088,7 +6088,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الردف",
     districtEnglishName: "Ar Ruddaf"
   },
@@ -6097,7 +6097,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج32",
     districtEnglishName: "C32"
   },
@@ -6106,7 +6106,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج30",
     districtEnglishName: "C30"
   },
@@ -6115,7 +6115,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج31",
     districtEnglishName: "C31"
   },
@@ -6124,7 +6124,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج24",
     districtEnglishName: "C24"
   },
@@ -6133,7 +6133,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الحلقة الشرقية",
     districtEnglishName: "Al Halqah Asharqiyyah"
   },
@@ -6142,7 +6142,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القيم الأسفل",
     districtEnglishName: "Al Qayam Al Asfal"
   },
@@ -6151,7 +6151,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "المطار الدولي الجديد",
     districtEnglishName: "New International Airport"
   },
@@ -6160,7 +6160,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج14",
     districtEnglishName: "C14"
   },
@@ -6169,7 +6169,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج13",
     districtEnglishName: "C13"
   },
@@ -6178,7 +6178,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القيم الأعلى",
     districtEnglishName: "Al Qayam Al Aala"
   },
@@ -6187,7 +6187,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج7",
     districtEnglishName: "C7"
   },
@@ -6196,7 +6196,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج19",
     districtEnglishName: "C19"
   },
@@ -6205,7 +6205,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج34",
     districtEnglishName: "C34"
   },
@@ -6214,7 +6214,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العرج الأسفل",
     districtEnglishName: "Al Urj Al Asfal"
   },
@@ -6223,7 +6223,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "جامعة الطائف الجديدة",
     districtEnglishName: "New Taif University"
   },
@@ -6232,7 +6232,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "مسرة 2",
     districtEnglishName: "Masarah 2"
   },
@@ -6241,7 +6241,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -6250,7 +6250,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العرج الأعلى",
     districtEnglishName: "Al Urj Al Aala"
   },
@@ -6259,7 +6259,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج39",
     districtEnglishName: "C39"
   },
@@ -6268,7 +6268,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "ج38",
     districtEnglishName: "C38"
   },
@@ -6277,7 +6277,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "الغمير",
     districtEnglishName: "Al Ghumayr"
   },
@@ -6286,7 +6286,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "العارمية 1",
     districtEnglishName: "Al Aarmiah 1"
   },
@@ -6295,7 +6295,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الطائف",
-    cityEnglishName: "AT TAIF",
+    cityEnglishName: "At Taif",
     districtArabicName: "القديرة",
     districtEnglishName: "Al Qadirah"
   },
@@ -6304,7 +6304,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العدل",
     districtEnglishName: "Al Adl"
   },
@@ -6313,7 +6313,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -6322,7 +6322,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "المعابدة",
     districtEnglishName: "Al Maabdah"
   },
@@ -6331,7 +6331,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الخنساء",
     districtEnglishName: "Al Khansa"
   },
@@ -6340,7 +6340,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulimaniyah"
   },
@@ -6349,7 +6349,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الجميزة",
     districtEnglishName: "Al Jummayzah"
   },
@@ -6358,7 +6358,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "جبل النور",
     districtEnglishName: "Jabal An Nur"
   },
@@ -6367,7 +6367,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الهنداوية",
     districtEnglishName: "Al Hindawiyah"
   },
@@ -6376,7 +6376,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الرصيفة",
     districtEnglishName: "Ar Rusayfah"
   },
@@ -6385,7 +6385,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "جرهم",
     districtEnglishName: "Jarham"
   },
@@ -6394,7 +6394,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -6403,7 +6403,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "المسفلة",
     districtEnglishName: "Al Misfalah"
   },
@@ -6412,7 +6412,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "التقوى",
     districtEnglishName: "At Taqwa"
   },
@@ -6421,7 +6421,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "كدي",
     districtEnglishName: "Kudy"
   },
@@ -6430,7 +6430,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "القرارة والنقا",
     districtEnglishName: "Al Qararah And An Naqa"
   },
@@ -6439,7 +6439,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الحرم",
     districtEnglishName: "Al Haram"
   },
@@ -6448,7 +6448,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "حارة الباب والشامية",
     districtEnglishName: "Harat Al Bab And Ash Shamiyah"
   },
@@ -6457,7 +6457,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "التيسير",
     districtEnglishName: "At Taysir"
   },
@@ -6466,7 +6466,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "جرول",
     districtEnglishName: "Jarwal"
   },
@@ -6475,7 +6475,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "المشاعر",
     districtEnglishName: "Al Mashair"
   },
@@ -6484,7 +6484,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "المرسلات",
     districtEnglishName: "Al Mursalat"
   },
@@ -6493,7 +6493,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -6502,7 +6502,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -6511,7 +6511,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -6520,7 +6520,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -6529,7 +6529,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الضيافة",
     districtEnglishName: "Ad Diyafah"
   },
@@ -6538,7 +6538,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "البيبان",
     districtEnglishName: "Al Bibyan"
   },
@@ -6547,7 +6547,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الحجون",
     districtEnglishName: "Al Hujun"
   },
@@ -6556,7 +6556,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الطندباوي",
     districtEnglishName: "At Tandabawi"
   },
@@ -6565,7 +6565,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الشبيكة",
     districtEnglishName: "Ash Shubaikah"
   },
@@ -6574,7 +6574,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الهجلة",
     districtEnglishName: "Al Hajlah"
   },
@@ -6583,7 +6583,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "المنصور",
     districtEnglishName: "Al Mansur"
   },
@@ -6592,7 +6592,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الكعكية",
     districtEnglishName: "Al Kakiyah"
   },
@@ -6601,7 +6601,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الشوقية",
     districtEnglishName: "Ash Shawqiyah"
   },
@@ -6610,7 +6610,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الهجرة",
     districtEnglishName: "Al Hijrah"
   },
@@ -6619,7 +6619,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "بطحاء قريش",
     districtEnglishName: "Batha Quraysh"
   },
@@ -6628,7 +6628,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "شرائع المجاهدين",
     districtEnglishName: "Sharai Al Mujahidin"
   },
@@ -6637,7 +6637,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العوالي",
     districtEnglishName: "Al Awali"
   },
@@ -6646,7 +6646,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الشرائع",
     districtEnglishName: "Asharai"
   },
@@ -6655,7 +6655,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الراشدية",
     districtEnglishName: "Ar Rashidiyah"
   },
@@ -6664,7 +6664,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الخضراء",
     districtEnglishName: "Al Khadra"
   },
@@ -6673,7 +6673,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -6682,7 +6682,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العكيشية",
     districtEnglishName: "Al Ukayshiyah"
   },
@@ -6691,7 +6691,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "ولي العهد",
     districtEnglishName: "Waly Al Ahd"
   },
@@ -6700,7 +6700,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -6709,7 +6709,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "ريع زاخر",
     districtEnglishName: "Ray Zakhir"
   },
@@ -6718,7 +6718,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "التنعيم",
     districtEnglishName: "At Tanim"
   },
@@ -6727,7 +6727,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الزاهر",
     districtEnglishName: "Az Zahir"
   },
@@ -6736,7 +6736,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "شعب عامر وشعب علي",
     districtEnglishName: "Shaib Amir and Shaib Ali"
   },
@@ -6745,7 +6745,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "اجياد",
     districtEnglishName: "Ajyad"
   },
@@ -6754,7 +6754,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الحمراء وام الجود",
     districtEnglishName: "Al Hamra Umm Al Jud"
   },
@@ -6763,7 +6763,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -6772,7 +6772,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العتيبية",
     districtEnglishName: "Al Utaybiyah"
   },
@@ -6781,7 +6781,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -6790,7 +6790,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العمرة الجديدة",
     districtEnglishName: "Al Umrah Al Jadidah"
   },
@@ -6799,7 +6799,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -6808,7 +6808,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "البحيرات",
     districtEnglishName: "Al Buhayrat"
   },
@@ -6817,7 +6817,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "النوارية",
     districtEnglishName: "An Nawwariyah"
   },
@@ -6826,7 +6826,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "الشهداء",
     districtEnglishName: "Ash Shuhada"
   },
@@ -6835,7 +6835,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "وادي جليل",
     districtEnglishName: "Wadi Jalil"
   },
@@ -6844,7 +6844,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "العسيلة",
     districtEnglishName: "Al Usaylah"
   },
@@ -6853,7 +6853,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مكة المكرمة",
-    cityEnglishName: "MAKKAH",
+    cityEnglishName: "Makkah",
     districtArabicName: "جعرانة",
     districtEnglishName: "Jaranah"
   },
@@ -6862,7 +6862,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الزمرد",
     districtEnglishName: "Az Zomorod"
   },
@@ -6871,7 +6871,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "اللؤلؤ",
     districtEnglishName: "Al Loaloa"
   },
@@ -6880,7 +6880,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الياقوت",
     districtEnglishName: "Al Yaqoot"
   },
@@ -6889,7 +6889,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصوارى",
     districtEnglishName: "As Swaryee"
   },
@@ -6898,7 +6898,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الامواج",
     districtEnglishName: "Al Amwaj"
   },
@@ -6907,7 +6907,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشراع",
     districtEnglishName: "Ash Sheraa"
   },
@@ -6916,7 +6916,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Ferdous"
   },
@@ -6925,7 +6925,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفلاح",
     districtEnglishName: "Al Falah"
   },
@@ -6934,7 +6934,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الاصالة",
     districtEnglishName: "Al Asalah"
   },
@@ -6943,7 +6943,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "مريخ",
     districtEnglishName: "Mraykh"
   },
@@ -6952,7 +6952,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشروق",
     districtEnglishName: "Ash Shrouk"
   },
@@ -6961,7 +6961,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الامير فواز الشمالى",
     districtEnglishName: "Al Amir Fawaz Ash Shamaly"
   },
@@ -6970,7 +6970,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرياض",
     districtEnglishName: "Ar Riyadh"
   },
@@ -6979,7 +6979,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفروسية",
     districtEnglishName: "Al Frosyah"
   },
@@ -6988,7 +6988,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرحمانية",
     districtEnglishName: "Ar Rahmaniyah"
   },
@@ -6997,7 +6997,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -7006,7 +7006,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الحمدانية",
     districtEnglishName: "Al Hamadaniyah"
   },
@@ -7015,7 +7015,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayaan"
   },
@@ -7024,7 +7024,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "أم حبلين الغربية",
     districtEnglishName: "Um Hableen Al Gharbiyyah"
   },
@@ -7033,7 +7033,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "بريمان",
     districtEnglishName: "Bryman"
   },
@@ -7042,7 +7042,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -7051,7 +7051,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الثعالبة",
     districtEnglishName: "Ath Thaalibah"
   },
@@ -7060,7 +7060,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -7069,7 +7069,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouk"
   },
@@ -7078,7 +7078,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العدل",
     districtEnglishName: "Al Adel"
   },
@@ -7087,7 +7087,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الهنداوية",
     districtEnglishName: "Al Hindawiyah"
   },
@@ -7096,7 +7096,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المحجر",
     districtEnglishName: "Al Mahjar"
   },
@@ -7105,7 +7105,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -7114,7 +7114,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -7123,7 +7123,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "جامعة الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz University"
   },
@@ -7132,7 +7132,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -7141,7 +7141,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البغدادية الشرقية",
     districtEnglishName: "Al Baghdadiyah Ash Sharqiyah"
   },
@@ -7150,7 +7150,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النزلة الشرقية",
     districtEnglishName: "An Nazlah Ash Sharqiyah"
   },
@@ -7159,7 +7159,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البوادي",
     districtEnglishName: "Al Bawadi"
   },
@@ -7168,7 +7168,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -7177,7 +7177,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الثغر",
     districtEnglishName: "Ath Thaghr"
   },
@@ -7186,7 +7186,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشرفية",
     districtEnglishName: "Ash Sharafiyah"
   },
@@ -7195,7 +7195,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "قاعدة الملك فيصل البحرية",
     districtEnglishName: "King Faisal Naval Base"
   },
@@ -7204,7 +7204,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shefaa"
   },
@@ -7213,7 +7213,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السنابل",
     districtEnglishName: "As Sanabel"
   },
@@ -7222,7 +7222,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الهدى",
     districtEnglishName: "Al Hada"
   },
@@ -7231,7 +7231,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "التضامن",
     districtEnglishName: "Al Tadamun"
   },
@@ -7240,7 +7240,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الكرامة",
     districtEnglishName: "Al Karamah"
   },
@@ -7249,7 +7249,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرحمة",
     districtEnglishName: "Ar Rahmah"
   },
@@ -7258,7 +7258,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البركة",
     districtEnglishName: "Al Barakah"
   },
@@ -7267,7 +7267,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المسرة",
     districtEnglishName: "Al Masarah"
   },
@@ -7276,7 +7276,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المليساء",
     districtEnglishName: "Al Moulysaa"
   },
@@ -7285,7 +7285,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "القوزين",
     districtEnglishName: "Al Qouzeen"
   },
@@ -7294,7 +7294,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -7303,7 +7303,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفضيلة",
     districtEnglishName: "Al Fadeylah"
   },
@@ -7312,7 +7312,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -7321,7 +7321,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السروات",
     districtEnglishName: "As Sarawat"
   },
@@ -7330,7 +7330,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الخمرة",
     districtEnglishName: "Al Khomrah"
   },
@@ -7339,7 +7339,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الضاحية",
     districtEnglishName: "Ad Dahiah"
   },
@@ -7348,7 +7348,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "القرينية",
     districtEnglishName: "Al Qryniah"
   },
@@ -7357,7 +7357,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النزلة اليمانية",
     districtEnglishName: "An Nazlah Al Yamaniyah"
   },
@@ -7366,7 +7366,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -7375,7 +7375,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "القريات",
     districtEnglishName: "Al Quraiyat"
   },
@@ -7384,7 +7384,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "غليل",
     districtEnglishName: "Ghulail"
   },
@@ -7393,7 +7393,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الكندرة",
     districtEnglishName: "Al Kandarah"
   },
@@ -7402,7 +7402,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العمارية",
     districtEnglishName: "Al Ammariyah"
   },
@@ -7411,7 +7411,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصحيفة",
     districtEnglishName: "As Sahifah"
   },
@@ -7420,7 +7420,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السبيل",
     districtEnglishName: "As Sabil"
   },
@@ -7429,7 +7429,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -7438,7 +7438,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "بنى مالك",
     districtEnglishName: "Bani Malik"
   },
@@ -7447,7 +7447,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -7456,7 +7456,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -7465,7 +7465,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -7474,7 +7474,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "مشرفة",
     districtEnglishName: "Mishrifah"
   },
@@ -7483,7 +7483,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -7492,7 +7492,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -7501,7 +7501,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "ابرق الرغامة",
     districtEnglishName: "Abruq Ar Rughamah"
   },
@@ -7510,7 +7510,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaymaniyah"
   },
@@ -7519,7 +7519,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الساحل",
     districtEnglishName: "As Sahil"
   },
@@ -7528,7 +7528,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البشائر",
     districtEnglishName: "Al Bashaer"
   },
@@ -7537,7 +7537,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -7546,7 +7546,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الكوثر",
     districtEnglishName: "Al Kawthar"
   },
@@ -7555,7 +7555,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "طيبة",
     districtEnglishName: "Taibah"
   },
@@ -7564,7 +7564,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النعيم",
     districtEnglishName: "An Naim"
   },
@@ -7573,7 +7573,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -7582,7 +7582,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -7591,7 +7591,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -7600,7 +7600,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -7609,7 +7609,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -7618,7 +7618,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السامر",
     districtEnglishName: "As Samir"
   },
@@ -7627,7 +7627,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الاجواد",
     districtEnglishName: "Al Ajwad"
   },
@@ -7636,7 +7636,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "مطار الملك عبدالعزيز الدولي",
     districtEnglishName: "King Abdulaziz International Airport"
   },
@@ -7645,7 +7645,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -7654,7 +7654,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -7663,7 +7663,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الامير عبدالمجيد",
     districtEnglishName: "Prince Abdul Majeed"
   },
@@ -7672,7 +7672,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الوزيريه",
     districtEnglishName: "Al Waziriyah"
   },
@@ -7681,7 +7681,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -7690,7 +7690,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الامير فواز الجنوبى",
     districtEnglishName: "Al Amir Fawaz Al Janouby"
   },
@@ -7699,7 +7699,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المتنزهات",
     districtEnglishName: "Al Mutanazahat"
   },
@@ -7708,7 +7708,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -7717,7 +7717,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -7726,7 +7726,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفضل",
     districtEnglishName: "Al Fadel"
   },
@@ -7735,7 +7735,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "ام السلم",
     districtEnglishName: "Um Asalam"
   },
@@ -7744,7 +7744,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البغدادية الغربية",
     districtEnglishName: "Al Baghdadiyah Al Gharbiyah"
   },
@@ -7753,7 +7753,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "ابحر الشمالية",
     districtEnglishName: "Abhur Ash Shamaliyah"
   },
@@ -7762,7 +7762,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرويس",
     districtEnglishName: "Ar Ruwais"
   },
@@ -7771,7 +7771,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "بترومين",
     districtEnglishName: "Petromin"
   },
@@ -7780,7 +7780,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -7789,7 +7789,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "ابحر الجنوبية",
     districtEnglishName: "Abhur Al Janubiyah"
   },
@@ -7798,7 +7798,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -7807,7 +7807,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السرورية",
     districtEnglishName: "As Sororyah"
   },
@@ -7816,7 +7816,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الاجاويد",
     districtEnglishName: "Al Ajaweed"
   },
@@ -7825,7 +7825,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -7834,7 +7834,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "مدائن الفهد",
     districtEnglishName: "Madain Al Fahd"
   },
@@ -7843,7 +7843,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -7852,7 +7852,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -7861,7 +7861,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -7870,7 +7870,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "بحرة",
     districtEnglishName: "Bahrah"
   },
@@ -7879,7 +7879,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "ميناء جدة الاسلامي",
     districtEnglishName: "Jeddah Eslamic Seaport"
   },
@@ -7888,7 +7888,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الوفاء",
     districtEnglishName: "Al Wafa"
   },
@@ -7897,7 +7897,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الحرازات",
     districtEnglishName: "Al Harazat"
   },
@@ -7906,7 +7906,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المحاميد",
     districtEnglishName: "Al Mahamid"
   },
@@ -7915,7 +7915,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المدينة الصناعية الثالثة",
     districtEnglishName: "3rd Industrial City"
   },
@@ -7924,7 +7924,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفنار",
     districtEnglishName: "Al Fanar"
   },
@@ -7933,7 +7933,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "السهل",
     districtEnglishName: "Al Sahl"
   },
@@ -7942,7 +7942,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الدرة",
     districtEnglishName: "Ad Durrah"
   },
@@ -7951,7 +7951,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المنارات",
     districtEnglishName: "Al Manarat"
   },
@@ -7960,7 +7960,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -7969,7 +7969,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الحجاز",
     districtEnglishName: "Al Hijaz"
   },
@@ -7978,7 +7978,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المزيرعة",
     districtEnglishName: "Al Muzairah"
   },
@@ -7987,7 +7987,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصفوة",
     districtEnglishName: "Al Safwah"
   },
@@ -7996,7 +7996,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المستقبل",
     districtEnglishName: "Al Mustaqbal"
   },
@@ -8005,7 +8005,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النجمة",
     districtEnglishName: "An Najmah"
   },
@@ -8014,7 +8014,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "القوس",
     districtEnglishName: "Al Qus"
   },
@@ -8023,7 +8023,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الحفنة",
     districtEnglishName: "Al Hafnah"
   },
@@ -8032,7 +8032,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -8041,7 +8041,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشويضي",
     districtEnglishName: "Al Shuwaidhi"
   },
@@ -8050,7 +8050,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الشرقية",
     districtEnglishName: "Al Sharqiyyah"
   },
@@ -8059,7 +8059,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العشيرية",
     districtEnglishName: "Al Ushayriyyah"
   },
@@ -8068,7 +8068,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "أبو جعالة",
     districtEnglishName: "Abu Jaalah"
   },
@@ -8077,7 +8077,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "كتانة",
     districtEnglishName: "Katanah"
   },
@@ -8086,7 +8086,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "التلال",
     districtEnglishName: "Al Talal"
   },
@@ -8095,7 +8095,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرمال",
     districtEnglishName: "Ar Rimal"
   },
@@ -8104,7 +8104,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المرسي",
     districtEnglishName: "Al Mursi"
   },
@@ -8113,7 +8113,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -8122,7 +8122,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -8131,7 +8131,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البحيرات",
     districtEnglishName: "Al Buhayrat"
   },
@@ -8140,7 +8140,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الموج",
     districtEnglishName: "Al Mawj"
   },
@@ -8149,7 +8149,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الغربية",
     districtEnglishName: "Al Gharbiyyah"
   },
@@ -8158,7 +8158,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الزهور",
     districtEnglishName: "Al Zahur"
   },
@@ -8167,7 +8167,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الهزاعية",
     districtEnglishName: "Al Hazaiyah"
   },
@@ -8176,7 +8176,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العسلاء",
     districtEnglishName: "Al Asla"
   },
@@ -8185,7 +8185,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العسلاء",
     districtEnglishName: "Al Asla"
   },
@@ -8194,7 +8194,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "بلدة ذهبان",
     districtEnglishName: "Dhahban Town"
   },
@@ -8203,7 +8203,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "حكومي",
     districtEnglishName: "Governmental"
   },
@@ -8212,7 +8212,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -8221,7 +8221,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "النور",
     districtEnglishName: "Al Nur"
   },
@@ -8230,7 +8230,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "صناعي",
     districtEnglishName: "Industrial"
   },
@@ -8239,7 +8239,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "حكومي",
     districtEnglishName: "Governmental"
   },
@@ -8248,7 +8248,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -8257,7 +8257,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الفرقان",
     districtEnglishName: "Al Furqan"
   },
@@ -8266,7 +8266,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "طابة",
     districtEnglishName: "Tabah"
   },
@@ -8275,7 +8275,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرواسي",
     districtEnglishName: "Al Rawasee"
   },
@@ -8284,7 +8284,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "أم حبلين الشرقية",
     districtEnglishName: "Um Hableen Al Sharqiyyah"
   },
@@ -8293,7 +8293,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "قباء",
     districtEnglishName: "Quba"
   },
@@ -8302,7 +8302,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الرابية",
     districtEnglishName: "Al Rabiyah"
   },
@@ -8311,7 +8311,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العليا",
     districtEnglishName: "Al Ulayya"
   },
@@ -8320,7 +8320,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "البدور",
     districtEnglishName: "Al Budur"
   },
@@ -8329,7 +8329,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المجامع",
     districtEnglishName: "Al Majami"
   },
@@ -8338,7 +8338,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "المرسلات",
     districtEnglishName: "Al Mursalat"
   },
@@ -8347,7 +8347,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الأثير",
     districtEnglishName: "Al Athir"
   },
@@ -8356,7 +8356,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "صناعي",
     districtEnglishName: "Industrial"
   },
@@ -8365,7 +8365,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "الصفحة",
     districtEnglishName: "Al Safhah"
   },
@@ -8374,7 +8374,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "اليسر",
     districtEnglishName: "Al Yusr"
   },
@@ -8383,7 +8383,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "جدة",
-    cityEnglishName: "JEDDAH",
+    cityEnglishName: "Jeddah",
     districtArabicName: "العبير",
     districtEnglishName: "Al Abeer"
   },
@@ -8392,7 +8392,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -8401,7 +8401,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "انكاس",
     districtEnglishName: "Inkas"
   },
@@ -8410,7 +8410,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الصليب الشرقي",
     districtEnglishName: "As Silayyib Ash Sharqi"
   },
@@ -8419,7 +8419,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الصليب الغربي",
     districtEnglishName: "As Silayyib Al Gharbi"
   },
@@ -8428,7 +8428,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "المرجانية",
     districtEnglishName: "Al Marjaniyah"
   },
@@ -8437,7 +8437,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الجود",
     districtEnglishName: "Al Jud"
   },
@@ -8446,7 +8446,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الصبوح",
     districtEnglishName: "As Sabuh"
   },
@@ -8455,7 +8455,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الفرنيسية الشرقية",
     districtEnglishName: "Al Farnisiyyah Ash Sharqiyyah"
   },
@@ -8464,7 +8464,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "السوق",
     districtEnglishName: "As Suq"
   },
@@ -8473,7 +8473,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "الصمد",
     districtEnglishName: "As Samad"
   },
@@ -8482,7 +8482,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "رابغ",
-    cityEnglishName: "RABIGH",
+    cityEnglishName: "Rabigh",
     districtArabicName: "المنطقة الصناعية المرحلة الثانية والثالثة",
     districtEnglishName: "Industrial Area Phase 2 and 3"
   },
@@ -8491,7 +8491,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -8500,7 +8500,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "البرقاء",
     districtEnglishName: "Al Barqa"
   },
@@ -8509,7 +8509,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -8518,7 +8518,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "المغاربة",
     districtEnglishName: "Al Magharbah"
   },
@@ -8527,7 +8527,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الدف",
     districtEnglishName: "Ad Duf"
   },
@@ -8536,7 +8536,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -8545,7 +8545,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "فازع",
     districtEnglishName: "Faza"
   },
@@ -8554,7 +8554,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الفلج",
     districtEnglishName: "Al Falaj"
   },
@@ -8563,7 +8563,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الطلعة",
     districtEnglishName: "At Talaah"
   },
@@ -8572,7 +8572,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الشيوخ",
     districtEnglishName: "Ash Shiyukh"
   },
@@ -8581,7 +8581,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الصدر",
     districtEnglishName: "As Sadr"
   },
@@ -8590,7 +8590,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "اللبدة",
     districtEnglishName: "Al Lubdah"
   },
@@ -8599,7 +8599,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الحميرات",
     districtEnglishName: "Al Humayrat"
   },
@@ -8608,7 +8608,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "الروايضة",
     districtEnglishName: "Ar Ruwaydah"
   },
@@ -8617,7 +8617,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "خليص",
-    cityEnglishName: "KHULAYS",
+    cityEnglishName: "Khulays",
     districtArabicName: "غران",
     districtEnglishName: "Gharan"
   },
@@ -8626,7 +8626,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -8635,7 +8635,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الناصرية",
     districtEnglishName: "An Nasriyah"
   },
@@ -8644,7 +8644,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -8653,7 +8653,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -8662,7 +8662,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -8671,7 +8671,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الحديقة",
     districtEnglishName: "Al Hadiqah"
   },
@@ -8680,7 +8680,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -8689,7 +8689,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -8698,7 +8698,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "السوق القديم",
     districtEnglishName: "As Suq Al Qadim"
   },
@@ -8707,7 +8707,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الحارثية",
     districtEnglishName: "Al Harthiyah"
   },
@@ -8716,7 +8716,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الهجرة",
     districtEnglishName: "Al Hijrah"
   },
@@ -8725,7 +8725,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الخرمة",
-    cityEnglishName: "AL KHURMAH",
+    cityEnglishName: "Al Khurmah",
     districtArabicName: "الدغمية",
     districtEnglishName: "Ad Daghmiyah"
   },
@@ -8734,7 +8734,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -8743,7 +8743,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -8752,7 +8752,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -8761,7 +8761,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "النقابة",
     districtEnglishName: "An Naqabah"
   },
@@ -8770,7 +8770,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -8779,7 +8779,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "أبو شعيب",
     districtEnglishName: "Abu Shuayb"
   },
@@ -8788,7 +8788,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -8797,7 +8797,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -8806,7 +8806,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -8815,7 +8815,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "سدر",
     districtEnglishName: "Sedr"
   },
@@ -8824,7 +8824,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "غزيات",
     districtEnglishName: "Ghaziyyat"
   },
@@ -8833,7 +8833,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "أبو عروة",
     districtEnglishName: "Abu Urwah"
   },
@@ -8842,7 +8842,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "عين شمس",
     districtEnglishName: "Ayn Shams"
   },
@@ -8851,7 +8851,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "الجموم",
-    cityEnglishName: "AL JUMUM",
+    cityEnglishName: "Al Jumum",
     districtArabicName: "الشهداء",
     districtEnglishName: "Ash Shuhada"
   },
@@ -8860,7 +8860,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الشرقية",
     districtEnglishName: "Ash Sharqiyyah"
   },
@@ -8869,7 +8869,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -8878,7 +8878,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الناعمية",
     districtEnglishName: "An Naimiyah"
   },
@@ -8887,7 +8887,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الازهار",
     districtEnglishName: "Al Azhar"
   },
@@ -8896,7 +8896,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الغربي",
     districtEnglishName: "Al Gharbi"
   },
@@ -8905,7 +8905,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الرتبة",
     districtEnglishName: "Ar Ratibah"
   },
@@ -8914,7 +8914,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "القنفذة",
-    cityEnglishName: "AL QUNFIDHAH",
+    cityEnglishName: "Al Qunfidhah",
     districtArabicName: "الشامية",
     districtEnglishName: "Ash Shamiyah"
   },
@@ -8923,7 +8923,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "ثول",
-    cityEnglishName: "THUWAL",
+    cityEnglishName: "Thuwal",
     districtArabicName: "ثول",
     districtEnglishName: "Thuwal"
   },
@@ -8932,7 +8932,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "ثول",
-    cityEnglishName: "THUWAL",
+    cityEnglishName: "Thuwal",
     districtArabicName: "جامعة الملك عبدالله للعلوم والتقنية",
     districtEnglishName: "King Abdullah University Of Science And Technology"
   },
@@ -8941,7 +8941,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -8950,7 +8950,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "منيف",
     districtEnglishName: "Munif"
   },
@@ -8959,7 +8959,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "العلاوة",
     districtEnglishName: "Al Allawah"
   },
@@ -8968,7 +8968,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -8977,7 +8977,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "كرا السردي",
     districtEnglishName: "Kara As Sardi"
   },
@@ -8986,7 +8986,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -8995,7 +8995,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "تربه",
-    cityEnglishName: "TURBAH",
+    cityEnglishName: "Turbah",
     districtArabicName: "السوق",
     districtEnglishName: "As Suq"
   },
@@ -9004,7 +9004,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "البيلسان",
     districtEnglishName: "Bay La Sun"
   },
@@ -9013,7 +9013,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "نورسان",
     districtEnglishName: "Nursun"
   },
@@ -9022,7 +9022,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "المروج",
     districtEnglishName: "Murooj"
   },
@@ -9031,7 +9031,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "المرجان",
     districtEnglishName: "Murjan"
   },
@@ -9040,7 +9040,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "جمان",
     districtEnglishName: "Juman"
   },
@@ -9049,7 +9049,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "ليماس",
     districtEnglishName: "Limas"
   },
@@ -9058,7 +9058,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "ريتان",
     districtEnglishName: "Reetan"
   },
@@ -9067,7 +9067,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -9076,7 +9076,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "المشرق",
     districtEnglishName: "Mashreq"
   },
@@ -9085,7 +9085,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الحجاز",
     districtEnglishName: "Hejaz"
   },
@@ -9094,7 +9094,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الدانة",
     districtEnglishName: "Dana"
   },
@@ -9103,7 +9103,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "ميسان",
     districtEnglishName: "Maysan"
   },
@@ -9112,7 +9112,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الإنتاج",
     districtEnglishName: "Entaj"
   },
@@ -9121,7 +9121,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "التنمية",
     districtEnglishName: "Tanmiyah"
   },
@@ -9130,7 +9130,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الحرير",
     districtEnglishName: "Hareer"
   },
@@ -9139,7 +9139,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "المستقبل",
     districtEnglishName: "Mustaqbal"
   },
@@ -9148,7 +9148,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الأفق",
     districtEnglishName: "Ofoq"
   },
@@ -9157,7 +9157,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "رسيل",
     districtEnglishName: "Raseel"
   },
@@ -9166,7 +9166,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "منطقة البحيرة المحمية",
     districtEnglishName: "Lagoon Preserved Area"
   },
@@ -9175,7 +9175,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "ميناء الملك عبد الله",
     districtEnglishName: "King Abdullah Port"
   },
@@ -9184,7 +9184,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الرواد",
     districtEnglishName: "Ruwad"
   },
@@ -9193,7 +9193,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "التالة",
     districtEnglishName: "Talah"
   },
@@ -9202,7 +9202,7 @@ export const locations = [
     regionArabicName: "مكة المكرمة",
     regionEnglishName: "Makkah",
     cityArabicName: "مدينة الملك عبدالله الاقتصادية",
-    cityEnglishName: "KING ABDULLAH ECONOMIC CITY",
+    cityEnglishName: "King Abdullah Economic City",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -9211,7 +9211,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "خاخ",
     districtEnglishName: "Khakh"
   },
@@ -9220,7 +9220,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السكب",
     districtEnglishName: "As Sakb"
   },
@@ -9229,7 +9229,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الجصة",
     districtEnglishName: "Al Jassah"
   },
@@ -9238,7 +9238,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "رهط",
     districtEnglishName: "Raht"
   },
@@ -9247,7 +9247,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني بياضة",
     districtEnglishName: "Bani Bayadah"
   },
@@ -9256,7 +9256,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "نبلاء",
     districtEnglishName: "Nubala"
   },
@@ -9265,7 +9265,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الشهباء",
     districtEnglishName: "Ash Shahba"
   },
@@ -9274,7 +9274,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الرمانة",
     districtEnglishName: "Ar Rumanah"
   },
@@ -9283,7 +9283,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "ابو كبير",
     districtEnglishName: "Abu Kabir"
   },
@@ -9292,7 +9292,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الغراء",
     districtEnglishName: "Al Gharra"
   },
@@ -9301,7 +9301,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السد",
     districtEnglishName: "As Sad"
   },
@@ -9310,7 +9310,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الجابرة",
     districtEnglishName: "Al Jabirah"
   },
@@ -9319,7 +9319,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الرانوناء",
     districtEnglishName: "Ar Ranuna"
   },
@@ -9328,7 +9328,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الحديقة",
     districtEnglishName: "Al Hadiqah"
   },
@@ -9337,7 +9337,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "ابو بريقاء",
     districtEnglishName: "Abu Burayqa"
   },
@@ -9346,7 +9346,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -9355,7 +9355,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "القصواء",
     districtEnglishName: "Al Qaswa"
   },
@@ -9364,7 +9364,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العصبة",
     districtEnglishName: "Al Usbah"
   },
@@ -9373,7 +9373,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الخاتم",
     districtEnglishName: "Al Khatim"
   },
@@ -9382,7 +9382,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -9391,7 +9391,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العهن",
     districtEnglishName: "Al Ihn"
   },
@@ -9400,7 +9400,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "ذو الحليفة",
     districtEnglishName: "Dhu Al Hulayfah"
   },
@@ -9409,7 +9409,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "مهزور",
     districtEnglishName: "Mahzur"
   },
@@ -9418,7 +9418,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الدويمة",
     districtEnglishName: "Ad Duwaimah"
   },
@@ -9427,7 +9427,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "مذينب",
     districtEnglishName: "Mudhainib"
   },
@@ -9436,7 +9436,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "عين الخيف",
     districtEnglishName: "Ayn Al Khif"
   },
@@ -9445,7 +9445,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "عروة",
     districtEnglishName: "Urwah"
   },
@@ -9454,7 +9454,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الظاهرة",
     districtEnglishName: "Az Zahirah"
   },
@@ -9463,7 +9463,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الشريبات",
     districtEnglishName: "Ash Shuraybat"
   },
@@ -9472,7 +9472,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "ام خالد",
     districtEnglishName: "Umm Khalid"
   },
@@ -9481,7 +9481,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الجمعة",
     districtEnglishName: "Al Jumah"
   },
@@ -9490,7 +9490,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المغيسلة",
     districtEnglishName: "Al Mughaisilah"
   },
@@ -9499,7 +9499,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "قربان",
     districtEnglishName: "Qurban"
   },
@@ -9508,7 +9508,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الدفاع",
     districtEnglishName: "Ad Difa"
   },
@@ -9517,7 +9517,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السكة الحديد",
     districtEnglishName: "As Sikkah Al Hadid"
   },
@@ -9526,7 +9526,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الوبرة",
     districtEnglishName: "Al Wabra"
   },
@@ -9535,7 +9535,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الاصيفرين",
     districtEnglishName: "Al Usayfirin"
   },
@@ -9544,7 +9544,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "النقاء",
     districtEnglishName: "An Naqa"
   },
@@ -9553,7 +9553,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني ظفر",
     districtEnglishName: "Bani Zafar"
   },
@@ -9562,7 +9562,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -9571,7 +9571,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -9580,7 +9580,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الجماوات",
     districtEnglishName: "Al Jamawat"
   },
@@ -9589,7 +9589,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المناخة",
     districtEnglishName: "Al Manakhah"
   },
@@ -9598,7 +9598,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بضاعة",
     districtEnglishName: "Badaah"
   },
@@ -9607,7 +9607,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "جشم",
     districtEnglishName: "Josham"
   },
@@ -9616,7 +9616,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الهدراء",
     districtEnglishName: "Al Hadra"
   },
@@ -9625,7 +9625,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السيح",
     districtEnglishName: "As Sih"
   },
@@ -9634,7 +9634,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المصانع",
     districtEnglishName: "Al Masani"
   },
@@ -9643,7 +9643,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "القبلتين",
     districtEnglishName: "Al Qiblatayn"
   },
@@ -9652,7 +9652,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -9661,7 +9661,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المبعوث",
     districtEnglishName: "Al Mabuth"
   },
@@ -9670,7 +9670,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -9679,7 +9679,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني حارثة",
     districtEnglishName: "Bani Harithah"
   },
@@ -9688,7 +9688,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بئر عثمان",
     districtEnglishName: "Bir Uthman"
   },
@@ -9697,7 +9697,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "شظاة",
     districtEnglishName: "Shizat"
   },
@@ -9706,7 +9706,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "طيبة",
     districtEnglishName: "Taibah"
   },
@@ -9715,7 +9715,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "القلعة",
     districtEnglishName: "Al Qalah"
   },
@@ -9724,7 +9724,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -9733,7 +9733,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "البركة",
     districtEnglishName: "Al Barakah"
   },
@@ -9742,7 +9742,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العيون",
     districtEnglishName: "Al Uyun"
   },
@@ -9751,7 +9751,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الدار",
     districtEnglishName: "Ad Dar"
   },
@@ -9760,7 +9760,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -9769,7 +9769,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الزهرة",
     districtEnglishName: "Az Zahrah"
   },
@@ -9778,7 +9778,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الحفيا",
     districtEnglishName: "Al Hafya"
   },
@@ -9787,7 +9787,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "البلقاء",
     districtEnglishName: "Al Balqa"
   },
@@ -9796,7 +9796,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "كتانة",
     districtEnglishName: "Kittanah"
   },
@@ -9805,7 +9805,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الصادقية",
     districtEnglishName: "As Sadiqiyah"
   },
@@ -9814,7 +9814,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الغابة",
     districtEnglishName: "Al Ghabah"
   },
@@ -9823,7 +9823,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "النقس",
     districtEnglishName: "An Naqs"
   },
@@ -9832,7 +9832,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "وعيرة",
     districtEnglishName: "Wairah"
   },
@@ -9841,7 +9841,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -9850,7 +9850,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العريض",
     districtEnglishName: "Al Ariyd"
   },
@@ -9859,7 +9859,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العنابس",
     districtEnglishName: "Al Anabis"
   },
@@ -9868,7 +9868,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الفتح",
     districtEnglishName: "Al Fath"
   },
@@ -9877,7 +9877,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الراية",
     districtEnglishName: "Ar Rayah"
   },
@@ -9886,7 +9886,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "مسجد الدرع",
     districtEnglishName: "Masjid Ad Dar"
   },
@@ -9895,7 +9895,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "السقيا",
     districtEnglishName: "As Suqya"
   },
@@ -9904,7 +9904,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "قلعة مخيط",
     districtEnglishName: "Qalat Makhit"
   },
@@ -9913,7 +9913,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "جبل عير",
     districtEnglishName: "Jabal Ayr"
   },
@@ -9922,7 +9922,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الشافية",
     districtEnglishName: "Ash Shafiyah"
   },
@@ -9931,7 +9931,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "سيد الشهداء",
     districtEnglishName: "Sayed Ash Shuhada"
   },
@@ -9940,7 +9940,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "جبل احد",
     districtEnglishName: "Jabal Uhud"
   },
@@ -9949,7 +9949,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني خدرة",
     districtEnglishName: "Bani Khidrah"
   },
@@ -9958,7 +9958,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني عبدالاشهل",
     districtEnglishName: "Bani Abdul Ashhal"
   },
@@ -9967,7 +9967,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "بني معاوية",
     districtEnglishName: "Bani Muawiyah"
   },
@@ -9976,7 +9976,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الحرم",
     districtEnglishName: "Al Haram"
   },
@@ -9985,7 +9985,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "ورقان",
     districtEnglishName: "Warqan"
   },
@@ -9994,7 +9994,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "شوران",
     districtEnglishName: "Shuran"
   },
@@ -10003,7 +10003,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -10012,7 +10012,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "الدويخلة",
     districtEnglishName: "Ad Duwaikhilah"
   },
@@ -10021,7 +10021,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "العاقول",
     districtEnglishName: "Al Aqoul"
   },
@@ -10030,7 +10030,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "المدينة المنورة",
-    cityEnglishName: "MADINAH",
+    cityEnglishName: "Madinah",
     districtArabicName: "وادي البطان",
     districtEnglishName: "Wadi Al Battan"
   },
@@ -10039,7 +10039,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -10048,7 +10048,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "الصخيرات",
     districtEnglishName: "As Sukhayrat"
   },
@@ -10057,7 +10057,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "الرزيقية",
     districtEnglishName: "Al Ruzayqiyah"
   },
@@ -10066,7 +10066,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "المحاش",
     districtEnglishName: "Al Mahash"
   },
@@ -10075,7 +10075,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -10084,7 +10084,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "صدر الغربية",
     districtEnglishName: "Sadr Al Gharbaiyah"
   },
@@ -10093,7 +10093,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "ساق",
     districtEnglishName: "Saq"
   },
@@ -10102,7 +10102,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "العلا",
-    cityEnglishName: "AL ULA",
+    cityEnglishName: "Al Ula",
     districtArabicName: "الجديدة",
     districtEnglishName: "Al Jadidah"
   },
@@ -10111,7 +10111,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "خيبر",
-    cityEnglishName: "KHAYBAR",
+    cityEnglishName: "Khaybar",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -10120,7 +10120,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "خيبر",
-    cityEnglishName: "KHAYBAR",
+    cityEnglishName: "Khaybar",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -10129,7 +10129,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "خيبر",
-    cityEnglishName: "KHAYBAR",
+    cityEnglishName: "Khaybar",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -10138,7 +10138,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "خيبر",
-    cityEnglishName: "KHAYBAR",
+    cityEnglishName: "Khaybar",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -10147,7 +10147,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "خيبر",
-    cityEnglishName: "KHAYBAR",
+    cityEnglishName: "Khaybar",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -10156,7 +10156,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الياقوت",
     districtEnglishName: "Al Yaqut"
   },
@@ -10165,7 +10165,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -10174,7 +10174,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "البقاع",
     districtEnglishName: "Al Biqa"
   },
@@ -10183,7 +10183,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -10192,7 +10192,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النعيم",
     districtEnglishName: "Al Naim"
   },
@@ -10201,7 +10201,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الازدهار",
     districtEnglishName: "Al Izdihar"
   },
@@ -10210,7 +10210,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -10219,7 +10219,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الدوحة",
     districtEnglishName: "Al Doha"
   },
@@ -10228,7 +10228,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الفلاح",
     districtEnglishName: "Al Falah"
   },
@@ -10237,7 +10237,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -10246,7 +10246,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الرمال",
     districtEnglishName: "Al Rimal"
   },
@@ -10255,7 +10255,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -10264,7 +10264,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -10273,7 +10273,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -10282,7 +10282,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzhah"
   },
@@ -10291,7 +10291,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الجار",
     districtEnglishName: "Al Jar"
   },
@@ -10300,7 +10300,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الضباب",
     districtEnglishName: "Al Dabab"
   },
@@ -10309,7 +10309,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -10318,7 +10318,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "اللؤلؤة",
     districtEnglishName: "Al Luluah"
   },
@@ -10327,7 +10327,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -10336,7 +10336,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المرسي",
     districtEnglishName: "Al Mursi"
   },
@@ -10345,7 +10345,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khaleej"
   },
@@ -10354,7 +10354,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -10363,7 +10363,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "البندر",
     districtEnglishName: "Al Bandar"
   },
@@ -10372,7 +10372,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الامارة",
     districtEnglishName: "Al Amarah"
   },
@@ -10381,7 +10381,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الزهور",
     districtEnglishName: "Al Zuhur"
   },
@@ -10390,7 +10390,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الشعلة",
     districtEnglishName: "Al Sholah"
   },
@@ -10399,7 +10399,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الحرس الوطني",
     districtEnglishName: "National Guard"
   },
@@ -10408,7 +10408,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "التلال",
     districtEnglishName: "Al Talal"
   },
@@ -10417,7 +10417,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -10426,7 +10426,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakheel"
   },
@@ -10435,7 +10435,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -10444,7 +10444,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -10453,7 +10453,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "العصيلي",
     districtEnglishName: "Al Usayli"
   },
@@ -10462,7 +10462,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -10471,7 +10471,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "السميري",
     districtEnglishName: "Al Sumayri"
   },
@@ -10480,7 +10480,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -10489,7 +10489,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Ferdous"
   },
@@ -10498,7 +10498,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "مشرفة",
     districtEnglishName: "Mishrifah"
   },
@@ -10507,7 +10507,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الجابرية",
     districtEnglishName: "Al Jabriyah"
   },
@@ -10516,7 +10516,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -10525,7 +10525,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -10534,7 +10534,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -10543,7 +10543,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -10552,7 +10552,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الحوراء",
     districtEnglishName: "Al Hawra"
   },
@@ -10561,7 +10561,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الصريف",
     districtEnglishName: "Al Suraif"
   },
@@ -10570,7 +10570,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "ينبع البلد",
     districtEnglishName: "Yanbu Al Balad"
   },
@@ -10579,7 +10579,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "البحيرة",
     districtEnglishName: "Al Buhayrah"
   },
@@ -10588,7 +10588,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الحدائق",
     districtEnglishName: "Al Hadaek"
   },
@@ -10597,7 +10597,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -10606,7 +10606,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -10615,7 +10615,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -10624,7 +10624,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الدانة",
     districtEnglishName: "Al Dana"
   },
@@ -10633,7 +10633,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الرابية",
     districtEnglishName: "Al Rabiyah"
   },
@@ -10642,7 +10642,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -10651,7 +10651,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "حى المطار",
     districtEnglishName: "Airport"
   },
@@ -10660,7 +10660,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الشفا",
     districtEnglishName: "Al Shifa"
   },
@@ -10669,7 +10669,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الروابي",
     districtEnglishName: "Al Rawabi"
   },
@@ -10678,7 +10678,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -10687,7 +10687,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -10696,7 +10696,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "منطقة الايداع واعادة التصنيع",
     districtEnglishName: "Bonded and ReExport Zone"
   },
@@ -10705,7 +10705,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "العشيرة",
     districtEnglishName: "Al Asheyrah"
   },
@@ -10714,7 +10714,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "البثنة",
     districtEnglishName: "Al Bathnah"
   },
@@ -10723,7 +10723,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -10732,7 +10732,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "النجيل",
     districtEnglishName: "An Nujayl"
   },
@@ -10741,7 +10741,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -10750,7 +10750,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -10759,7 +10759,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الريان",
     districtEnglishName: "Al Rayyan"
   },
@@ -10768,7 +10768,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "السويق",
     districtEnglishName: "Al Sawaiq"
   },
@@ -10777,7 +10777,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "حى رضوى",
     districtEnglishName: "Radwa"
   },
@@ -10786,7 +10786,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع",
-    cityEnglishName: "YANBU",
+    cityEnglishName: "Yanbu",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Al Shati"
   },
@@ -10795,7 +10795,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -10804,7 +10804,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "الغزوة",
     districtEnglishName: "Al Ghazwah"
   },
@@ -10813,7 +10813,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "العدوة",
     districtEnglishName: "Al Adwah"
   },
@@ -10822,7 +10822,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "الغزلاني",
     districtEnglishName: "Al Ghuzlani"
   },
@@ -10831,7 +10831,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "ادمان",
     districtEnglishName: "Idman"
   },
@@ -10840,7 +10840,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "الجديد",
     districtEnglishName: "Al Jadid"
   },
@@ -10849,7 +10849,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "بدر",
-    cityEnglishName: "BADR",
+    cityEnglishName: "Badr",
     districtArabicName: "الشهداء",
     districtEnglishName: "Ash Shuhada"
   },
@@ -10858,7 +10858,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الجابرية",
     districtEnglishName: "Al Jabriyah"
   },
@@ -10867,7 +10867,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -10876,7 +10876,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الزهور",
     districtEnglishName: "Al Zahur"
   },
@@ -10885,7 +10885,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -10894,7 +10894,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "المشيريف",
     districtEnglishName: "Al Mushayrif"
   },
@@ -10903,7 +10903,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "العيون",
     districtEnglishName: "Al Oyoun"
   },
@@ -10912,7 +10912,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -10921,7 +10921,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -10930,7 +10930,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -10939,7 +10939,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -10948,7 +10948,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "المهن",
     districtEnglishName: "Al Mihan"
   },
@@ -10957,7 +10957,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "النواة",
     districtEnglishName: "Al Nawah"
   },
@@ -10966,7 +10966,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "رضوى",
     districtEnglishName: "Radwa"
   },
@@ -10975,7 +10975,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "عين النوى",
     districtEnglishName: "Ayn Al Nawa"
   },
@@ -10984,7 +10984,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -10993,7 +10993,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "منطقة الصناعات الخفيفة",
     districtEnglishName: "Light Industrial Park"
   },
@@ -11002,7 +11002,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الصواري",
     districtEnglishName: "Al Sawari"
   },
@@ -11011,7 +11011,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "السميري",
     districtEnglishName: "Al Sumayri"
   },
@@ -11020,7 +11020,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الفيصل",
     districtEnglishName: "Al Faisal"
   },
@@ -11029,7 +11029,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الخالد",
     districtEnglishName: "Al Khalid"
   },
@@ -11038,7 +11038,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الجار",
     districtEnglishName: "Al Jar"
   },
@@ -11047,7 +11047,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "البثنة",
     districtEnglishName: "Al Bathnah"
   },
@@ -11056,7 +11056,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الصبح",
     districtEnglishName: "Al Subh"
   },
@@ -11065,7 +11065,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -11074,7 +11074,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -11083,7 +11083,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -11092,7 +11092,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -11101,7 +11101,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "الواجهة البحرية",
     districtEnglishName: "Sea Front"
   },
@@ -11110,7 +11110,7 @@ export const locations = [
     regionArabicName: "المدينة المنورة",
     regionEnglishName: "Madinah",
     cityArabicName: "ينبع الصناعية",
-    cityEnglishName: "YANBU AL SINAIYAH",
+    cityEnglishName: "Yanbu Al Sinaiyah",
     districtArabicName: "السلمانية",
     districtEnglishName: "Al Salmaniyah"
   },
@@ -11119,7 +11119,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmouk"
   },
@@ -11128,7 +11128,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الرمال",
     districtEnglishName: "Ar Rimal"
   },
@@ -11137,7 +11137,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -11146,7 +11146,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الخضر",
     districtEnglishName: "Al Khudar"
   },
@@ -11155,7 +11155,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "اللسيب",
     districtEnglishName: "Al Lusayb"
   },
@@ -11164,7 +11164,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النور",
     districtEnglishName: "Al Nur"
   },
@@ -11173,7 +11173,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "رواق",
     districtEnglishName: "Rawaq"
   },
@@ -11182,7 +11182,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "القصيعة",
     districtEnglishName: "Al Qusayah"
   },
@@ -11191,7 +11191,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -11200,7 +11200,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -11209,7 +11209,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "السالمية",
     districtEnglishName: "As Salmiya"
   },
@@ -11218,7 +11218,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الروابي",
     districtEnglishName: "Al Rawabi"
   },
@@ -11227,7 +11227,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "حويلان",
     districtEnglishName: "Huwailan"
   },
@@ -11236,7 +11236,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الصباخ",
     districtEnglishName: "As Sabbakh"
   },
@@ -11245,7 +11245,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "واسط",
     districtEnglishName: "Wasit"
   },
@@ -11254,7 +11254,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "خضيراء",
     districtEnglishName: "Khudayra"
   },
@@ -11263,7 +11263,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -11272,7 +11272,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الجنوب",
     districtEnglishName: "Al Janub"
   },
@@ -11281,7 +11281,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -11290,7 +11290,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الضاحي",
     districtEnglishName: "Ad Dahi"
   },
@@ -11299,7 +11299,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "خب البريدي",
     districtEnglishName: "Khub Al Buraydi"
   },
@@ -11308,7 +11308,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "السادة",
     districtEnglishName: "As Sadah"
   },
@@ -11317,7 +11317,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "العريمضي",
     districtEnglishName: "Al Uraymdi"
   },
@@ -11326,7 +11326,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الهلال",
     districtEnglishName: "Al Hilal"
   },
@@ -11335,7 +11335,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "العجيبة",
     districtEnglishName: "Al Ujaybah"
   },
@@ -11344,7 +11344,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -11353,7 +11353,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -11362,7 +11362,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الموطا",
     districtEnglishName: "Al Mawta"
   },
@@ -11371,7 +11371,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "التعليم",
     districtEnglishName: "At Taalim"
   },
@@ -11380,7 +11380,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الجردة",
     districtEnglishName: "Al Jardah"
   },
@@ -11389,7 +11389,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -11398,7 +11398,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المريديسية",
     districtEnglishName: "Al Muraydisiyyah"
   },
@@ -11407,7 +11407,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الشروق",
     districtEnglishName: "Al Shorouq"
   },
@@ -11416,7 +11416,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "خب الثنيان",
     districtEnglishName: "Khub Ath Thanyan"
   },
@@ -11425,7 +11425,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الشماس",
     districtEnglishName: "Ash Shammas"
   },
@@ -11434,7 +11434,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -11443,7 +11443,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -11452,7 +11452,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الخبيب",
     districtEnglishName: "Al Khabib"
   },
@@ -11461,7 +11461,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المرقب",
     districtEnglishName: "Al Marqab"
   },
@@ -11470,7 +11470,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -11479,7 +11479,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -11488,7 +11488,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الزرقاء",
     districtEnglishName: "Az Zarqa"
   },
@@ -11497,7 +11497,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الحمر",
     districtEnglishName: "Al Humar"
   },
@@ -11506,7 +11506,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الشفق",
     districtEnglishName: "Ash Shafaq"
   },
@@ -11515,7 +11515,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "القاع البارد",
     districtEnglishName: "Al Qaa Al Barid"
   },
@@ -11524,7 +11524,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -11533,7 +11533,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الوسيطا",
     districtEnglishName: "Al Wusayta"
   },
@@ -11542,7 +11542,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -11551,7 +11551,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -11560,7 +11560,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الصفراء",
     districtEnglishName: "As Safra"
   },
@@ -11569,7 +11569,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النقع",
     districtEnglishName: "An Naqa"
   },
@@ -11578,7 +11578,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الفايزية",
     districtEnglishName: "Al Fayziyah"
   },
@@ -11587,7 +11587,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -11596,7 +11596,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الروضه",
     districtEnglishName: "Ar Rawdah"
   },
@@ -11605,7 +11605,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النفل",
     districtEnglishName: "An Nafl"
   },
@@ -11614,7 +11614,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الإسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -11623,7 +11623,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الأخضر",
     districtEnglishName: "Al Akhdar"
   },
@@ -11632,7 +11632,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الشقة",
     districtEnglishName: "Ash Shiqah"
   },
@@ -11641,7 +11641,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -11650,7 +11650,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -11659,7 +11659,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -11668,7 +11668,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الافق",
     districtEnglishName: "Al Ufuq"
   },
@@ -11677,7 +11677,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -11686,7 +11686,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -11695,7 +11695,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -11704,7 +11704,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -11713,7 +11713,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -11722,7 +11722,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouq"
   },
@@ -11731,7 +11731,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "بريدة",
-    cityEnglishName: "BURAIDAH",
+    cityEnglishName: "Buraidah",
     districtArabicName: "التشليح",
     districtEnglishName: "At Tashlih"
   },
@@ -11740,7 +11740,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "حطين",
     districtEnglishName: "Hiteen"
   },
@@ -11749,7 +11749,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "سنام",
     districtEnglishName: "Snam"
   },
@@ -11758,7 +11758,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -11767,7 +11767,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الدوحة",
     districtEnglishName: "Ad Dawhah"
   },
@@ -11776,7 +11776,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الحاجب",
     districtEnglishName: "Al Hajeb"
   },
@@ -11785,7 +11785,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الرمال",
     districtEnglishName: "Ar Rimal"
   },
@@ -11794,7 +11794,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الحفيرة",
     districtEnglishName: "Al Hufayrah"
   },
@@ -11803,7 +11803,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -11812,7 +11812,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الملك خالد",
     districtEnglishName: "King Khalid"
   },
@@ -11821,7 +11821,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -11830,7 +11830,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الرياضى",
     districtEnglishName: "Ar Riyadi"
   },
@@ -11839,7 +11839,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "القيروان",
     districtEnglishName: "Al Qirawan"
   },
@@ -11848,7 +11848,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -11857,7 +11857,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -11866,7 +11866,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -11875,7 +11875,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -11884,7 +11884,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -11893,7 +11893,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulimaniyah"
   },
@@ -11902,7 +11902,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الوسطى",
     districtEnglishName: "Al Wusta"
   },
@@ -11911,7 +11911,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المنطقة الصناعية الثانية",
     districtEnglishName: "2nd Industrial Area"
   },
@@ -11920,7 +11920,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المنطقة الصناعية الاولى",
     districtEnglishName: "1st Industrial Area"
   },
@@ -11929,7 +11929,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -11938,7 +11938,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المستودعات",
     districtEnglishName: "Warehouse"
   },
@@ -11947,7 +11947,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الهداء",
     districtEnglishName: "Al Hadaa"
   },
@@ -11956,7 +11956,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -11965,7 +11965,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Muntazah"
   },
@@ -11974,7 +11974,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -11983,7 +11983,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -11992,7 +11992,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الرحمانية",
     districtEnglishName: "Ar Rahmaniyah"
   },
@@ -12001,7 +12001,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "دمشية",
     districtEnglishName: "Damshiah"
   },
@@ -12010,7 +12010,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -12019,7 +12019,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "العبسة",
     districtEnglishName: "Al Absiah"
   },
@@ -12028,7 +12028,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -12037,7 +12037,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الوهلان",
     districtEnglishName: "Al Wahlan"
   },
@@ -12046,7 +12046,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "مليحة",
     districtEnglishName: "Mlihah"
   },
@@ -12055,7 +12055,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "مربيدة",
     districtEnglishName: "Marbidah"
   },
@@ -12064,7 +12064,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -12073,7 +12073,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "وسط المدينة",
     districtEnglishName: "City Center"
   },
@@ -12082,7 +12082,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayan"
   },
@@ -12091,7 +12091,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الفاخرية",
     districtEnglishName: "Al Fakhriyah"
   },
@@ -12100,7 +12100,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "النقيلية",
     districtEnglishName: "An Nuqailiah"
   },
@@ -12109,7 +12109,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "السحيمية",
     districtEnglishName: "As Suhaymiyyah"
   },
@@ -12118,7 +12118,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -12127,7 +12127,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -12136,7 +12136,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "اشبيلية",
     districtEnglishName: "Ishbiliyah"
   },
@@ -12145,7 +12145,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "العونية",
     districtEnglishName: "Al Awniyah"
   },
@@ -12154,7 +12154,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -12163,7 +12163,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -12172,7 +12172,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الذهبي",
     districtEnglishName: "Ad Dahbi"
   },
@@ -12181,7 +12181,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الجامعي",
     districtEnglishName: "Al Jamie"
   },
@@ -12190,7 +12190,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -12199,7 +12199,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -12208,7 +12208,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -12217,7 +12217,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -12226,7 +12226,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الاشرفية",
     districtEnglishName: "Al Ashrafiyah"
   },
@@ -12235,7 +12235,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -12244,7 +12244,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الروغاني",
     districtEnglishName: "Ar Rawghani"
   },
@@ -12253,7 +12253,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -12262,7 +12262,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الصفراء",
     districtEnglishName: "As Safraa"
   },
@@ -12271,7 +12271,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المباركية",
     districtEnglishName: "Al Mubarkiah"
   },
@@ -12280,7 +12280,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المدوية",
     districtEnglishName: "Al Mudwiah"
   },
@@ -12289,7 +12289,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -12298,7 +12298,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "النظيم",
     districtEnglishName: "An Nadheem"
   },
@@ -12307,7 +12307,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "التحلية",
     districtEnglishName: "At Tahliyah"
   },
@@ -12316,7 +12316,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -12325,7 +12325,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -12334,7 +12334,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الوفاء",
     districtEnglishName: "Al Wafa"
   },
@@ -12343,7 +12343,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الزاهر",
     districtEnglishName: "Az Zahir"
   },
@@ -12352,7 +12352,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -12361,7 +12361,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "سوق الماشية",
     districtEnglishName: "Suq Al Mashiya"
   },
@@ -12370,7 +12370,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الجلده",
     districtEnglishName: "Al Jaldah"
   },
@@ -12379,7 +12379,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الندى",
     districtEnglishName: "An Nada"
   },
@@ -12388,7 +12388,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "ربوة الحاجب",
     districtEnglishName: "Rabwat Al Hajeb"
   },
@@ -12397,7 +12397,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الغضا",
     districtEnglishName: "Al Kada"
   },
@@ -12406,7 +12406,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الشعيب",
     districtEnglishName: "Ash Shuaib"
   },
@@ -12415,7 +12415,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "البويطن",
     districtEnglishName: "Al Buaiten"
   },
@@ -12424,7 +12424,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "النرجس",
     districtEnglishName: "An Narjis"
   },
@@ -12433,7 +12433,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "عكاظ",
     districtEnglishName: "Uqaz"
   },
@@ -12442,7 +12442,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "النفود",
     districtEnglishName: "An Nofoad"
   },
@@ -12451,7 +12451,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -12460,7 +12460,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "القصور",
     districtEnglishName: "Al Qusor"
   },
@@ -12469,7 +12469,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الحديقة",
     districtEnglishName: "Al Hadiqah"
   },
@@ -12478,7 +12478,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -12487,7 +12487,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -12496,7 +12496,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -12505,7 +12505,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الثقافة",
     districtEnglishName: "Athaqafah"
   },
@@ -12514,7 +12514,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -12523,7 +12523,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الفخامة",
     districtEnglishName: "Al Fakamah"
   },
@@ -12532,7 +12532,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -12541,7 +12541,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الزغيبة",
     districtEnglishName: "Az Zugaibah"
   },
@@ -12550,7 +12550,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -12559,7 +12559,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عنيزة",
-    cityEnglishName: "UNAYZAH",
+    cityEnglishName: "Unayzah",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -12568,7 +12568,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -12577,7 +12577,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -12586,7 +12586,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -12595,7 +12595,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الزهرة",
     districtEnglishName: "Al Zahrah"
   },
@@ -12604,7 +12604,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -12613,7 +12613,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -12622,7 +12622,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الازهار",
     districtEnglishName: "Al Azhar"
   },
@@ -12631,7 +12631,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzhah"
   },
@@ -12640,7 +12640,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -12649,7 +12649,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -12658,7 +12658,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الاستراحات",
     districtEnglishName: "Al Estrahat"
   },
@@ -12667,7 +12667,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "قبة",
-    cityEnglishName: "QIBAH",
+    cityEnglishName: "Qibah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -12676,7 +12676,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الاسياح",
-    cityEnglishName: "AL ASYAH",
+    cityEnglishName: "Al Asyah",
     districtArabicName: "الفهيد",
     districtEnglishName: "Al Fuhaid"
   },
@@ -12685,7 +12685,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -12694,7 +12694,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "المرقب",
     districtEnglishName: "Al Marqab"
   },
@@ -12703,7 +12703,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "التعليم",
     districtEnglishName: "At Talim"
   },
@@ -12712,7 +12712,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "الجردة",
     districtEnglishName: "Al Jardah"
   },
@@ -12721,7 +12721,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -12730,7 +12730,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -12739,7 +12739,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "عيون الجواء",
-    cityEnglishName: "UYUN AL JAWA",
+    cityEnglishName: "Uyun Al Jawa",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -12748,7 +12748,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -12757,7 +12757,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -12766,7 +12766,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -12775,7 +12775,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الاحتفالات",
     districtEnglishName: "Al Ihtifalat"
   },
@@ -12784,7 +12784,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -12793,7 +12793,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -12802,7 +12802,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -12811,7 +12811,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "التعليم",
     districtEnglishName: "At Talim"
   },
@@ -12820,7 +12820,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -12829,7 +12829,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -12838,7 +12838,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -12847,7 +12847,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الجندل",
     districtEnglishName: "Al Jandal"
   },
@@ -12856,7 +12856,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "وادي الرمة",
     districtEnglishName: "Wadi Ar Rimma"
   },
@@ -12865,7 +12865,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الملك فيصل",
     districtEnglishName: "King Faisal"
   },
@@ -12874,7 +12874,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -12883,7 +12883,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الزهرة",
     districtEnglishName: "Az Zahrah"
   },
@@ -12892,7 +12892,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الملك خالد",
     districtEnglishName: "King Khalid"
   },
@@ -12901,7 +12901,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "السعادة",
     districtEnglishName: "As Saadah"
   },
@@ -12910,7 +12910,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "قصر بن عقيل",
     districtEnglishName: "Qasr Ibn Aqil"
   },
@@ -12919,7 +12919,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الحوطة",
     districtEnglishName: "Al Hutah"
   },
@@ -12928,7 +12928,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "المدينة",
     districtEnglishName: "Al Madinah"
   },
@@ -12937,7 +12937,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -12946,7 +12946,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -12955,7 +12955,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الجريف",
     districtEnglishName: "Al Juraif"
   },
@@ -12964,7 +12964,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -12973,7 +12973,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -12982,7 +12982,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -12991,7 +12991,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "بهجة",
     districtEnglishName: "Bahjah"
   },
@@ -13000,7 +13000,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -13009,7 +13009,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الشنانة الشمالية",
     districtEnglishName: "Al Shinanah Ash Shamaliyyah"
   },
@@ -13018,7 +13018,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -13027,7 +13027,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الالغربي",
     districtEnglishName: "Al Gharbi"
   },
@@ -13036,7 +13036,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -13045,7 +13045,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -13054,7 +13054,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "سوق الماشيه الجديد",
     districtEnglishName: "Suq Mashiya Al Jadid"
   },
@@ -13063,7 +13063,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -13072,7 +13072,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -13081,7 +13081,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -13090,7 +13090,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -13099,7 +13099,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -13108,7 +13108,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الرس",
-    cityEnglishName: "AR RASS",
+    cityEnglishName: "Ar Rass",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -13117,7 +13117,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -13126,7 +13126,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -13135,7 +13135,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -13144,7 +13144,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الصفراء",
     districtEnglishName: "As Safra"
   },
@@ -13153,7 +13153,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -13162,7 +13162,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الجديدة",
     districtEnglishName: "Al Jadidah"
   },
@@ -13171,7 +13171,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -13180,7 +13180,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -13189,7 +13189,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -13198,7 +13198,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -13207,7 +13207,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -13216,7 +13216,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -13225,7 +13225,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -13234,7 +13234,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -13243,7 +13243,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "القفيفة",
     districtEnglishName: "Al Qifayfah"
   },
@@ -13252,7 +13252,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "ام عشيرة",
     districtEnglishName: "Umm Ushayrah"
   },
@@ -13261,7 +13261,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المذنب",
-    cityEnglishName: "AL MIDHNAB",
+    cityEnglishName: "Al Midhnab",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -13270,7 +13270,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "السلاح",
     districtEnglishName: "As Silah"
   },
@@ -13279,7 +13279,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -13288,7 +13288,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -13297,7 +13297,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "السحابين الشمالي",
     districtEnglishName: "As Sahabin Ash Shamali"
   },
@@ -13306,7 +13306,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -13315,7 +13315,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -13324,7 +13324,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -13333,7 +13333,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -13342,7 +13342,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -13351,7 +13351,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الافراح",
     districtEnglishName: "Al Afrah"
   },
@@ -13360,7 +13360,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -13369,7 +13369,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -13378,7 +13378,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -13387,7 +13387,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -13396,7 +13396,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -13405,7 +13405,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -13414,7 +13414,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -13423,7 +13423,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -13432,7 +13432,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -13441,7 +13441,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -13450,7 +13450,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "الخبراء القديمة",
     districtEnglishName: "Al Khabra Ash Shamali"
   },
@@ -13459,7 +13459,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "زبيدة",
     districtEnglishName: "Zubaiydah"
   },
@@ -13468,7 +13468,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "رياض الخبراء",
-    cityEnglishName: "RIYAD AL KHABRA",
+    cityEnglishName: "Riyad Al Khabra",
     districtArabicName: "السحابين الجنوبي",
     districtEnglishName: "As Sahabin Al Janubi"
   },
@@ -13477,7 +13477,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "ام ثلعة",
     districtEnglishName: "Umm Thalaah"
   },
@@ -13486,7 +13486,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "العبيلة",
     districtEnglishName: "Al Ubaylah"
   },
@@ -13495,7 +13495,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "العثمانية",
     districtEnglishName: "Al Uthmaniyah"
   },
@@ -13504,7 +13504,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الوسطى",
     districtEnglishName: "Al Wusta"
   },
@@ -13513,7 +13513,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الشيرمي",
     districtEnglishName: "Ash Shayrami"
   },
@@ -13522,7 +13522,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "المستشفى",
     districtEnglishName: "Al Mustashfa"
   },
@@ -13531,7 +13531,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -13540,7 +13540,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -13549,7 +13549,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -13558,7 +13558,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الرمة",
     districtEnglishName: "Ar Rimmah"
   },
@@ -13567,7 +13567,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -13576,7 +13576,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "الاصفر",
     districtEnglishName: "Al Asfar"
   },
@@ -13585,7 +13585,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "رامات",
     districtEnglishName: "Ramat"
   },
@@ -13594,7 +13594,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -13603,7 +13603,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البدائع",
-    cityEnglishName: "AL BADAI",
+    cityEnglishName: "Al Badai",
     districtArabicName: "التعليم",
     districtEnglishName: "At Taalim"
   },
@@ -13612,7 +13612,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الهلالية",
-    cityEnglishName: "AL HILALIYAH",
+    cityEnglishName: "Al Hilaliyah",
     districtArabicName: "البيضاء",
     districtEnglishName: "Al Baida"
   },
@@ -13621,7 +13621,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الهلالية",
-    cityEnglishName: "AL HILALIYAH",
+    cityEnglishName: "Al Hilaliyah",
     districtArabicName: "الهلالية",
     districtEnglishName: "Al Halaliyah"
   },
@@ -13630,7 +13630,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الهلالية",
-    cityEnglishName: "AL HILALIYAH",
+    cityEnglishName: "Al Hilaliyah",
     districtArabicName: "السلاح",
     districtEnglishName: "As Silah"
   },
@@ -13639,7 +13639,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الهلالية",
-    cityEnglishName: "AL HILALIYAH",
+    cityEnglishName: "Al Hilaliyah",
     districtArabicName: "ابن خلدون",
     districtEnglishName: "Ibn Khaldun"
   },
@@ -13648,7 +13648,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -13657,7 +13657,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "الزهرة",
     districtEnglishName: "Az Zahrah"
   },
@@ -13666,7 +13666,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -13675,7 +13675,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "ابن خلدون",
     districtEnglishName: "Ibn Khaldun"
   },
@@ -13684,7 +13684,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -13693,7 +13693,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -13702,7 +13702,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "البلد القديم",
     districtEnglishName: "Al Balad Al Qadim"
   },
@@ -13711,7 +13711,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -13720,7 +13720,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "مخطط المحمدية",
     districtEnglishName: "Al Muhammadiyah Subdivision Plan"
   },
@@ -13729,7 +13729,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "البكيرية",
-    cityEnglishName: "AL BUKAYRIYAH",
+    cityEnglishName: "Al Bukayriyah",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -13738,7 +13738,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الخبيب",
     districtEnglishName: "Al Khabib"
   },
@@ -13747,7 +13747,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "المتحف",
     districtEnglishName: "Al Mathaf"
   },
@@ -13756,7 +13756,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -13765,7 +13765,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -13774,7 +13774,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الشماس",
     districtEnglishName: "Al Shamas"
   },
@@ -13783,7 +13783,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "البلاد",
     districtEnglishName: "Al Bilad"
   },
@@ -13792,7 +13792,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouq"
   },
@@ -13801,7 +13801,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "برزة",
     districtEnglishName: "Barzah"
   },
@@ -13810,7 +13810,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الواسط",
     districtEnglishName: "Al Wasit"
   },
@@ -13819,7 +13819,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "البدع",
     districtEnglishName: "Al Bada"
   },
@@ -13828,7 +13828,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الجال",
     districtEnglishName: "Al Jal"
   },
@@ -13837,7 +13837,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -13846,7 +13846,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الميدان",
     districtEnglishName: "Al Midan"
   },
@@ -13855,7 +13855,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -13864,7 +13864,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -13873,7 +13873,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -13882,7 +13882,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -13891,7 +13891,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "الشماسية",
-    cityEnglishName: "ASH SHIMASIYAH",
+    cityEnglishName: "Ash Shimasiyah",
     districtArabicName: "المتوكل",
     districtEnglishName: "Al Mutawakil"
   },
@@ -13900,7 +13900,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "النبهانية",
-    cityEnglishName: "AN NABHANIYAH",
+    cityEnglishName: "An Nabhaniyah",
     districtArabicName: "فيضة ابان الاحمر",
     districtEnglishName: "Faidat Aban AlAhmar"
   },
@@ -13909,7 +13909,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "النبهانية",
-    cityEnglishName: "AN NABHANIYAH",
+    cityEnglishName: "An Nabhaniyah",
     districtArabicName: "النويصفة",
     districtEnglishName: "Al Nuwaisifah"
   },
@@ -13918,7 +13918,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "النبهانية",
-    cityEnglishName: "AN NABHANIYAH",
+    cityEnglishName: "An Nabhaniyah",
     districtArabicName: "مشرفة عمودان",
     districtEnglishName: "Mishrifat Amudan"
   },
@@ -13927,7 +13927,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "النبهانية",
-    cityEnglishName: "AN NABHANIYAH",
+    cityEnglishName: "An Nabhaniyah",
     districtArabicName: "كفت",
     districtEnglishName: "Kofat"
   },
@@ -13936,7 +13936,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المرموثة",
-    cityEnglishName: "AL MARMUTHAH",
+    cityEnglishName: "Al Marmuthah",
     districtArabicName: "فيضة السلمات",
     districtEnglishName: "Faidat Al Salamat"
   },
@@ -13945,7 +13945,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المرموثة",
-    cityEnglishName: "AL MARMUTHAH",
+    cityEnglishName: "Al Marmuthah",
     districtArabicName: "المرموثة الشمالية",
     districtEnglishName: "Al Marmuthah Ash Shamaliyah"
   },
@@ -13954,7 +13954,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المرموثة",
-    cityEnglishName: "AL MARMUTHAH",
+    cityEnglishName: "Al Marmuthah",
     districtArabicName: "الخريشاء",
     districtEnglishName: "Al Kharisha"
   },
@@ -13963,7 +13963,7 @@ export const locations = [
     regionArabicName: "القصيم",
     regionEnglishName: "Qassim",
     cityArabicName: "المرموثة",
-    cityEnglishName: "AL MARMUTHAH",
+    cityEnglishName: "Al Marmuthah",
     districtArabicName: "المديري",
     districtEnglishName: "Al Mudairy"
   },
@@ -13972,7 +13972,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الزهرة",
     districtEnglishName: "Az Zahrah"
   },
@@ -13981,7 +13981,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المربدية",
     districtEnglishName: "Al Marbidia"
   },
@@ -13990,7 +13990,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -13999,7 +13999,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -14008,7 +14008,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الورود الثاني",
     districtEnglishName: "Al Wurud 2nd"
   },
@@ -14017,7 +14017,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المهندسين",
     districtEnglishName: "Al Muhandisin"
   },
@@ -14026,7 +14026,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "عين موسى",
     districtEnglishName: "Ayn Musa"
   },
@@ -14035,7 +14035,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الصقور",
     districtEnglishName: "As Suqur"
   },
@@ -14044,7 +14044,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -14053,7 +14053,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -14062,7 +14062,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الثليثية",
     districtEnglishName: "Al Thulaythiyah"
   },
@@ -14071,7 +14071,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المعلمين",
     districtEnglishName: "Al Muallimeen"
   },
@@ -14080,7 +14080,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العاصمة",
     districtEnglishName: "Al Asimah"
   },
@@ -14089,7 +14089,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الأمراء",
     districtEnglishName: "Al Omaraa"
   },
@@ -14098,7 +14098,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -14107,7 +14107,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العزيزية الثاني",
     districtEnglishName: "Al Aziziyah 2nd"
   },
@@ -14116,7 +14116,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحمراء الثالث",
     districtEnglishName: "Al Hamra 3rd"
   },
@@ -14125,7 +14125,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المرقاب",
     districtEnglishName: "Al Mirqab"
   },
@@ -14134,7 +14134,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -14143,7 +14143,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحزام الأخضر",
     districtEnglishName: "Al Hizam Al Akhdar"
   },
@@ -14152,7 +14152,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الجامعيين",
     districtEnglishName: "Al Jamiyin"
   },
@@ -14161,7 +14161,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -14170,7 +14170,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -14179,7 +14179,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الصحافة",
     districtEnglishName: "As Sahafah"
   },
@@ -14188,7 +14188,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "ام خريسان",
     districtEnglishName: "Um Khraisan"
   },
@@ -14197,7 +14197,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -14206,7 +14206,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحمراء الثاني",
     districtEnglishName: "Al Hamra 2nd"
   },
@@ -14215,7 +14215,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "البدرية",
     districtEnglishName: "Al Badriyah"
   },
@@ -14224,7 +14224,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السنيدية",
     districtEnglishName: "As Sunaidah"
   },
@@ -14233,7 +14233,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -14242,7 +14242,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "لذه",
     districtEnglishName: "Ladhah"
   },
@@ -14251,7 +14251,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "مجمع الدوائر الحكومية الثاني",
     districtEnglishName: "Government Departments Complex 2nd"
   },
@@ -14260,7 +14260,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المزروع الثاني",
     districtEnglishName: "Al Mazrooa 2nd"
   },
@@ -14269,7 +14269,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الورود الثالث",
     districtEnglishName: "Al Wurud 3rd"
   },
@@ -14278,7 +14278,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الربوه",
     districtEnglishName: "Ar Rabwah"
   },
@@ -14287,7 +14287,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرويضة",
     districtEnglishName: "Ar Ruwaida"
   },
@@ -14296,7 +14296,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرفيعة",
     districtEnglishName: "Ar Rafiah"
   },
@@ -14305,7 +14305,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحوراء",
     districtEnglishName: "Al Hawra"
   },
@@ -14314,7 +14314,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرقيقة",
     districtEnglishName: "Ar Ruqaiqah"
   },
@@ -14323,7 +14323,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المزروع الاول",
     districtEnglishName: "Al Mazrooa 1st"
   },
@@ -14332,7 +14332,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "جوبا",
     districtEnglishName: "Juba"
   },
@@ -14341,7 +14341,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "البصيرة",
     districtEnglishName: "Al Busairah"
   },
@@ -14350,7 +14350,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المروج الجنوبي",
     districtEnglishName: "Al Muruj Southern"
   },
@@ -14359,7 +14359,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaimaniyah"
   },
@@ -14368,7 +14368,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحمراء الأول",
     districtEnglishName: "Al Hamra 1st"
   },
@@ -14377,7 +14377,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الشهابية",
     districtEnglishName: "Ash Shihabiyah"
   },
@@ -14386,7 +14386,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العزيزية الأول",
     districtEnglishName: "Al Aziziyah 1st"
   },
@@ -14395,7 +14395,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "جامعة الملك فيصل الأول",
     districtEnglishName: "King Faisal University 1st"
   },
@@ -14404,7 +14404,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -14413,7 +14413,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "هجر",
     districtEnglishName: "Hajr"
   },
@@ -14422,7 +14422,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "منسوبي التعليم الأول",
     districtEnglishName: "Mansubi Al Taleem 1st"
   },
@@ -14431,7 +14431,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "منيفة",
     districtEnglishName: "Munifah"
   },
@@ -14440,7 +14440,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "البندرية",
     districtEnglishName: "Al Bandariyah"
   },
@@ -14449,7 +14449,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العويمرية",
     districtEnglishName: "Al Uwaimiriyah"
   },
@@ -14458,7 +14458,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "النايفية",
     districtEnglishName: "An Nayfiyah"
   },
@@ -14467,7 +14467,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -14476,7 +14476,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الدوحة",
     districtEnglishName: "Al Doha"
   },
@@ -14485,7 +14485,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المثلث",
     districtEnglishName: "Al Muthalath"
   },
@@ -14494,7 +14494,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -14503,7 +14503,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "منطقة الغويبة الزراعية",
     districtEnglishName: "Alghawbia Agricultural Area"
   },
@@ -14512,7 +14512,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الوسيطة",
     districtEnglishName: "Al Wasitah"
   },
@@ -14521,7 +14521,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السلمانية الثاني",
     districtEnglishName: "Al Salmaniyah 2nd"
   },
@@ -14530,7 +14530,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الشغيبية",
     districtEnglishName: "Al Shagaibiyah"
   },
@@ -14539,7 +14539,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "جامعة الملك فيصل الثالث",
     districtEnglishName: "King Faisal University 3rd"
   },
@@ -14548,7 +14548,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الإسكان الأول",
     districtEnglishName: "Al Iskan 1st"
   },
@@ -14557,7 +14557,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "صويدرة",
     districtEnglishName: "As Suwaidirah"
   },
@@ -14566,7 +14566,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -14575,7 +14575,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السلمانية الرابع",
     districtEnglishName: "Al Salmaniyah 4th"
   },
@@ -14584,7 +14584,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "منسوبي التعليم الثاني",
     districtEnglishName: "Mansubi Al Taleem 2nd"
   },
@@ -14593,7 +14593,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الورود الأول",
     districtEnglishName: "Al Wurud 1st"
   },
@@ -14602,7 +14602,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الفيصلية الثاني",
     districtEnglishName: "Al Faisaliyah 2nd"
   },
@@ -14611,7 +14611,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الناصرية",
     districtEnglishName: "An Nasriyah"
   },
@@ -14620,7 +14620,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "اللويمي",
     districtEnglishName: "Al Luwaymi"
   },
@@ -14629,7 +14629,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الخدود",
     districtEnglishName: "Al Khudud"
   },
@@ -14638,7 +14638,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السلمانية الثالث",
     districtEnglishName: "Al Salmaniyah 3rd"
   },
@@ -14647,7 +14647,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المزروعية",
     districtEnglishName: "Al Mazruiyah"
   },
@@ -14656,7 +14656,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المجيدية",
     districtEnglishName: "Al Majidiyah"
   },
@@ -14665,7 +14665,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -14674,7 +14674,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -14683,7 +14683,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الدانة",
     districtEnglishName: "Al Danah"
   },
@@ -14692,7 +14692,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Fardus"
   },
@@ -14701,7 +14701,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السيفة",
     districtEnglishName: "As Saifa"
   },
@@ -14710,7 +14710,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الحفيرة",
     districtEnglishName: "Al Hufayrah"
   },
@@ -14719,7 +14719,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "السلمانية الأول",
     districtEnglishName: "Al Salmaniyah 1st"
   },
@@ -14728,7 +14728,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -14737,7 +14737,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المباركية",
     districtEnglishName: "Al Mubarakiyah"
   },
@@ -14746,7 +14746,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "جامعة الامام محمد بن سعود الاسلامية",
     districtEnglishName: "Imam Muhammed Ibn Saud Islamic University"
   },
@@ -14755,7 +14755,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الفيصلية الأول",
     districtEnglishName: "Al Faisaliyah 1st"
   },
@@ -14764,7 +14764,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرفعة الجنوبية",
     districtEnglishName: "Ar Refah Southern"
   },
@@ -14773,7 +14773,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "جامعة الملك فيصل الثاني",
     districtEnglishName: "King Faisal University 2nd"
   },
@@ -14782,7 +14782,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الإسكان الثاني",
     districtEnglishName: "Al Iskan 2nd"
   },
@@ -14791,7 +14791,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المدينة الرياضية",
     districtEnglishName: "Sports City"
   },
@@ -14800,7 +14800,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "المروج الشمالي",
     districtEnglishName: "Al Muruj Northern"
   },
@@ -14809,7 +14809,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "مطار الأحساء",
     districtEnglishName: "Al Ahsa Airport"
   },
@@ -14818,7 +14818,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الطالعية",
     districtEnglishName: "Al Talayah"
   },
@@ -14827,7 +14827,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "النعاثل",
     districtEnglishName: "Al Naathel"
   },
@@ -14836,7 +14836,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الكوت",
     districtEnglishName: "Al Koot"
   },
@@ -14845,7 +14845,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الرفعة الشمالية",
     districtEnglishName: "Ar Refah Northern"
   },
@@ -14854,7 +14854,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -14863,7 +14863,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الهفوف",
-    cityEnglishName: "AL HAFUF",
+    cityEnglishName: "Al Hafuf",
     districtArabicName: "العسيلة",
     districtEnglishName: "Al Aseelah"
   },
@@ -14872,7 +14872,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الخالدية الشمالية",
     districtEnglishName: "Al Khalidiyah Ash Shamaliyah"
   },
@@ -14881,7 +14881,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الناصرية",
     districtEnglishName: "An Nasriyah"
   },
@@ -14890,7 +14890,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الصناعية الاولى",
     districtEnglishName: "1st Industrial"
   },
@@ -14899,7 +14899,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الفنار",
     districtEnglishName: "Al Fanar"
   },
@@ -14908,7 +14908,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الأثير",
     districtEnglishName: "Al Athir"
   },
@@ -14917,7 +14917,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الجلوية",
     districtEnglishName: "Al Jalawiyah"
   },
@@ -14926,7 +14926,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -14935,7 +14935,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "القزاز",
     districtEnglishName: "Al Qazaz"
   },
@@ -14944,7 +14944,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "البادية",
     districtEnglishName: "Al Badiyah"
   },
@@ -14953,7 +14953,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الدواسر",
     districtEnglishName: "Ad Dawasir"
   },
@@ -14962,7 +14962,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "العنود",
     districtEnglishName: "Al Anud"
   },
@@ -14971,7 +14971,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الشاطئ الغربي",
     districtEnglishName: "Ash Shati Al Gharbi"
   },
@@ -14980,7 +14980,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الضباب",
     districtEnglishName: "Ad Dabab"
   },
@@ -14989,7 +14989,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -14998,7 +14998,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -15007,7 +15007,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -15016,7 +15016,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -15025,7 +15025,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المريكبات",
     districtEnglishName: "Al Muraikabat"
   },
@@ -15034,7 +15034,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -15043,7 +15043,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "ضاحية الملك فهد",
     districtEnglishName: "Dahiyat Al Malik Fahd"
   },
@@ -15052,7 +15052,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "السيف",
     districtEnglishName: "As Saif"
   },
@@ -15061,7 +15061,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -15070,7 +15070,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "احد",
     districtEnglishName: "Uhud"
   },
@@ -15079,7 +15079,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -15088,7 +15088,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -15097,7 +15097,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -15106,7 +15106,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "طيبة",
     districtEnglishName: "Taibah"
   },
@@ -15115,7 +15115,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الجامعيين",
     districtEnglishName: "Al Jamiyin"
   },
@@ -15124,7 +15124,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -15133,7 +15133,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -15142,7 +15142,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -15151,7 +15151,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "العدامة",
     districtEnglishName: "Al Adamah"
   },
@@ -15160,7 +15160,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الامير محمد بن سعود",
     districtEnglishName: "Prince Muhammed Ibn Saud"
   },
@@ -15169,7 +15169,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الطبيشي",
     districtEnglishName: "At Tubayshi"
   },
@@ -15178,7 +15178,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المزروعية",
     districtEnglishName: "Al Mazruiyah"
   },
@@ -15187,7 +15187,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -15196,7 +15196,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -15205,7 +15205,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -15214,7 +15214,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Firdaws"
   },
@@ -15223,7 +15223,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "قصر الخليج",
     districtEnglishName: "Qasr Al Khalij"
   },
@@ -15232,7 +15232,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المدينة الصناعية الثانية",
     districtEnglishName: "2nd Industrial City"
   },
@@ -15241,7 +15241,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "مطار الملك فهد الدولي",
     districtEnglishName: "King Fahd International Airport"
   },
@@ -15250,7 +15250,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الخضرية",
     districtEnglishName: "Al Kuthriah"
   },
@@ -15259,7 +15259,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "مدينة العمال",
     districtEnglishName: "Madinat Al Ummal"
   },
@@ -15268,7 +15268,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "العمامرة",
     districtEnglishName: "Al Amamrah"
   },
@@ -15277,7 +15277,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "البديع",
     districtEnglishName: "Al Badi"
   },
@@ -15286,7 +15286,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الشاطئ الشرقي",
     districtEnglishName: "Ash Shati Ash Sharqi"
   },
@@ -15295,7 +15295,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -15304,7 +15304,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -15313,7 +15313,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الراكة الشمالية",
     districtEnglishName: "Ar Rakah Ash Shamaliyah"
   },
@@ -15322,7 +15322,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النورس",
     districtEnglishName: "An Nawras"
   },
@@ -15331,7 +15331,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -15340,7 +15340,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الاتصالات",
     districtEnglishName: "Al Itisalat"
   },
@@ -15349,7 +15349,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "ابن خلدون",
     districtEnglishName: "Ibn Khaldun"
   },
@@ -15358,7 +15358,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "السوق",
     districtEnglishName: "As Suq"
   },
@@ -15367,7 +15367,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -15376,7 +15376,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -15385,7 +15385,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "البحيرة",
     districtEnglishName: "Al Buhayrah"
   },
@@ -15394,7 +15394,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -15403,7 +15403,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -15412,7 +15412,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الدانة",
     districtEnglishName: "Ad Danah"
   },
@@ -15421,7 +15421,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -15430,7 +15430,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -15439,7 +15439,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -15448,7 +15448,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -15457,7 +15457,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -15466,7 +15466,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "مدينة الملك فيصل الجامعية",
     districtEnglishName: "King Faisal University"
   },
@@ -15475,7 +15475,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الحسام",
     districtEnglishName: "Al Hussam"
   },
@@ -15484,7 +15484,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "ميناء الملك عبدالعزيز",
     districtEnglishName: "King Abdul Aziz Seaport"
   },
@@ -15493,7 +15493,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -15502,7 +15502,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الخالدية الجنوبية",
     districtEnglishName: "Al Khalidiyah Al Janubiyah"
   },
@@ -15511,7 +15511,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الشعلة",
     districtEnglishName: "Ash Shulah"
   },
@@ -15520,7 +15520,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الأنوار",
     districtEnglishName: "Al Anwar"
   },
@@ -15529,7 +15529,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الأمل",
     districtEnglishName: "Al Amal"
   },
@@ -15538,7 +15538,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الشرق",
     districtEnglishName: "Ash Sharq"
   },
@@ -15547,7 +15547,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الهضبة",
     districtEnglishName: "Al Hadabah"
   },
@@ -15556,7 +15556,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -15565,7 +15565,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الأمانة",
     districtEnglishName: "Al Amanah"
   },
@@ -15574,7 +15574,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الفرسان",
     districtEnglishName: "Al Fursan"
   },
@@ -15583,7 +15583,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المها",
     districtEnglishName: "Al Maha"
   },
@@ -15592,7 +15592,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الندى",
     districtEnglishName: "An Nada"
   },
@@ -15601,7 +15601,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "المدينة الصناعية الثالثة",
     districtEnglishName: "3rd Industrial City"
   },
@@ -15610,7 +15610,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "مدينة الملك سلمان للطاقة",
     districtEnglishName: "King Salman Energy Park"
   },
@@ -15619,7 +15619,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الإسكان الجنوبي",
     districtEnglishName: "Al Iskan Al Janubi"
   },
@@ -15628,7 +15628,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -15637,7 +15637,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الدمام",
-    cityEnglishName: "DAMMAM",
+    cityEnglishName: "Dammam",
     districtArabicName: "الاسكان الشمالي",
     districtEnglishName: "Al Iskan Northren"
   },
@@ -15646,7 +15646,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "التحلية",
     districtEnglishName: "At Tahliyah"
   },
@@ -15655,7 +15655,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "ابن سيناء",
     districtEnglishName: "Ibn Sina"
   },
@@ -15664,7 +15664,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الحزام الاخضر",
     districtEnglishName: "Al Hizam Al Akhdar"
   },
@@ -15673,7 +15673,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "صناعية الثقبة",
     districtEnglishName: "Sinaiyah Ath Thuqbah"
   },
@@ -15682,7 +15682,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -15691,7 +15691,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الراكة الجنوبية",
     districtEnglishName: "Ar Rakah Al Janubiyah"
   },
@@ -15700,7 +15700,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الخبر الشمالية",
     districtEnglishName: "Al Khubar Ash Shamaliyah"
   },
@@ -15709,7 +15709,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "مدينة العمال",
     districtEnglishName: "Madinat Al Ummal"
   },
@@ -15718,7 +15718,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "العقربية",
     districtEnglishName: "Al Aqrabiyah"
   },
@@ -15727,7 +15727,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الخبر الجنوبية",
     districtEnglishName: "Al Khubar Al Janubiyah"
   },
@@ -15736,7 +15736,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -15745,7 +15745,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmok"
   },
@@ -15754,7 +15754,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -15763,7 +15763,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -15772,7 +15772,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الحزام الذهبي",
     districtEnglishName: "Al Hizam Adh Dhahabi"
   },
@@ -15781,7 +15781,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -15790,7 +15790,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -15799,7 +15799,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "البندرية",
     districtEnglishName: "Al Bandariyah"
   },
@@ -15808,7 +15808,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -15817,7 +15817,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الثقبة",
     districtEnglishName: "Ath Thuqbah"
   },
@@ -15826,7 +15826,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -15835,7 +15835,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -15844,7 +15844,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -15853,7 +15853,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الجسر",
     districtEnglishName: "Al Jisr"
   },
@@ -15862,7 +15862,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -15871,7 +15871,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "المدينة الرياضية",
     districtEnglishName: "Sports City"
   },
@@ -15880,7 +15880,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "البحر",
     districtEnglishName: "Al Bahar"
   },
@@ -15889,7 +15889,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الكورنيش",
     districtEnglishName: "Al Kurnaish"
   },
@@ -15898,7 +15898,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "صناعية الفوازية",
     districtEnglishName: "Sinaiyah Al Fawaziyah"
   },
@@ -15907,7 +15907,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الساحل",
     districtEnglishName: "As Sahil"
   },
@@ -15916,7 +15916,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الخور",
     districtEnglishName: "Al Khawr"
   },
@@ -15925,7 +15925,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "اشبيليا",
     districtEnglishName: "Ishbiliya"
   },
@@ -15934,7 +15934,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "البحيرة",
     districtEnglishName: "Al Buhayrah"
   },
@@ -15943,7 +15943,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الشراع",
     districtEnglishName: "Ash Sheraa"
   },
@@ -15952,7 +15952,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الكوثر",
     districtEnglishName: "Al Kawthar"
   },
@@ -15961,7 +15961,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الرجاء",
     districtEnglishName: "Ar Raja"
   },
@@ -15970,7 +15970,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الصواري",
     districtEnglishName: "As Sawari"
   },
@@ -15979,7 +15979,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -15988,7 +15988,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "المها",
     districtEnglishName: "Al Maha"
   },
@@ -15997,7 +15997,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الامواج",
     districtEnglishName: "Al Amwaj"
   },
@@ -16006,7 +16006,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "اللؤلؤ",
     districtEnglishName: "Al Lulu"
   },
@@ -16015,7 +16015,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -16024,7 +16024,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "السفن",
     districtEnglishName: "As Sufun"
   },
@@ -16033,7 +16033,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخبر",
-    cityEnglishName: "AL KHOBAR",
+    cityEnglishName: "Al Khobar",
     districtArabicName: "الصدفة",
     districtEnglishName: "As Sadafah"
   },
@@ -16042,7 +16042,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -16051,7 +16051,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -16060,7 +16060,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -16069,7 +16069,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -16078,7 +16078,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -16087,7 +16087,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -16096,7 +16096,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -16105,7 +16105,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "البلدية",
     districtEnglishName: "Al Baladiyah"
   },
@@ -16114,7 +16114,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -16123,7 +16123,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -16132,7 +16132,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -16141,7 +16141,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -16150,7 +16150,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الباطن",
     districtEnglishName: "Al Batin"
   },
@@ -16159,7 +16159,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -16168,7 +16168,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -16177,7 +16177,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -16186,7 +16186,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -16195,7 +16195,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "فليج",
     districtEnglishName: "Fulaij"
   },
@@ -16204,7 +16204,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -16213,7 +16213,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -16222,7 +16222,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulimaniyah"
   },
@@ -16231,7 +16231,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -16240,7 +16240,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -16249,7 +16249,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -16258,7 +16258,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -16267,7 +16267,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayan"
   },
@@ -16276,7 +16276,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "النايفية",
     districtEnglishName: "An Nayfiyah"
   },
@@ -16285,7 +16285,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -16294,7 +16294,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -16303,7 +16303,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -16312,7 +16312,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -16321,7 +16321,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -16330,7 +16330,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "ابو موسى الاشعري",
     districtEnglishName: "Abu Musa Al Ashari"
   },
@@ -16339,7 +16339,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -16348,7 +16348,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الرائد",
     districtEnglishName: "Ar Raid"
   },
@@ -16357,7 +16357,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "حفر الباطن",
-    cityEnglishName: "HAFAR AL BATIN",
+    cityEnglishName: "Hafar Al Batin",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -16366,7 +16366,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البديع",
     districtEnglishName: "Al Badi"
   },
@@ -16375,7 +16375,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "منطقة المستودعات",
     districtEnglishName: "Warehouse Area"
   },
@@ -16384,7 +16384,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المجيدية",
     districtEnglishName: "Al Majidiyah"
   },
@@ -16393,7 +16393,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -16402,7 +16402,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الفتح",
     districtEnglishName: "Al Fath"
   },
@@ -16411,7 +16411,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -16420,7 +16420,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -16429,7 +16429,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -16438,7 +16438,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -16447,7 +16447,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -16456,7 +16456,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الرضا",
     districtEnglishName: "Ar Rida"
   },
@@ -16465,7 +16465,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الجارودية",
     districtEnglishName: "Al Jarudiyah"
   },
@@ -16474,7 +16474,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "حلة محيش",
     districtEnglishName: "Halat Mahish"
   },
@@ -16483,7 +16483,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الياقوت",
     districtEnglishName: "Al Yaqut"
   },
@@ -16492,7 +16492,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -16501,7 +16501,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الدبابية",
     districtEnglishName: "Ad Dababiyyah"
   },
@@ -16510,7 +16510,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الخامسة",
     districtEnglishName: "Al Khamisah"
   },
@@ -16519,7 +16519,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "ام الجزم",
     districtEnglishName: "Umm Al Jazm"
   },
@@ -16528,7 +16528,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "بديعة البصري",
     districtEnglishName: "Badiah Al Basri"
   },
@@ -16537,7 +16537,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المشتل",
     districtEnglishName: "Al Mashtal"
   },
@@ -16546,7 +16546,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الزمرد",
     districtEnglishName: "Az Zomorod"
   },
@@ -16555,7 +16555,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الناصرة",
     districtEnglishName: "An Nasirah"
   },
@@ -16564,7 +16564,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البحاري",
     districtEnglishName: "Al Bahari"
   },
@@ -16573,7 +16573,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "مياس",
     districtEnglishName: "Mayyas"
   },
@@ -16582,7 +16582,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الجواهر",
     districtEnglishName: "Al Jawahir"
   },
@@ -16591,7 +16591,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -16600,7 +16600,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "التوبي",
     districtEnglishName: "At Tawbi"
   },
@@ -16609,7 +16609,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الجراري",
     districtEnglishName: "Al Jarrari"
   },
@@ -16618,7 +16618,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الشهباء",
     districtEnglishName: "Ash Shahba"
   },
@@ -16627,7 +16627,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "القديح",
     districtEnglishName: "Al Qadih"
   },
@@ -16636,7 +16636,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المدارس",
     districtEnglishName: "Al Madaris"
   },
@@ -16645,7 +16645,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الشماسيه",
     districtEnglishName: "Ash Shamasiyyah"
   },
@@ -16654,7 +16654,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "باب الساب",
     districtEnglishName: "Bab As Sab"
   },
@@ -16663,7 +16663,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الجميمة",
     districtEnglishName: "Al Jumaimah"
   },
@@ -16672,7 +16672,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المسعودية",
     districtEnglishName: "Al Masudiyah"
   },
@@ -16681,7 +16681,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الخويلدية",
     districtEnglishName: "Al Khuwaildiyah"
   },
@@ -16690,7 +16690,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "العوامية",
     districtEnglishName: "Al Awamiyah"
   },
@@ -16699,7 +16699,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الدويج",
     districtEnglishName: "Ad Doij"
   },
@@ -16708,7 +16708,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الرابعة",
     districtEnglishName: "Ar Rabiah"
   },
@@ -16717,7 +16717,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -16726,7 +16726,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -16735,7 +16735,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الشريعة",
     districtEnglishName: "Ash Shariah"
   },
@@ -16744,7 +16744,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الوسادة",
     districtEnglishName: "Al Wasadah"
   },
@@ -16753,7 +16753,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "القلعة",
     districtEnglishName: "Al Qalah"
   },
@@ -16762,7 +16762,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البوادي",
     districtEnglishName: "Al Bawadi"
   },
@@ -16771,7 +16771,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الحسين",
     districtEnglishName: "Al Husain"
   },
@@ -16780,7 +16780,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "المدني",
     districtEnglishName: "Al Madani"
   },
@@ -16789,7 +16789,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الثريا",
     districtEnglishName: "Ath Thuraiya"
   },
@@ -16798,7 +16798,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الريف",
     districtEnglishName: "Ar Rif"
   },
@@ -16807,7 +16807,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "باب الشمال",
     districtEnglishName: "Bab Madinah Ash Shamal"
   },
@@ -16816,7 +16816,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "البحر",
     districtEnglishName: "Al Bahr"
   },
@@ -16825,7 +16825,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الشويكة",
     districtEnglishName: "Ash Shweikah"
   },
@@ -16834,7 +16834,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الوديعه",
     districtEnglishName: "Al Wadiah"
   },
@@ -16843,7 +16843,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الكويكب",
     districtEnglishName: "Kuwaikib"
   },
@@ -16852,7 +16852,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "النرجس",
     districtEnglishName: "An Narjis"
   },
@@ -16861,7 +16861,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -16870,7 +16870,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "القطيف",
-    cityEnglishName: "AL QATIF",
+    cityEnglishName: "Al Qatif",
     districtArabicName: "الزارة",
     districtEnglishName: "Az Zarah"
   },
@@ -16879,7 +16879,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الرفاع",
     districtEnglishName: "Ar Rifaa"
   },
@@ -16888,7 +16888,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -16897,7 +16897,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -16906,7 +16906,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -16915,7 +16915,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -16924,7 +16924,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -16933,7 +16933,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -16942,7 +16942,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "قصر عالي",
     districtEnglishName: "Qasr Aali"
   },
@@ -16951,7 +16951,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -16960,7 +16960,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -16969,7 +16969,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -16978,7 +16978,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -16987,7 +16987,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -16996,7 +16996,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -17005,7 +17005,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "قرية العليا",
-    cityEnglishName: "QARYAT AL ULYA",
+    cityEnglishName: "Qaryat Al Ulya",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -17014,7 +17014,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المرقاب",
     districtEnglishName: "Al Merqab"
   },
@@ -17023,7 +17023,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "طيبة",
     districtEnglishName: "Tebah"
   },
@@ -17032,7 +17032,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -17041,7 +17041,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الضباب",
     districtEnglishName: "Al Dabab"
   },
@@ -17050,7 +17050,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -17059,7 +17059,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الطوية",
     districtEnglishName: "Al Tawyah"
   },
@@ -17068,7 +17068,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الدانة",
     districtEnglishName: "Al Dana"
   },
@@ -17077,7 +17077,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الصفاة",
     districtEnglishName: "Al Safat"
   },
@@ -17086,7 +17086,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "صناعية العريفي",
     districtEnglishName: "Oraifi Industrial"
   },
@@ -17095,7 +17095,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -17104,7 +17104,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -17113,7 +17113,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "التعاون",
     districtEnglishName: "Al Taawun"
   },
@@ -17122,7 +17122,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "ابو موسى الاشعري",
     districtEnglishName: "Abu Musa AlAshary"
   },
@@ -17131,7 +17131,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawhara"
   },
@@ -17140,7 +17140,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -17149,7 +17149,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -17158,7 +17158,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -17167,7 +17167,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "البحر",
     districtEnglishName: "Al Bahar"
   },
@@ -17176,7 +17176,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "اشبلية",
     districtEnglishName: "Ishbiliyah"
   },
@@ -17185,7 +17185,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -17194,7 +17194,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -17203,7 +17203,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -17212,7 +17212,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "قرطبة",
     districtEnglishName: "Cordoba"
   },
@@ -17221,7 +17221,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الحويلات",
     districtEnglishName: "Al Huwaylat"
   },
@@ -17230,7 +17230,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "اللؤلؤ",
     districtEnglishName: "Al Lualu"
   },
@@ -17239,7 +17239,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المنطقة الصناعية الاولى",
     districtEnglishName: "1st Industrial Area"
   },
@@ -17248,7 +17248,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -17257,7 +17257,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -17266,7 +17266,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الاحساء",
     districtEnglishName: "Al Ahsa"
   },
@@ -17275,7 +17275,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المنطقة الصناعية الثانية",
     districtEnglishName: "2nd Industrial Area"
   },
@@ -17284,7 +17284,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المنطقة الصناعية الثالثة",
     districtEnglishName: "3rd Industrial Area"
   },
@@ -17293,7 +17293,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "ينبع",
     districtEnglishName: "Yanbu"
   },
@@ -17302,7 +17302,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -17311,7 +17311,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -17320,7 +17320,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "نجد",
     districtEnglishName: "Najd"
   },
@@ -17329,7 +17329,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "دارين",
     districtEnglishName: "Darin"
   },
@@ -17338,7 +17338,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "سدير",
     districtEnglishName: "Sudayr"
   },
@@ -17347,7 +17347,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "مكة",
     districtEnglishName: "Makkah"
   },
@@ -17356,7 +17356,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الحجاز",
     districtEnglishName: "Al Hijaz"
   },
@@ -17365,7 +17365,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Firdaws"
   },
@@ -17374,7 +17374,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -17383,7 +17383,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouq"
   },
@@ -17392,7 +17392,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -17401,7 +17401,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "جلمودة",
     districtEnglishName: "Jalmudah"
   },
@@ -17410,7 +17410,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجبيل",
-    cityEnglishName: "AL JUBAIL",
+    cityEnglishName: "Al Jubail",
     districtArabicName: "المطرفية",
     districtEnglishName: "Al Matrafiyah"
   },
@@ -17419,7 +17419,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -17428,7 +17428,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "التشاليح",
     districtEnglishName: "At Tashalih"
   },
@@ -17437,7 +17437,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -17446,7 +17446,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -17455,7 +17455,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "ج4",
     districtEnglishName: "C4"
   },
@@ -17464,7 +17464,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -17473,7 +17473,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -17482,7 +17482,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "النعيرية",
-    cityEnglishName: "AN NUAYRIYAH",
+    cityEnglishName: "An Nuayriyah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -17491,7 +17491,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الدوحة الجنوبية",
     districtEnglishName: "Ad Dawhah Al Janubiyah"
   },
@@ -17500,7 +17500,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الدانة الشمالية",
     districtEnglishName: "Ad Danah Ash Shamaliyah"
   },
@@ -17509,7 +17509,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "القصور",
     districtEnglishName: "Al Qusur"
   },
@@ -17518,7 +17518,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الدوحة الشمالية",
     districtEnglishName: "Ad Dawhah Ash Shamaliyah"
   },
@@ -17527,7 +17527,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الدانة الجنوبية",
     districtEnglishName: "Ad Danah Al Janubiyah"
   },
@@ -17536,7 +17536,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -17545,7 +17545,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "الحرس الوطني",
     districtEnglishName: "Al Haras Al Watani"
   },
@@ -17554,7 +17554,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "تهامة",
     districtEnglishName: "Tihamah"
   },
@@ -17563,7 +17563,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "القشلة",
     districtEnglishName: "Al Qashlah"
   },
@@ -17572,7 +17572,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "هجر",
     districtEnglishName: "Hajr"
   },
@@ -17581,7 +17581,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "غرب الظهران",
     districtEnglishName: "Gharb Adh Dhahran"
   },
@@ -17590,7 +17590,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الظهران",
-    cityEnglishName: "DHAHRAN",
+    cityEnglishName: "Dhahran",
     districtArabicName: "جامعة الملك فهد للبترول والمعادن",
     districtEnglishName: "King Fahd University of Petroleum and Minerals"
   },
@@ -17599,7 +17599,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -17608,7 +17608,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -17617,7 +17617,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -17626,7 +17626,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -17635,7 +17635,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -17644,7 +17644,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -17653,7 +17653,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -17662,7 +17662,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "أشبيلية",
     districtEnglishName: "Ishbiliyah"
   },
@@ -17671,7 +17671,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -17680,7 +17680,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "المدينة",
     districtEnglishName: "Al Madinah"
   },
@@ -17689,7 +17689,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -17698,7 +17698,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Fardus"
   },
@@ -17707,7 +17707,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "بقيق",
-    cityEnglishName: "BUQAYQ",
+    cityEnglishName: "Buqayq",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -17716,7 +17716,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "النابية",
     districtEnglishName: "An Nabiyah"
   },
@@ -17725,7 +17725,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -17734,7 +17734,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -17743,7 +17743,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Firdaws"
   },
@@ -17752,7 +17752,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -17761,7 +17761,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -17770,7 +17770,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الطف",
     districtEnglishName: "At Tif"
   },
@@ -17779,7 +17779,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الخصاب",
     districtEnglishName: "Al Khisab"
   },
@@ -17788,7 +17788,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -17797,7 +17797,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "النقى",
     districtEnglishName: "An Naqa"
   },
@@ -17806,7 +17806,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Muntazah"
   },
@@ -17815,7 +17815,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الكوثر",
     districtEnglishName: "Al Kawthar"
   },
@@ -17824,7 +17824,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -17833,7 +17833,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -17842,7 +17842,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -17851,7 +17851,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -17860,7 +17860,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "غرب النابية",
     districtEnglishName: "Gharb An Nabiyah"
   },
@@ -17869,7 +17869,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "سيهات",
-    cityEnglishName: "SAYHAT",
+    cityEnglishName: "Sayhat",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -17878,7 +17878,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الزمرد",
     districtEnglishName: "Az Zomorod"
   },
@@ -17887,7 +17887,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الصدفة",
     districtEnglishName: "As Sadafah"
   },
@@ -17896,7 +17896,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "المناخ",
     districtEnglishName: "Al Manakh"
   },
@@ -17905,7 +17905,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "النرجس",
     districtEnglishName: "An Narjis"
   },
@@ -17914,7 +17914,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الربيعية",
     districtEnglishName: "Ar Rabeiyah"
   },
@@ -17923,7 +17923,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -17932,7 +17932,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "اللؤلؤ",
     districtEnglishName: "Al Lulu"
   },
@@ -17941,7 +17941,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الجامعيين",
     districtEnglishName: "Al Jamiyin"
   },
@@ -17950,7 +17950,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "سنابس",
     districtEnglishName: "Sanabis"
   },
@@ -17959,7 +17959,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -17968,7 +17968,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الزور",
     districtEnglishName: "Az Zour"
   },
@@ -17977,7 +17977,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -17986,7 +17986,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الصواري",
     districtEnglishName: "As Sawari"
   },
@@ -17995,7 +17995,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -18004,7 +18004,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "تاروت",
-    cityEnglishName: "TARUT",
+    cityEnglishName: "Tarut",
     districtArabicName: "الجبل",
     districtEnglishName: "Al Jabal"
   },
@@ -18013,7 +18013,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة المطيرفي",
     districtEnglishName: "Al Mutayrifi"
   },
@@ -18022,7 +18022,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة الشقيق الغربية",
     districtEnglishName: "Ash Shaqiq Western"
   },
@@ -18031,7 +18031,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة الوزية",
     districtEnglishName: "Al Wazyah"
   },
@@ -18040,7 +18040,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الحي الرابع",
     districtEnglishName: "Al Rabea"
   },
@@ -18049,7 +18049,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الحي الاول",
     districtEnglishName: "Al Awal"
   },
@@ -18058,7 +18058,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الحي الثاني",
     districtEnglishName: "Al Thani"
   },
@@ -18067,7 +18067,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الحي الثالث",
     districtEnglishName: "Al Thalith"
   },
@@ -18076,7 +18076,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -18085,7 +18085,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة القرين",
     districtEnglishName: "Al Qaren"
   },
@@ -18094,7 +18094,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "اشبيلية",
     districtEnglishName: "Ishbiliyah"
   },
@@ -18103,7 +18103,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة جليجلة",
     districtEnglishName: "Julijlah"
   },
@@ -18112,7 +18112,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -18121,7 +18121,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -18130,7 +18130,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الصفا الرابع",
     districtEnglishName: "As Safa 4th"
   },
@@ -18139,7 +18139,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الندى",
     districtEnglishName: "An Nada"
   },
@@ -18148,7 +18148,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -18157,7 +18157,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الصفا الثاني",
     districtEnglishName: "As Safa 2nd"
   },
@@ -18166,7 +18166,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الصفا الثالث",
     districtEnglishName: "As Safa 3rd"
   },
@@ -18175,7 +18175,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الصفا الاول",
     districtEnglishName: "As Safa 1st"
   },
@@ -18184,7 +18184,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة الجرن",
     districtEnglishName: "Al Jarn"
   },
@@ -18193,7 +18193,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -18202,7 +18202,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -18211,7 +18211,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "ضاحية الامير سلطان الجنوبية",
     districtEnglishName: "Dahiyat Prince Sultan Southern"
   },
@@ -18220,7 +18220,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "مجمع الدوائر الحكومية",
     districtEnglishName: "Government Departments Complex"
   },
@@ -18229,7 +18229,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "العيون الشمالية",
     districtEnglishName: "Al Oyon Southern"
   },
@@ -18238,7 +18238,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة العوضية",
     districtEnglishName: "Al Awadhyah"
   },
@@ -18247,7 +18247,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "وسط العيون",
     districtEnglishName: "Wassat Al Oyon"
   },
@@ -18256,7 +18256,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة المراح",
     districtEnglishName: "Al Marah"
   },
@@ -18265,7 +18265,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "ضاحية الامير سلطان الشمالية",
     districtEnglishName: "Dahiyat Prince Sultan Northern"
   },
@@ -18274,7 +18274,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "العيون الجنوبية",
     districtEnglishName: "Al Oyon Southern"
   },
@@ -18283,7 +18283,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العيون",
-    cityEnglishName: "AL UYUN",
+    cityEnglishName: "Al Uyun",
     districtArabicName: "بلدة الشقيق الشرقية",
     districtEnglishName: "Ash Shaqiq Eastern"
   },
@@ -18292,7 +18292,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -18301,7 +18301,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -18310,7 +18310,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -18319,7 +18319,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الاوجام",
     districtEnglishName: "Al Aujam"
   },
@@ -18328,7 +18328,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -18337,7 +18337,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الريحان",
     districtEnglishName: "Ar Raihan"
   },
@@ -18346,7 +18346,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الدريدي",
     districtEnglishName: "Ad Duraydi"
   },
@@ -18355,7 +18355,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -18364,7 +18364,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الرويحة",
     districtEnglishName: "Ar Ruwaihah"
   },
@@ -18373,7 +18373,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -18382,7 +18382,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "ابو معن",
     districtEnglishName: "Abu Main"
   },
@@ -18391,7 +18391,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -18400,7 +18400,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -18409,7 +18409,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "البدور",
     districtEnglishName: "Al Budur"
   },
@@ -18418,7 +18418,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -18427,7 +18427,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -18436,7 +18436,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الخترشية",
     districtEnglishName: "Al Khatrashiyah"
   },
@@ -18445,7 +18445,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "ام الساهك",
     districtEnglishName: "Umm As Sahik"
   },
@@ -18454,7 +18454,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "العمل",
     districtEnglishName: "Al Amal"
   },
@@ -18463,7 +18463,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -18472,7 +18472,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "حزم",
     districtEnglishName: "Hazm"
   },
@@ -18481,7 +18481,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -18490,7 +18490,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "صفوى",
-    cityEnglishName: "SAFWA",
+    cityEnglishName: "Safwa",
     districtArabicName: "الشورى",
     districtEnglishName: "Ash Shura"
   },
@@ -18499,7 +18499,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجش",
-    cityEnglishName: "AL JISH",
+    cityEnglishName: "Al Jish",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -18508,7 +18508,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجش",
-    cityEnglishName: "AL JISH",
+    cityEnglishName: "Al Jish",
     districtArabicName: "الراية",
     districtEnglishName: "Ar Rayah"
   },
@@ -18517,7 +18517,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجش",
-    cityEnglishName: "AL JISH",
+    cityEnglishName: "Al Jish",
     districtArabicName: "الرمال",
     districtEnglishName: "Ar Rimal"
   },
@@ -18526,7 +18526,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "عنك",
-    cityEnglishName: "INAK",
+    cityEnglishName: "Inak",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -18535,7 +18535,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "عنك",
-    cityEnglishName: "INAK",
+    cityEnglishName: "Inak",
     districtArabicName: "البدر",
     districtEnglishName: "Al Badr"
   },
@@ -18544,7 +18544,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "عنك",
-    cityEnglishName: "INAK",
+    cityEnglishName: "Inak",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -18553,7 +18553,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "عنك",
-    cityEnglishName: "INAK",
+    cityEnglishName: "Inak",
     districtArabicName: "المحار",
     districtEnglishName: "Al Mahar"
   },
@@ -18562,7 +18562,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "عنك",
-    cityEnglishName: "INAK",
+    cityEnglishName: "Inak",
     districtArabicName: "عنك",
     districtEnglishName: "Anak"
   },
@@ -18571,7 +18571,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "دارين",
-    cityEnglishName: "DARIN",
+    cityEnglishName: "Darin",
     districtArabicName: "الساحل",
     districtEnglishName: "As Sahil"
   },
@@ -18580,7 +18580,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "دارين",
-    cityEnglishName: "DARIN",
+    cityEnglishName: "Darin",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -18589,7 +18589,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "دارين",
-    cityEnglishName: "DARIN",
+    cityEnglishName: "Darin",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -18598,7 +18598,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "دارين",
-    cityEnglishName: "DARIN",
+    cityEnglishName: "Darin",
     districtArabicName: "دارين",
     districtEnglishName: "Darin"
   },
@@ -18607,7 +18607,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -18616,7 +18616,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -18625,7 +18625,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -18634,7 +18634,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -18643,7 +18643,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -18652,7 +18652,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -18661,7 +18661,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -18670,7 +18670,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -18679,7 +18679,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -18688,7 +18688,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -18697,7 +18697,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الدوائر الحكومية",
     districtEnglishName: "Goverment Departments"
   },
@@ -18706,7 +18706,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -18715,7 +18715,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "المنطقة الصناعية الاولى",
     districtEnglishName: "1st Industrial Area"
   },
@@ -18724,7 +18724,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "المنطقة الصناعية الثانية",
     districtEnglishName: "2nd Industrial Area"
   },
@@ -18733,7 +18733,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -18742,7 +18742,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "اللؤلؤة",
     districtEnglishName: "Al Luluah"
   },
@@ -18751,7 +18751,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -18760,7 +18760,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -18769,7 +18769,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -18778,7 +18778,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الامل",
     districtEnglishName: "Al Amal"
   },
@@ -18787,7 +18787,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -18796,7 +18796,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الامير نايف",
     districtEnglishName: "Prince Naif"
   },
@@ -18805,7 +18805,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -18814,7 +18814,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "الامير فهد بن سلمان",
     districtEnglishName: "Prince Fahd Ibn Salman"
   },
@@ -18823,7 +18823,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -18832,7 +18832,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "ارامكو",
     districtEnglishName: "Aramco"
   },
@@ -18841,7 +18841,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -18850,7 +18850,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الخفجي",
-    cityEnglishName: "AL KHAFJI",
+    cityEnglishName: "Al Khafji",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -18859,7 +18859,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -18868,7 +18868,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "النعيم",
     districtEnglishName: "An Naim"
   },
@@ -18877,7 +18877,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -18886,7 +18886,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -18895,7 +18895,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -18904,7 +18904,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -18913,7 +18913,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -18922,7 +18922,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الدانة",
     districtEnglishName: "Ad Danah"
   },
@@ -18931,7 +18931,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -18940,7 +18940,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "راس تنورة",
-    cityEnglishName: "RAS TANNURAH",
+    cityEnglishName: "Ras Tannurah",
     districtArabicName: "نجمة",
     districtEnglishName: "Najmah"
   },
@@ -18949,7 +18949,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة البطالية",
     districtEnglishName: "Al Battaliyah"
   },
@@ -18958,7 +18958,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة الجبيل",
     districtEnglishName: "Al Jubail"
   },
@@ -18967,7 +18967,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "الشروق",
     districtEnglishName: "Ash Shuruq"
   },
@@ -18976,7 +18976,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -18985,7 +18985,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "التمور",
     districtEnglishName: "At Tamor"
   },
@@ -18994,7 +18994,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة القارة",
     districtEnglishName: "Al Qarah"
   },
@@ -19003,7 +19003,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -19012,7 +19012,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة بني معن",
     districtEnglishName: "Bani Maan"
   },
@@ -19021,7 +19021,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "القارة",
     districtEnglishName: "Al Qarah"
   },
@@ -19030,7 +19030,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة الطريبيل",
     districtEnglishName: "At Tarbil"
   },
@@ -19039,7 +19039,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "التويثير",
     districtEnglishName: "Al Tuwaythir"
   },
@@ -19048,7 +19048,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية العمران الغربية",
     districtEnglishName: "Al Umran Western"
   },
@@ -19057,7 +19057,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية الحوطة",
     districtEnglishName: "Al Hotah"
   },
@@ -19066,7 +19066,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية السيايرة",
     districtEnglishName: "As Syayrah"
   },
@@ -19075,7 +19075,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة أبو ثور",
     districtEnglishName: "Abu Ath Thoor"
   },
@@ -19084,7 +19084,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -19093,7 +19093,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "النرجس",
     districtEnglishName: "An Narjis"
   },
@@ -19102,7 +19102,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية الرميلة",
     districtEnglishName: "Ar Rumaylah"
   },
@@ -19111,7 +19111,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة غمسي",
     districtEnglishName: "Gamsy"
   },
@@ -19120,7 +19120,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية العرامية",
     districtEnglishName: "Al Aramiyah"
   },
@@ -19129,7 +19129,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "المحار",
     districtEnglishName: "Al Mahar"
   },
@@ -19138,7 +19138,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية العمران الشرقية",
     districtEnglishName: "Al Umran Eastern"
   },
@@ -19147,7 +19147,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة الصبايخ",
     districtEnglishName: "As Sabaiykh"
   },
@@ -19156,7 +19156,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "العقيق",
     districtEnglishName: "Al Aqiq"
   },
@@ -19165,7 +19165,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "قرية العمران الجنوبي",
     districtEnglishName: "Al Umran Southern"
   },
@@ -19174,7 +19174,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة التويثير",
     districtEnglishName: "Al Tuwaythir"
   },
@@ -19183,7 +19183,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "الثريا",
     districtEnglishName: "Ath Thuraiya"
   },
@@ -19192,7 +19192,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -19201,7 +19201,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة أبو الحصى",
     districtEnglishName: "Abu Al Hasa"
   },
@@ -19210,7 +19210,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة التهيمية",
     districtEnglishName: "At Tahemah"
   },
@@ -19219,7 +19219,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "البدور",
     districtEnglishName: "Al Budur"
   },
@@ -19228,7 +19228,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "العمران",
-    cityEnglishName: "AL UMRAN",
+    cityEnglishName: "Al Umran",
     districtArabicName: "بلدة الدالوة",
     districtEnglishName: "Al Dalwah"
   },
@@ -19237,7 +19237,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -19246,7 +19246,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الفيصل",
     districtEnglishName: "Al Faisal"
   },
@@ -19255,7 +19255,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الضباب",
     districtEnglishName: "Al Dabab"
   },
@@ -19264,7 +19264,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الفنار",
     districtEnglishName: "Al Fanar"
   },
@@ -19273,7 +19273,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "أحد",
     districtEnglishName: "Ahad"
   },
@@ -19282,7 +19282,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن الثاني",
     districtEnglishName: "Mahasin 2nd"
   },
@@ -19291,7 +19291,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الراشدية الثاني",
     districtEnglishName: "Ar Rashidyah 2nd"
   },
@@ -19300,7 +19300,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الحي الأكاديمي",
     districtEnglishName: "Academic Quarter"
   },
@@ -19309,7 +19309,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن ارامكو الخامس",
     districtEnglishName: "Mahasin Aramco 5th"
   },
@@ -19318,7 +19318,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -19327,7 +19327,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الراشدية الأول",
     districtEnglishName: "Ar Rashidyah 1st"
   },
@@ -19336,7 +19336,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "المطيرفي الغربي",
     districtEnglishName: "Al Mutayrifi Al Garbi"
   },
@@ -19345,7 +19345,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محيرس",
     districtEnglishName: "Mahairis"
   },
@@ -19354,7 +19354,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الفتح",
     districtEnglishName: "Al Fath"
   },
@@ -19363,7 +19363,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -19372,7 +19372,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الأمانة",
     districtEnglishName: "Al Amanah"
   },
@@ -19381,7 +19381,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "عين نجم",
     districtEnglishName: "Ayn Najm"
   },
@@ -19390,7 +19390,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن الأول",
     districtEnglishName: "Mahasin 1st"
   },
@@ -19399,7 +19399,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الحزام الذهبي",
     districtEnglishName: "Al Hizam Adh Dhahabi"
   },
@@ -19408,7 +19408,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "مجمع الدوائر الحكومية الأول",
     districtEnglishName: "Government Departments Complex 1st"
   },
@@ -19417,7 +19417,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "عين مرجان",
     districtEnglishName: "Ayn Marjan"
   },
@@ -19426,7 +19426,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الشروفية",
     districtEnglishName: "Al Shurofiyah"
   },
@@ -19435,7 +19435,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الديوان",
     districtEnglishName: "Ad Daywan"
   },
@@ -19444,7 +19444,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -19453,7 +19453,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "السلام الأول",
     districtEnglishName: "As Salam 1st"
   },
@@ -19462,7 +19462,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن ارامكو الأول",
     districtEnglishName: "Mahasin Aramco 1st"
   },
@@ -19471,7 +19471,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الأندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -19480,7 +19480,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الحزم الجنوبي",
     districtEnglishName: "Al Hazm Southern"
   },
@@ -19489,7 +19489,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "المسعودي",
     districtEnglishName: "Al Masudi"
   },
@@ -19498,7 +19498,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "أم سبعة",
     districtEnglishName: "Umm Sabah"
   },
@@ -19507,7 +19507,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -19516,7 +19516,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -19525,7 +19525,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الإتصالات",
     districtEnglishName: "Al Itsalat"
   },
@@ -19534,7 +19534,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -19543,7 +19543,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "السلام الثاني",
     districtEnglishName: "As Salam 2nd"
   },
@@ -19552,7 +19552,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "المقابل",
     districtEnglishName: "Al Muqabil"
   },
@@ -19561,7 +19561,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الشعبة",
     districtEnglishName: "Al Shuaba"
   },
@@ -19570,7 +19570,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "السحيمية",
     districtEnglishName: "As Suhaimiyah"
   },
@@ -19579,7 +19579,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "بو سحبل الأول",
     districtEnglishName: "Abu Sahbal 1st"
   },
@@ -19588,7 +19588,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "وسط المبرز التاريخي",
     districtEnglishName: "Historical Center Al Mubarraz"
   },
@@ -19597,7 +19597,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن ارامكو الثاني",
     districtEnglishName: "Mahasin Aramco 2nd"
   },
@@ -19606,7 +19606,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الراشدية الثالث",
     districtEnglishName: "Ar Rashidyah 3rd"
   },
@@ -19615,7 +19615,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "بو سحبل الثاني",
     districtEnglishName: "Abu Sahbal 3rd"
   },
@@ -19624,7 +19624,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن ارامكو الرابع",
     districtEnglishName: "Mahasin Aramco 4th"
   },
@@ -19633,7 +19633,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -19642,7 +19642,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الشراع الجنوبي",
     districtEnglishName: "Ash Shara Southern"
   },
@@ -19651,7 +19651,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الشراع الشمالي",
     districtEnglishName: "Ash Shara Northern"
   },
@@ -19660,7 +19660,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "مشرفة",
     districtEnglishName: "Mishrifah"
   },
@@ -19669,7 +19669,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -19678,7 +19678,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "مدينة الملك عبدالله العسكرية",
     districtEnglishName: "King Abdullah Military City"
   },
@@ -19687,7 +19687,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "الحزم الشمالي",
     districtEnglishName: "Al Hazm Northern"
   },
@@ -19696,7 +19696,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "محاسن ارامكو الثالث",
     districtEnglishName: "Mahasin Aramco 3rd"
   },
@@ -19705,7 +19705,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "المبرز",
-    cityEnglishName: "AL MUBARRAZ",
+    cityEnglishName: "Al Mubarraz",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -19714,7 +19714,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "قباء",
     districtEnglishName: "Quba"
   },
@@ -19723,7 +19723,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "المدينة المنورة",
     districtEnglishName: "Al Madinah Al Munawwarah"
   },
@@ -19732,7 +19732,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "مثلث الشرقية",
     districtEnglishName: "Muthalath Asharqiyah"
   },
@@ -19741,7 +19741,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة المنيزلة",
     districtEnglishName: "Al Munaizlah"
   },
@@ -19750,7 +19750,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة المنصورة",
     districtEnglishName: "Al Mansurah"
   },
@@ -19759,7 +19759,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -19768,7 +19768,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة الشهارين",
     districtEnglishName: "Ash Shaharin"
   },
@@ -19777,7 +19777,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة المركز",
     districtEnglishName: "Al Markaz"
   },
@@ -19786,7 +19786,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الاسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -19795,7 +19795,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الرياض الثاني",
     districtEnglishName: "Ar Riyadh 2nd"
   },
@@ -19804,7 +19804,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة الفضول",
     districtEnglishName: "Al Fudul"
   },
@@ -19813,7 +19813,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة الطرف",
     districtEnglishName: "At Tarf"
   },
@@ -19822,7 +19822,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة العقار",
     districtEnglishName: "Al Aqar"
   },
@@ -19831,7 +19831,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة الجفر",
     districtEnglishName: "Al Jafr"
   },
@@ -19840,7 +19840,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -19849,7 +19849,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الأول",
     districtEnglishName: "Hajr 1st"
   },
@@ -19858,7 +19858,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "مدينة الحجاج",
     districtEnglishName: "Madina Al Hojaj"
   },
@@ -19867,7 +19867,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الثاني",
     districtEnglishName: "Hajr 2nd"
   },
@@ -19876,7 +19876,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -19885,7 +19885,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الثامن",
     districtEnglishName: "Hajr 8th"
   },
@@ -19894,7 +19894,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الحادي عشر",
     districtEnglishName: "Hajr 11th"
   },
@@ -19903,7 +19903,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الجبل",
     districtEnglishName: "Al Jabal"
   },
@@ -19912,7 +19912,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الركاز",
     districtEnglishName: "Ar Rekaz"
   },
@@ -19921,7 +19921,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة الجشة",
     districtEnglishName: "Al Jishah"
   },
@@ -19930,7 +19930,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الثالث",
     districtEnglishName: "Hajr 3rd"
   },
@@ -19939,7 +19939,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر التاسع",
     districtEnglishName: "Hajr 9th"
   },
@@ -19948,7 +19948,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -19957,7 +19957,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "أحد",
     districtEnglishName: "Ahad"
   },
@@ -19966,7 +19966,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الرابع",
     districtEnglishName: "Hajr 4th"
   },
@@ -19975,7 +19975,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -19984,7 +19984,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الديرة",
     districtEnglishName: "Ad Dirah"
   },
@@ -19993,7 +19993,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "المجصة",
     districtEnglishName: "Al Magassah"
   },
@@ -20002,7 +20002,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "النور",
     districtEnglishName: "An Noor"
   },
@@ -20011,7 +20011,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -20020,7 +20020,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر السادس",
     districtEnglishName: "Hajr 6th"
   },
@@ -20029,7 +20029,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الرياض الاول",
     districtEnglishName: "Ar Riyadh 1st"
   },
@@ -20038,7 +20038,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الواحة الطبية",
     districtEnglishName: "Al Wahah Medical"
   },
@@ -20047,7 +20047,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -20056,7 +20056,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakheel"
   },
@@ -20065,7 +20065,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر السابع",
     districtEnglishName: "Hajr 7th"
   },
@@ -20074,7 +20074,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الخامس",
     districtEnglishName: "Hajr 5th"
   },
@@ -20083,7 +20083,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة المزاوي",
     districtEnglishName: "Al Mazawi"
   },
@@ -20092,7 +20092,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "برزان",
     districtEnglishName: "Barzan"
   },
@@ -20101,7 +20101,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الرياض الرابع",
     districtEnglishName: "Ar Riyadh 4th"
   },
@@ -20110,7 +20110,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الخيام",
     districtEnglishName: "Al Khyam"
   },
@@ -20119,7 +20119,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "العدوة",
     districtEnglishName: "Al Adwah"
   },
@@ -20128,7 +20128,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "المستشفى الجا",
     districtEnglishName: "Al Ja Hospital"
   },
@@ -20137,7 +20137,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "بلدة السباط",
     districtEnglishName: "As Sabat"
   },
@@ -20146,7 +20146,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -20155,7 +20155,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -20164,7 +20164,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر العاشر",
     districtEnglishName: "Hajr 10th"
   },
@@ -20173,7 +20173,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "السهلة",
     districtEnglishName: "As Sahlah"
   },
@@ -20182,7 +20182,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "نادي الفروسية",
     districtEnglishName: "Nadi Al Forosiyah"
   },
@@ -20191,7 +20191,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "ابوحريف",
     districtEnglishName: "Abu Hareef"
   },
@@ -20200,7 +20200,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الجفر الشمالي",
     districtEnglishName: "Al Jafer Northern"
   },
@@ -20209,7 +20209,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "الرياض الثالث",
     districtEnglishName: "Ar Riyadh 3rd"
   },
@@ -20218,7 +20218,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "المعامرة",
     districtEnglishName: "Al Maamrah"
   },
@@ -20227,7 +20227,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "هجر الثاني عشر",
     districtEnglishName: "Hajr 12th"
   },
@@ -20236,7 +20236,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "مدينة التمور",
     districtEnglishName: "Madina At Tomor"
   },
@@ -20245,7 +20245,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "مجمع الدوائر الحكومية",
     districtEnglishName: "Government Departments Complex"
   },
@@ -20254,7 +20254,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "الجفر",
-    cityEnglishName: "AL JAFR",
+    cityEnglishName: "Al Jafr",
     districtArabicName: "المنيزله",
     districtEnglishName: "Al Munaizilah"
   },
@@ -20263,7 +20263,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الدوائر الحكومية",
     districtEnglishName: "Goverment Departments"
   },
@@ -20272,7 +20272,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "اسكان الكلابية",
     districtEnglishName: "Al Kilabiyah Housing"
   },
@@ -20281,7 +20281,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "بلدة الكلابية",
     districtEnglishName: "Al Kilabiyah"
   },
@@ -20290,7 +20290,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "جواثا",
     districtEnglishName: "Juwatha"
   },
@@ -20299,7 +20299,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الكلابية",
     districtEnglishName: "Al Kilabiyah"
   },
@@ -20308,7 +20308,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -20317,7 +20317,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "بلدة الحليلة",
     districtEnglishName: "Al Halilah"
   },
@@ -20326,7 +20326,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "بلدة المقدام",
     districtEnglishName: "Al Miqdam"
   },
@@ -20335,7 +20335,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -20344,7 +20344,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الرفاع",
     districtEnglishName: "Ar Rifaa"
   },
@@ -20353,7 +20353,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -20362,7 +20362,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "جواثا",
-    cityEnglishName: "JAWATHA",
+    cityEnglishName: "Jawatha",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -20371,7 +20371,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "ام الحمام",
-    cityEnglishName: "UMM AL HAMAM",
+    cityEnglishName: "Umm Al Hamam",
     districtArabicName: "الانوار",
     districtEnglishName: "Al Anwar"
   },
@@ -20380,7 +20380,7 @@ export const locations = [
     regionArabicName: "الشرقية",
     regionEnglishName: "Eastern Province",
     cityArabicName: "ام الحمام",
-    cityEnglishName: "UMM AL HAMAM",
+    cityEnglishName: "Umm Al Hamam",
     districtArabicName: "ام الحمام",
     districtEnglishName: "Um Al Hamam"
   },
@@ -20389,7 +20389,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "المنهل",
     districtEnglishName: "Al Manhal"
   },
@@ -20398,7 +20398,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "النصب",
     districtEnglishName: "An Nasb"
   },
@@ -20407,7 +20407,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "وسط المدينة",
     districtEnglishName: "City Center"
   },
@@ -20416,7 +20416,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -20425,7 +20425,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "ذرة",
     districtEnglishName: "Dhurah"
   },
@@ -20434,7 +20434,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "شمسان",
     districtEnglishName: "Shamsan"
   },
@@ -20443,7 +20443,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "القرى",
     districtEnglishName: "Al Qura"
   },
@@ -20452,7 +20452,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الوردتين",
     districtEnglishName: "Al Wardatain"
   },
@@ -20461,7 +20461,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -20470,7 +20470,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -20479,7 +20479,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -20488,7 +20488,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "ابها الجديدة",
     districtEnglishName: "Abha Al Jadidah"
   },
@@ -20497,7 +20497,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الضباب",
     districtEnglishName: "Ad Dabab"
   },
@@ -20506,7 +20506,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الوصايف",
     districtEnglishName: "Al Wasaif"
   },
@@ -20515,7 +20515,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الشرفية",
     districtEnglishName: "Ash Sharafiyah"
   },
@@ -20524,7 +20524,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -20533,7 +20533,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -20542,7 +20542,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "المفتاحة",
     districtEnglishName: "Al Muftahah"
   },
@@ -20551,7 +20551,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "السروات",
     districtEnglishName: "As Sarawat"
   },
@@ -20560,7 +20560,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -20569,7 +20569,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "السد",
     districtEnglishName: "As Sadd"
   },
@@ -20578,7 +20578,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الخشع",
     districtEnglishName: "Al Khasha"
   },
@@ -20587,7 +20587,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "القابل",
     districtEnglishName: "Al Qabil"
   },
@@ -20596,7 +20596,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -20605,7 +20605,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -20614,7 +20614,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "العرين",
     districtEnglishName: "Al Arin"
   },
@@ -20623,7 +20623,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "البديع",
     districtEnglishName: "Al Badi"
   },
@@ -20632,7 +20632,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -20641,7 +20641,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "ج 35",
     districtEnglishName: "C 35"
   },
@@ -20650,7 +20650,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "المقضى",
     districtEnglishName: "Al Magda"
   },
@@ -20659,7 +20659,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -20668,7 +20668,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "ابها",
-    cityEnglishName: "ABHA",
+    cityEnglishName: "Abha",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -20677,7 +20677,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الراقي",
     districtEnglishName: "Al Raqi"
   },
@@ -20686,7 +20686,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الأسواق",
     districtEnglishName: "Al Aswaq"
   },
@@ -20695,7 +20695,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -20704,7 +20704,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "السد",
     districtEnglishName: "As Sad"
   },
@@ -20713,7 +20713,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -20722,7 +20722,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "طيب الاسم",
     districtEnglishName: "Tayib Al Ism"
   },
@@ -20731,7 +20731,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -20740,7 +20740,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -20749,7 +20749,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -20758,7 +20758,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "ضمك",
     districtEnglishName: "Damak"
   },
@@ -20767,7 +20767,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -20776,7 +20776,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -20785,7 +20785,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الفتح",
     districtEnglishName: "Al Fath"
   },
@@ -20794,7 +20794,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -20803,7 +20803,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "شباعة",
     districtEnglishName: "Shubaah"
   },
@@ -20812,7 +20812,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "المعزاب",
     districtEnglishName: "Al Mizab"
   },
@@ -20821,7 +20821,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "المثناة",
     districtEnglishName: "Al Mathnah"
   },
@@ -20830,7 +20830,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "المعمورة",
     districtEnglishName: "Al Mamurah"
   },
@@ -20839,7 +20839,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -20848,7 +20848,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "شكر",
     districtEnglishName: "Shakar"
   },
@@ -20857,7 +20857,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -20866,7 +20866,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "عتود",
     districtEnglishName: "Atud"
   },
@@ -20875,7 +20875,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "ال هميلة",
     districtEnglishName: "Al Humaylah"
   },
@@ -20884,7 +20884,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "العرق الجنوبي",
     districtEnglishName: "Al Irq Al Janubi"
   },
@@ -20893,7 +20893,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الصقور",
     districtEnglishName: "As Suqur"
   },
@@ -20902,7 +20902,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "البوادي",
     districtEnglishName: "Al Bawadi"
   },
@@ -20911,7 +20911,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -20920,7 +20920,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "ام سرور",
     districtEnglishName: "Umm Surur"
   },
@@ -20929,7 +20929,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الشرفية",
     districtEnglishName: "Ash Sharafiyah"
   },
@@ -20938,7 +20938,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -20947,7 +20947,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "قمبر",
     districtEnglishName: "Qambar"
   },
@@ -20956,7 +20956,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -20965,7 +20965,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "العرق الشمالي",
     districtEnglishName: "Al Irq Ash Shamali"
   },
@@ -20974,7 +20974,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الدوحة",
     districtEnglishName: "Ad Dawhah"
   },
@@ -20983,7 +20983,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -20992,7 +20992,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "القافلة",
     districtEnglishName: "Al Qafilah"
   },
@@ -21001,7 +21001,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "مخطط الموسى",
     districtEnglishName: "Al Musa Subdivision Plan"
   },
@@ -21010,7 +21010,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "سكن القاعدة الجوية",
     districtEnglishName: "Airforce Housing"
   },
@@ -21019,7 +21019,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الرونه",
     districtEnglishName: "Ar Runah"
   },
@@ -21028,7 +21028,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -21037,7 +21037,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "ذلالة",
     districtEnglishName: "Dhalalah"
   },
@@ -21046,7 +21046,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الرصراص",
     districtEnglishName: "Ar Rasras"
   },
@@ -21055,7 +21055,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "سكن المدينة العسكرية",
     districtEnglishName: "Military City Housing"
   },
@@ -21064,7 +21064,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "سكن مجموعة اللواء الرابع عشر",
     districtEnglishName: "14th Brigade Housing"
   },
@@ -21073,7 +21073,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الهر ير",
     districtEnglishName: "Al Harir"
   },
@@ -21082,7 +21082,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الجامعيين",
     districtEnglishName: "Al Jamiyin"
   },
@@ -21091,7 +21091,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الوسام",
     districtEnglishName: "Al Wasam"
   },
@@ -21100,7 +21100,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -21109,7 +21109,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الحرابى",
     districtEnglishName: "Al Harabi"
   },
@@ -21118,7 +21118,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "شكر",
     districtEnglishName: "Shokor"
   },
@@ -21127,7 +21127,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -21136,7 +21136,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الهرير الغربى",
     districtEnglishName: "Al Harir western"
   },
@@ -21145,7 +21145,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "المراث",
     districtEnglishName: "Al Marath"
   },
@@ -21154,7 +21154,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "خميس مشيط",
-    cityEnglishName: "KHAMIS MUSHAYT",
+    cityEnglishName: "Khamis Mushayt",
     districtArabicName: "الظرفة",
     districtEnglishName: "Al Dhurfah"
   },
@@ -21163,7 +21163,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -21172,7 +21172,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الزيتون",
     districtEnglishName: "Az Zaytun"
   },
@@ -21181,7 +21181,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -21190,7 +21190,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -21199,7 +21199,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -21208,7 +21208,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "وسط البلد",
     districtEnglishName: "Down Town"
   },
@@ -21217,7 +21217,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -21226,7 +21226,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -21235,7 +21235,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "صفوان",
     districtEnglishName: "Safwan"
   },
@@ -21244,7 +21244,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -21253,7 +21253,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -21262,7 +21262,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -21271,7 +21271,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "الرونه",
     districtEnglishName: "Ar Runah"
   },
@@ -21280,7 +21280,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "احد رفيده",
-    cityEnglishName: "AHAD RIFAYDAH",
+    cityEnglishName: "Ahad Rifaydah",
     districtArabicName: "المدينة العسكرية",
     districtEnglishName: "Military City"
   },
@@ -21289,7 +21289,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "التعاون",
     districtEnglishName: "Al Taawun"
   },
@@ -21298,7 +21298,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzhah"
   },
@@ -21307,7 +21307,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -21316,7 +21316,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -21325,7 +21325,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الفاخرية",
     districtEnglishName: "Al Fakhriyah"
   },
@@ -21334,7 +21334,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -21343,7 +21343,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -21352,7 +21352,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "المنهل",
     districtEnglishName: "Al Manhal"
   },
@@ -21361,7 +21361,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -21370,7 +21370,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -21379,7 +21379,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -21388,7 +21388,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -21397,7 +21397,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "الصناعية",
     districtEnglishName: "Al Sinaiyah"
   },
@@ -21406,7 +21406,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طريب",
-    cityEnglishName: "TARIB",
+    cityEnglishName: "Tarib",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -21415,7 +21415,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -21424,7 +21424,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -21433,7 +21433,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -21442,7 +21442,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "التقدم",
     districtEnglishName: "At Taqadom"
   },
@@ -21451,7 +21451,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الشرق",
     districtEnglishName: "Ash Sharq"
   },
@@ -21460,7 +21460,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -21469,7 +21469,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -21478,7 +21478,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -21487,7 +21487,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -21496,7 +21496,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "العدالة",
     districtEnglishName: "Al Adalah"
   },
@@ -21505,7 +21505,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -21514,7 +21514,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "المجاردة",
-    cityEnglishName: "AL MAJARDAH",
+    cityEnglishName: "Al Majardah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -21523,7 +21523,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -21532,7 +21532,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -21541,7 +21541,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -21550,7 +21550,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الوجه",
     districtEnglishName: "Al Wajh"
   },
@@ -21559,7 +21559,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الغزالة",
     districtEnglishName: "Al Ghazalah"
   },
@@ -21568,7 +21568,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الحجاز",
     districtEnglishName: "Al Hijaz"
   },
@@ -21577,7 +21577,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الفاخرية",
     districtEnglishName: "Al Fakhriyah"
   },
@@ -21586,7 +21586,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -21595,7 +21595,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -21604,7 +21604,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "المدينة",
     districtEnglishName: "Al Madinah"
   },
@@ -21613,7 +21613,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "التعاون",
     districtEnglishName: "At Taawun"
   },
@@ -21622,7 +21622,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الطويفح",
     districtEnglishName: "Al Tuwaifah"
   },
@@ -21631,7 +21631,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "الجربوعية",
     districtEnglishName: "Al Jarboeyyah"
   },
@@ -21640,7 +21640,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "القوزية",
     districtEnglishName: "Al Quoziyah"
   },
@@ -21649,7 +21649,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تثليث",
-    cityEnglishName: "TATHLITH",
+    cityEnglishName: "Tathlith",
     districtArabicName: "آل قير",
     districtEnglishName: "Al Qeer"
   },
@@ -21658,7 +21658,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الصواير",
     districtEnglishName: "As Sawaer"
   },
@@ -21667,7 +21667,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الرمال",
     districtEnglishName: "Ar Rimal"
   },
@@ -21676,7 +21676,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -21685,7 +21685,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الخزان",
     districtEnglishName: "Al Khazzan"
   },
@@ -21694,7 +21694,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -21703,7 +21703,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الفيحاء",
     districtEnglishName: "Al Fayha"
   },
@@ -21712,7 +21712,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -21721,7 +21721,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -21730,7 +21730,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -21739,7 +21739,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -21748,7 +21748,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الورود",
     districtEnglishName: "Alwurud"
   },
@@ -21757,7 +21757,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "التضامن",
     districtEnglishName: "Al Tadamun"
   },
@@ -21766,7 +21766,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -21775,7 +21775,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -21784,7 +21784,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -21793,7 +21793,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -21802,7 +21802,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -21811,7 +21811,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "البوادي",
     districtEnglishName: "Al Bawadi"
   },
@@ -21820,7 +21820,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -21829,7 +21829,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "المطار",
     districtEnglishName: "Airport"
   },
@@ -21838,7 +21838,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -21847,7 +21847,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -21856,7 +21856,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -21865,7 +21865,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -21874,7 +21874,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -21883,7 +21883,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -21892,7 +21892,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "الامير سلطان",
     districtEnglishName: "Prince Sultan"
   },
@@ -21901,7 +21901,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بيشة",
-    cityEnglishName: "BISHAH",
+    cityEnglishName: "Bishah",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -21910,7 +21910,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -21919,7 +21919,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -21928,7 +21928,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -21937,7 +21937,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -21946,7 +21946,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الخضراء",
     districtEnglishName: "Al Khadra"
   },
@@ -21955,7 +21955,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -21964,7 +21964,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -21973,7 +21973,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -21982,7 +21982,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -21991,7 +21991,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -22000,7 +22000,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -22009,7 +22009,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -22018,7 +22018,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الشرق",
     districtEnglishName: "Ash Sharq"
   },
@@ -22027,7 +22027,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -22036,7 +22036,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الصفح",
     districtEnglishName: "Al Safh"
   },
@@ -22045,7 +22045,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الجزيرة",
     districtEnglishName: "Al Jazirah"
   },
@@ -22054,7 +22054,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سبت العلاية",
-    cityEnglishName: "SABT AL ALAYAH",
+    cityEnglishName: "Sabt Al Alayah",
     districtArabicName: "الامل",
     districtEnglishName: "Al Amal"
   },
@@ -22063,7 +22063,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -22072,7 +22072,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -22081,7 +22081,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الجنادرية",
     districtEnglishName: "Al Janadriyah"
   },
@@ -22090,7 +22090,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -22099,7 +22099,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الحيلة الشرقي",
     districtEnglishName: "Al Haylah Ash Sharqi"
   },
@@ -22108,7 +22108,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "المقاعد",
     districtEnglishName: "Al Maqaiid"
   },
@@ -22117,7 +22117,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الظهرة",
     districtEnglishName: "Adh Dhahrah"
   },
@@ -22126,7 +22126,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الشهد",
     districtEnglishName: "Ash Shahd"
   },
@@ -22135,7 +22135,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -22144,7 +22144,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الحيلة الغربي",
     districtEnglishName: "Al Haylah Al Gharbi"
   },
@@ -22153,7 +22153,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -22162,7 +22162,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -22171,7 +22171,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "البصرة",
     districtEnglishName: "Al Basrah"
   },
@@ -22180,7 +22180,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الضرس",
     districtEnglishName: "Ad Dirs"
   },
@@ -22189,7 +22189,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "البديع",
     districtEnglishName: "Al Badi"
   },
@@ -22198,7 +22198,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -22207,7 +22207,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -22216,7 +22216,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -22225,7 +22225,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "محايل",
-    cityEnglishName: "MUHAYIL",
+    cityEnglishName: "Muhayil",
     districtArabicName: "الوعد",
     districtEnglishName: "Al Waad"
   },
@@ -22234,7 +22234,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "السودة",
-    cityEnglishName: "AS SUDAH",
+    cityEnglishName: "As Sudah",
     districtArabicName: "الريحان",
     districtEnglishName: "Ar Raihan"
   },
@@ -22243,7 +22243,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "السودة",
-    cityEnglishName: "AS SUDAH",
+    cityEnglishName: "As Sudah",
     districtArabicName: "السودة",
     districtEnglishName: "As Suda"
   },
@@ -22252,7 +22252,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "السودة",
-    cityEnglishName: "AS SUDAH",
+    cityEnglishName: "As Sudah",
     districtArabicName: "المقضى",
     districtEnglishName: "Al Magda"
   },
@@ -22261,7 +22261,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "السودة",
-    cityEnglishName: "AS SUDAH",
+    cityEnglishName: "As Sudah",
     districtArabicName: "ج 34",
     districtEnglishName: "C 34"
   },
@@ -22270,7 +22270,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "السودة",
-    cityEnglishName: "AS SUDAH",
+    cityEnglishName: "As Sudah",
     districtArabicName: "ج 35",
     districtEnglishName: "C 35"
   },
@@ -22279,7 +22279,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "المطل",
     districtEnglishName: "Al Matl"
   },
@@ -22288,7 +22288,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الضباب",
     districtEnglishName: "Ad Dabab"
   },
@@ -22297,7 +22297,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -22306,7 +22306,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "السروات",
     districtEnglishName: "As Sarawat"
   },
@@ -22315,7 +22315,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -22324,7 +22324,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "السد",
     districtEnglishName: "As Sad"
   },
@@ -22333,7 +22333,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الصديق",
     districtEnglishName: "As Sediq"
   },
@@ -22342,7 +22342,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الشروق",
     districtEnglishName: "Ash Shuruq"
   },
@@ -22351,7 +22351,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouq"
   },
@@ -22360,7 +22360,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -22369,7 +22369,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "بلال",
     districtEnglishName: "Bilal"
   },
@@ -22378,7 +22378,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -22387,7 +22387,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -22396,7 +22396,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -22405,7 +22405,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "النماص",
-    cityEnglishName: "AN NAMAS",
+    cityEnglishName: "An Namas",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -22414,7 +22414,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "طبب",
-    cityEnglishName: "TABAB",
+    cityEnglishName: "Tabab",
     districtArabicName: "الريحان",
     districtEnglishName: "Ar Raihan"
   },
@@ -22423,7 +22423,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -22432,7 +22432,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -22441,7 +22441,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -22450,7 +22450,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الربوة",
     districtEnglishName: "Al Rabwah"
   },
@@ -22459,7 +22459,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -22468,7 +22468,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "السامر",
     districtEnglishName: "As Samir"
   },
@@ -22477,7 +22477,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -22486,7 +22486,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الزيتون",
     districtEnglishName: "Az Zaytun"
   },
@@ -22495,7 +22495,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -22504,7 +22504,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shifa"
   },
@@ -22513,7 +22513,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -22522,7 +22522,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -22531,7 +22531,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -22540,7 +22540,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -22549,7 +22549,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "السروات",
     districtEnglishName: "As Sarawat"
   },
@@ -22558,7 +22558,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "بللسمر",
-    cityEnglishName: "BILLASMAR",
+    cityEnglishName: "Billasmar",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -22567,7 +22567,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -22576,7 +22576,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shifa"
   },
@@ -22585,7 +22585,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -22594,7 +22594,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -22603,7 +22603,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -22612,7 +22612,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -22621,7 +22621,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "سراة عبيدة",
-    cityEnglishName: "SARAT ABIDAH",
+    cityEnglishName: "Sarat Abidah",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -22630,7 +22630,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تندحة",
-    cityEnglishName: "TENDAHA",
+    cityEnglishName: "Tendaha",
     districtArabicName: "شمال تندحة",
     districtEnglishName: "North Tandaha"
   },
@@ -22639,7 +22639,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تندحة",
-    cityEnglishName: "TENDAHA",
+    cityEnglishName: "Tendaha",
     districtArabicName: "وسط تندحة",
     districtEnglishName: "Centeral Tandaha"
   },
@@ -22648,7 +22648,7 @@ export const locations = [
     regionArabicName: "عسير",
     regionEnglishName: "Asir",
     cityArabicName: "تندحة",
-    cityEnglishName: "TENDAHA",
+    cityEnglishName: "Tendaha",
     districtArabicName: "جنوب تندحة",
     districtEnglishName: "South Tandaha"
   },
@@ -22657,7 +22657,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الإسكان",
     districtEnglishName: "Al Iskan"
   },
@@ -22666,7 +22666,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "العين",
     districtEnglishName: "Al Ain"
   },
@@ -22675,7 +22675,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الشفا",
     districtEnglishName: "Al Shifa"
   },
@@ -22684,7 +22684,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -22693,7 +22693,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الاخضر",
     districtEnglishName: "Al Akhdar"
   },
@@ -22702,7 +22702,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "البوادي",
     districtEnglishName: "Al Bawadi"
   },
@@ -22711,7 +22711,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -22720,7 +22720,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الأحياء الجنوبية",
     districtEnglishName: "Southern Districts"
   },
@@ -22729,7 +22729,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "النظيم",
     districtEnglishName: "Al Nadheem"
   },
@@ -22738,7 +22738,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "غرب الخالدية",
     districtEnglishName: "Khalidiyah West"
   },
@@ -22747,7 +22747,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -22756,7 +22756,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -22765,7 +22765,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "البلدة القديمة",
     districtEnglishName: "Down Town"
   },
@@ -22774,7 +22774,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "السعادة",
     districtEnglishName: "Al Saadah"
   },
@@ -22783,7 +22783,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -22792,7 +22792,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الفيصلية الجنوبية",
     districtEnglishName: "Faisaliyah South"
   },
@@ -22801,7 +22801,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الفيصلية الشمالية",
     districtEnglishName: "Faisaliyah North"
   },
@@ -22810,7 +22810,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -22819,7 +22819,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdah"
   },
@@ -22828,7 +22828,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المصيف الاول",
     districtEnglishName: "Al Masif 1"
   },
@@ -22837,7 +22837,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المروج الثاني",
     districtEnglishName: "Al Muruj 2"
   },
@@ -22846,7 +22846,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الريان",
     districtEnglishName: "Al Rayan"
   },
@@ -22855,7 +22855,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -22864,7 +22864,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "مخطط الراجحي",
     districtEnglishName: "Al Rajhi Subdivision Plan"
   },
@@ -22873,7 +22873,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المدينة الجامعية",
     districtEnglishName: "University City"
   },
@@ -22882,7 +22882,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الفلاح",
     districtEnglishName: "Al Falah"
   },
@@ -22891,7 +22891,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الزهراء",
     districtEnglishName: "Al Zahra"
   },
@@ -22900,7 +22900,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "رايس",
     districtEnglishName: "Rise"
   },
@@ -22909,7 +22909,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية و",
     districtEnglishName: "Government Departments Area F"
   },
@@ -22918,7 +22918,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية ب",
     districtEnglishName: "Government Departments Area B"
   },
@@ -22927,7 +22927,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية د",
     districtEnglishName: "Government Departments Area D"
   },
@@ -22936,7 +22936,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية أ",
     districtEnglishName: "Government Departments Area A"
   },
@@ -22945,7 +22945,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الجامعة",
     districtEnglishName: "Al Jamiah"
   },
@@ -22954,7 +22954,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية ج",
     districtEnglishName: "Government Departments Area C"
   },
@@ -22963,7 +22963,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدوائر الحكومية هـ",
     districtEnglishName: "Government Departments Area E"
   },
@@ -22972,7 +22972,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "منطقة خاصة",
     districtEnglishName: "Private Area"
   },
@@ -22981,7 +22981,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الدفاع",
     districtEnglishName: "Al Difa"
   },
@@ -22990,7 +22990,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "منطقة الخدمات أ",
     districtEnglishName: "Services Area A"
   },
@@ -22999,7 +22999,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "منطقة الخدمات ب",
     districtEnglishName: "Services Area B"
   },
@@ -23008,7 +23008,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المدينة الصناعية",
     districtEnglishName: "Industrial City"
   },
@@ -23017,7 +23017,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الندى",
     districtEnglishName: "Al Nada"
   },
@@ -23026,7 +23026,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الهجن",
     districtEnglishName: "Al Hejin"
   },
@@ -23035,7 +23035,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "مطــار الامير سلطان بن عبدالعزيز الدولي",
     districtEnglishName: "Prince Sultan Bin Abdulaziz International Airport"
   },
@@ -23044,7 +23044,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "القادسية الثاني",
     districtEnglishName: "Al Qadisiyah 2"
   },
@@ -23053,7 +23053,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "حى طيبة",
     districtEnglishName: "Taibah"
   },
@@ -23062,7 +23062,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -23071,7 +23071,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -23080,7 +23080,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "التعاون",
     districtEnglishName: "Al Taawun"
   },
@@ -23089,7 +23089,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "القادسية الاول",
     districtEnglishName: "Al Qadisiyah 1"
   },
@@ -23098,7 +23098,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -23107,7 +23107,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakheel"
   },
@@ -23116,7 +23116,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الاستاد الرياضي",
     districtEnglishName: "Sports Stadium"
   },
@@ -23125,7 +23125,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -23134,7 +23134,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "السليمانية",
     districtEnglishName: "Al Sulimaniyah"
   },
@@ -23143,7 +23143,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الاشرافية",
     districtEnglishName: "Al Ishrafiyah"
   },
@@ -23152,7 +23152,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -23161,7 +23161,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -23170,7 +23170,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المروج الثالث",
     districtEnglishName: "Al Muruj 3"
   },
@@ -23179,7 +23179,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المروج الاول",
     districtEnglishName: "Al Muruj 1"
   },
@@ -23188,7 +23188,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -23197,7 +23197,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المهرجان أ",
     districtEnglishName: "Al Mahrajan A"
   },
@@ -23206,7 +23206,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "المهرجان ب",
     districtEnglishName: "Al Mahrajan B"
   },
@@ -23215,7 +23215,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -23224,7 +23224,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تبوك",
-    cityEnglishName: "TABUK",
+    cityEnglishName: "Tabuk",
     districtArabicName: "العزيزية القديمة",
     districtEnglishName: "Al Aziziyah Al Qadimah"
   },
@@ -23233,7 +23233,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "الظهرة",
     districtEnglishName: "Adh Dhahrah"
   },
@@ -23242,7 +23242,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -23251,7 +23251,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "السبخة",
     districtEnglishName: "As Sabkhah"
   },
@@ -23260,7 +23260,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "البلدة القديمة",
     districtEnglishName: "Al Balda Al Qadimah"
   },
@@ -23269,7 +23269,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -23278,7 +23278,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "حقل",
-    cityEnglishName: "HAQL",
+    cityEnglishName: "Haql",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -23287,7 +23287,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -23296,7 +23296,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -23305,7 +23305,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "المنتزه",
     districtEnglishName: "Al Muntazah"
   },
@@ -23314,7 +23314,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -23323,7 +23323,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "التجاري",
     districtEnglishName: "At Tijari"
   },
@@ -23332,7 +23332,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "هداج",
     districtEnglishName: "Haddaj"
   },
@@ -23341,7 +23341,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "تيماء",
-    cityEnglishName: "TAYMA",
+    cityEnglishName: "Tayma",
     districtArabicName: "القاع",
     districtEnglishName: "Al Qaa"
   },
@@ -23350,7 +23350,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -23359,7 +23359,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -23368,7 +23368,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -23377,7 +23377,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -23386,7 +23386,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -23395,7 +23395,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "الوجه",
-    cityEnglishName: "AL WAJH",
+    cityEnglishName: "Al Wajh",
     districtArabicName: "الفريعة",
     districtEnglishName: "Al Fareah"
   },
@@ -23404,7 +23404,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "قرية الجبنون",
     districtEnglishName: "Qaryat Al Jabnon"
   },
@@ -23413,7 +23413,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -23422,7 +23422,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "التحلية",
     districtEnglishName: "At Tahliyyah"
   },
@@ -23431,7 +23431,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -23440,7 +23440,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "الصيادية",
     districtEnglishName: "As Sayyadih"
   },
@@ -23449,7 +23449,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "البطحاء",
     districtEnglishName: "Al Batha"
   },
@@ -23458,7 +23458,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdhah"
   },
@@ -23467,7 +23467,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "ابو شجرة",
     districtEnglishName: "Abu Shajarah"
   },
@@ -23476,7 +23476,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -23485,7 +23485,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -23494,7 +23494,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -23503,7 +23503,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "املج",
-    cityEnglishName: "UMLUJ",
+    cityEnglishName: "Umluj",
     districtArabicName: "الضويحي",
     districtEnglishName: "Al Dawayhi"
   },
@@ -23512,7 +23512,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "ضبا",
-    cityEnglishName: "DUBA",
+    cityEnglishName: "Duba",
     districtArabicName: "صمدة",
     districtEnglishName: "Samdah"
   },
@@ -23521,7 +23521,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "ضبا",
-    cityEnglishName: "DUBA",
+    cityEnglishName: "Duba",
     districtArabicName: "المزارع",
     districtEnglishName: "Al Mazari"
   },
@@ -23530,7 +23530,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "ضبا",
-    cityEnglishName: "DUBA",
+    cityEnglishName: "Duba",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -23539,7 +23539,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "ضبا",
-    cityEnglishName: "DUBA",
+    cityEnglishName: "Duba",
     districtArabicName: "البلد",
     districtEnglishName: "Al Balad"
   },
@@ -23548,7 +23548,7 @@ export const locations = [
     regionArabicName: "تبوك",
     regionEnglishName: "Tabuk",
     cityArabicName: "ضبا",
-    cityEnglishName: "DUBA",
+    cityEnglishName: "Duba",
     districtArabicName: "المقيطع",
     districtEnglishName: "Al Muqayti"
   },
@@ -23557,7 +23557,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "اجا",
     districtEnglishName: "Aja"
   },
@@ -23566,7 +23566,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -23575,7 +23575,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المزعبر",
     districtEnglishName: "Al Muzaabar"
   },
@@ -23584,7 +23584,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "برزان",
     districtEnglishName: "Barzan"
   },
@@ -23593,7 +23593,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المحطة",
     districtEnglishName: "Al Mahattah"
   },
@@ -23602,7 +23602,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "سماح",
     districtEnglishName: "Samah"
   },
@@ -23611,7 +23611,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "لبدة",
     districtEnglishName: "Labdah"
   },
@@ -23620,7 +23620,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الزبارة",
     districtEnglishName: "Az Zibarah"
   },
@@ -23629,7 +23629,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "السمراء",
     districtEnglishName: "As Samra"
   },
@@ -23638,7 +23638,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -23647,7 +23647,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -23656,7 +23656,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -23665,7 +23665,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "مغيضة",
     districtEnglishName: "Mughaydah"
   },
@@ -23674,7 +23674,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "حدري البلاد",
     districtEnglishName: "Hadri Al Bilad"
   },
@@ -23683,7 +23683,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الخريمي",
     districtEnglishName: "Al Khuraymi"
   },
@@ -23692,7 +23692,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "السويفلة",
     districtEnglishName: "As Suwayfilah"
   },
@@ -23701,7 +23701,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "ج2",
     districtEnglishName: "2 C"
   },
@@ -23710,7 +23710,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "البدنة",
     districtEnglishName: "Al Badnah"
   },
@@ -23719,7 +23719,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الوسيطاء",
     districtEnglishName: "Al Wusayta"
   },
@@ -23728,7 +23728,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "صبابة",
     districtEnglishName: "Sababah"
   },
@@ -23737,7 +23737,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -23746,7 +23746,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "البحيرة",
     districtEnglishName: "Al Buhayrah"
   },
@@ -23755,7 +23755,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المدائن",
     districtEnglishName: "Al Madaen"
   },
@@ -23764,7 +23764,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "النقرة قفار",
     districtEnglishName: "An Naqrah Qafar"
   },
@@ -23773,7 +23773,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "النقرة",
     districtEnglishName: "An Naqrah"
   },
@@ -23782,7 +23782,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الخماشية",
     districtEnglishName: "Al Khamashiyah"
   },
@@ -23791,7 +23791,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "مطار حائل الدولي",
     districtEnglishName: "Hail International Airport"
   },
@@ -23800,7 +23800,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "السويفلة",
     districtEnglishName: "As Suwayfilah"
   },
@@ -23809,7 +23809,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "النسية",
     districtEnglishName: "An Nasiyah"
   },
@@ -23818,7 +23818,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المنتزه الغربي",
     districtEnglishName: "Al Muntazah Al Gharbi"
   },
@@ -23827,7 +23827,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -23836,7 +23836,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "المنتزه الشرقي",
     districtEnglishName: "Al Muntazah Ash Sharqi"
   },
@@ -23845,7 +23845,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "اللقيطة",
     districtEnglishName: "Al Laqitah"
   },
@@ -23854,7 +23854,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -23863,7 +23863,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الرصف",
     districtEnglishName: "Ar Rasf"
   },
@@ -23872,7 +23872,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "الشفا",
     districtEnglishName: "Al Shifa"
   },
@@ -23881,7 +23881,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "حائل",
-    cityEnglishName: "HAIL",
+    cityEnglishName: "Hail",
     districtArabicName: "ضاحية الملك فهد",
     districtEnglishName: "Dahiyat King Fahd Dist"
   },
@@ -23890,7 +23890,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -23899,7 +23899,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -23908,7 +23908,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -23917,7 +23917,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -23926,7 +23926,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -23935,7 +23935,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الازدهار",
     districtEnglishName: "Al Izdihar"
   },
@@ -23944,7 +23944,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -23953,7 +23953,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الملك عبدالله",
     districtEnglishName: "King Abdullah"
   },
@@ -23962,7 +23962,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الحمراء",
     districtEnglishName: "Al Hamra"
   },
@@ -23971,7 +23971,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -23980,7 +23980,7 @@ export const locations = [
     regionArabicName: "حائل",
     regionEnglishName: "Hail",
     cityArabicName: "الشنان",
-    cityEnglishName: "ASH SHINAN",
+    cityEnglishName: "Ash Shinan",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -23989,7 +23989,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -23998,7 +23998,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -24007,7 +24007,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -24016,7 +24016,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -24025,7 +24025,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -24034,7 +24034,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -24043,7 +24043,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -24052,7 +24052,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "المساعدية",
     districtEnglishName: "Al Misadiyah"
   },
@@ -24061,7 +24061,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -24070,7 +24070,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "طريف",
-    cityEnglishName: "TURAIF",
+    cityEnglishName: "Turaif",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -24079,7 +24079,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "غرناطة",
     districtEnglishName: "Ghirnatah"
   },
@@ -24088,7 +24088,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "ارض الحرس الوطني",
     districtEnglishName: "National Guard Land"
   },
@@ -24097,7 +24097,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الشروق",
     districtEnglishName: "Ash Shuruq"
   },
@@ -24106,7 +24106,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -24115,7 +24115,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -24124,7 +24124,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الضاحية",
     districtEnglishName: "Ad Dahiyah"
   },
@@ -24133,7 +24133,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -24142,7 +24142,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -24151,7 +24151,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "إشبيليه",
     districtEnglishName: "Ishbiliyah"
   },
@@ -24160,7 +24160,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط استراحات طريق طريف",
     districtEnglishName: "Turaif Road Rest House Subdivision Plan"
   },
@@ -24169,7 +24169,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "معارض السيارات",
     districtEnglishName: "Car Showrooms"
   },
@@ -24178,7 +24178,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الصناعية طريق طريف",
     districtEnglishName: "Turaif Road Industrial"
   },
@@ -24187,7 +24187,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط المستوداعات ومصانع البلك والخرسانة",
     districtEnglishName: "Warehouse And Factories Subdivision Plan"
   },
@@ -24196,7 +24196,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "تابع حرس الحدود",
     districtEnglishName: "Boarder Security Force Land"
   },
@@ -24205,7 +24205,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط استراحات طريق الجديدة",
     districtEnglishName: "Al Jadidah Road Rest House Subdivision Plan"
   },
@@ -24214,7 +24214,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الناصرية",
     districtEnglishName: "An Nasriyah"
   },
@@ -24223,7 +24223,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "تلال عرعر",
     districtEnglishName: "Talal Arar"
   },
@@ -24232,7 +24232,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط سوق الماشية وبيع الاعلاف",
     districtEnglishName: "Cattle Market Subdivision Plan"
   },
@@ -24241,7 +24241,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الرفاع",
     districtEnglishName: "Ar Rifa"
   },
@@ -24250,7 +24250,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الصناعية الجديدة",
     districtEnglishName: "New Industrial"
   },
@@ -24259,7 +24259,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -24268,7 +24268,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -24277,7 +24277,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المنصورية",
     districtEnglishName: "Al Mansuriyah"
   },
@@ -24286,7 +24286,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط الاسكان طريق الجديدة",
     districtEnglishName: "Al Jadidah Road Housing Plan"
   },
@@ -24295,7 +24295,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -24304,7 +24304,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -24313,7 +24313,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "احواش الاغنام",
     districtEnglishName: "Ahwash Al Aghnam"
   },
@@ -24322,7 +24322,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الأمانه",
     districtEnglishName: "Al Amanah"
   },
@@ -24331,7 +24331,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -24340,7 +24340,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -24349,7 +24349,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "بدنة",
     districtEnglishName: "Al Badanah"
   },
@@ -24358,7 +24358,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المطار القديم",
     districtEnglishName: "Old Airport"
   },
@@ -24367,7 +24367,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مشرف",
     districtEnglishName: "Al Mushrif"
   },
@@ -24376,7 +24376,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "جوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -24385,7 +24385,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -24394,7 +24394,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -24403,7 +24403,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المساعدية",
     districtEnglishName: "Al Musaidiyah"
   },
@@ -24412,7 +24412,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط المنتزه العام",
     districtEnglishName: "Public Park Plan"
   },
@@ -24421,7 +24421,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -24430,7 +24430,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "احواش الديديب",
     districtEnglishName: "Ahwash Ad Daydeeb"
   },
@@ -24439,7 +24439,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "قرطبة",
     districtEnglishName: "Qurtubah"
   },
@@ -24448,7 +24448,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -24457,7 +24457,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط تشليح السيارات",
     districtEnglishName: "Vehicle Scrap Subdivision Plan"
   },
@@ -24466,7 +24466,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "مخطط استثمارى",
     districtEnglishName: "Ivestment Subdivision Plan"
   },
@@ -24475,7 +24475,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الصناعية القديمة",
     districtEnglishName: "Old Industrial"
   },
@@ -24484,7 +24484,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "البساتين",
     districtEnglishName: "Al Basatin"
   },
@@ -24493,7 +24493,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "الوادى",
     districtEnglishName: "Al Wadi"
   },
@@ -24502,7 +24502,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "استثماري هواة الصيد بالصقور",
     districtEnglishName: "Fishing With Falcon Investment Area"
   },
@@ -24511,7 +24511,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المباركية",
     districtEnglishName: "Al Mabarakiyah"
   },
@@ -24520,7 +24520,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "عرعر",
-    cityEnglishName: "ARAR",
+    cityEnglishName: "Arar",
     districtArabicName: "المساعدية الشرقية",
     districtEnglishName: "Al Musaidiyah Ash Sharqiyyah"
   },
@@ -24529,7 +24529,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -24538,7 +24538,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "مخطط المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -24547,7 +24547,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "مهاجع حرس الحدود",
     districtEnglishName: "Border Guard Housing"
   },
@@ -24556,7 +24556,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -24565,7 +24565,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "ج1",
     districtEnglishName: "C1"
   },
@@ -24574,7 +24574,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "الأندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -24583,7 +24583,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -24592,7 +24592,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -24601,7 +24601,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "مخطط شرق مدينة العويقيلة",
     districtEnglishName: "East AL Uwayqilah City"
   },
@@ -24610,7 +24610,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -24619,7 +24619,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "المربع الخدمي",
     districtEnglishName: "Al Murabba Al Khadamy"
   },
@@ -24628,7 +24628,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "ج4",
     districtEnglishName: "C4"
   },
@@ -24637,7 +24637,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "ادارة التعليم",
     districtEnglishName: "Education Administration"
   },
@@ -24646,7 +24646,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -24655,7 +24655,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "العويقلية",
-    cityEnglishName: "AL UWAYQILIYAH",
+    cityEnglishName: "Al Uwayqiliyah",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -24664,7 +24664,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "العمال",
     districtEnglishName: "Al Ummal"
   },
@@ -24673,7 +24673,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "المدينة",
     districtEnglishName: "Al Madinah"
   },
@@ -24682,7 +24682,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -24691,7 +24691,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الادارى",
     districtEnglishName: "Al Idari"
   },
@@ -24700,7 +24700,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -24709,7 +24709,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الملز",
     districtEnglishName: "Al Malaz"
   },
@@ -24718,7 +24718,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -24727,7 +24727,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -24736,7 +24736,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -24745,7 +24745,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الشمال",
     districtEnglishName: "Ash Shamal"
   },
@@ -24754,7 +24754,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الجميماء",
     districtEnglishName: "Al Jumayma"
   },
@@ -24763,7 +24763,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "المساعدية",
     districtEnglishName: "Al Misadiyah"
   },
@@ -24772,7 +24772,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -24781,7 +24781,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "القادسية",
     districtEnglishName: "Al Qadisiyah"
   },
@@ -24790,7 +24790,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -24799,7 +24799,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -24808,7 +24808,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -24817,7 +24817,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "النموذجية",
     districtEnglishName: "An Namudhajiyah"
   },
@@ -24826,7 +24826,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "التعاون",
     districtEnglishName: "Al Taawun"
   },
@@ -24835,7 +24835,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -24844,7 +24844,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "إسكان حرس الحدود",
     districtEnglishName: "Border Guard Iskan"
   },
@@ -24853,7 +24853,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الاسكان الخيرى",
     districtEnglishName: "Al Iskan Al Khairy"
   },
@@ -24862,7 +24862,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -24871,7 +24871,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "الجبهان",
     districtEnglishName: "Al Jabhan"
   },
@@ -24880,7 +24880,7 @@ export const locations = [
     regionArabicName: "الحدود الشمالية",
     regionEnglishName: "Northern Borders",
     cityArabicName: "رفحاء",
-    cityEnglishName: "RAFHA",
+    cityEnglishName: "Rafha",
     districtArabicName: "جامعة الحدود الشمالية",
     districtEnglishName: "Northern Border University"
   },
@@ -24889,7 +24889,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "القلعة",
     districtEnglishName: "Al Qalah"
   },
@@ -24898,7 +24898,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الاراك",
     districtEnglishName: "Al Arak"
   },
@@ -24907,7 +24907,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -24916,7 +24916,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "السويس",
     districtEnglishName: "As Suways"
   },
@@ -24925,7 +24925,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "البشائر",
     districtEnglishName: "Al Bashaer"
   },
@@ -24934,7 +24934,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "المطار",
     districtEnglishName: "Airport"
   },
@@ -24943,7 +24943,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -24952,7 +24952,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -24961,7 +24961,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الشاطئ",
     districtEnglishName: "Ash Shati"
   },
@@ -24970,7 +24970,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -24979,7 +24979,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الشامية",
     districtEnglishName: "Ash Shamiyah"
   },
@@ -24988,7 +24988,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -24997,7 +24997,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -25006,7 +25006,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -25015,7 +25015,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "الجبل",
     districtEnglishName: "Al Jabal"
   },
@@ -25024,7 +25024,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "جازان",
-    cityEnglishName: "JAZAN",
+    cityEnglishName: "Jazan",
     districtArabicName: "مزهرة",
     districtEnglishName: "Mizhirah"
   },
@@ -25033,7 +25033,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayyan"
   },
@@ -25042,7 +25042,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحسيني",
     districtEnglishName: "Al Hussaini"
   },
@@ -25051,7 +25051,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفلاح",
     districtEnglishName: "Al Falah"
   },
@@ -25060,7 +25060,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة الأحوس",
     districtEnglishName: "Hullat Al Ahwass"
   },
@@ -25069,7 +25069,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "جخيرة",
     districtEnglishName: "Jukhairah"
   },
@@ -25078,7 +25078,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -25087,7 +25087,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -25096,7 +25096,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -25105,7 +25105,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -25114,7 +25114,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "السعادة",
     districtEnglishName: "As Saadah"
   },
@@ -25123,7 +25123,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -25132,7 +25132,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحشيبرية",
     districtEnglishName: "Al Hushaibriyah"
   },
@@ -25141,7 +25141,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -25150,7 +25150,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -25159,7 +25159,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -25168,7 +25168,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفردوس",
     districtEnglishName: "Al Fardus"
   },
@@ -25177,7 +25177,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -25186,7 +25186,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -25195,7 +25195,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -25204,7 +25204,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -25213,7 +25213,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -25222,7 +25222,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -25231,7 +25231,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الرونة",
     districtEnglishName: "Ar Rawnah"
   },
@@ -25240,7 +25240,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الغراء",
     districtEnglishName: "Al Gharraa"
   },
@@ -25249,7 +25249,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العريش",
     districtEnglishName: "Al Arish"
   },
@@ -25258,7 +25258,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "بوتيشة",
     districtEnglishName: "Butishah"
   },
@@ -25267,7 +25267,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "المعترض",
     districtEnglishName: "Al Muutarid"
   },
@@ -25276,7 +25276,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الظبية",
     districtEnglishName: "Al Dhabyah"
   },
@@ -25285,7 +25285,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الباحر",
     districtEnglishName: "Al Bahir"
   },
@@ -25294,7 +25294,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفقره",
     districtEnglishName: "Al Faqrah"
   },
@@ -25303,7 +25303,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشواهية",
     districtEnglishName: "Al Shawahiyah"
   },
@@ -25312,7 +25312,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "شهده",
     districtEnglishName: "Shahdah"
   },
@@ -25321,7 +25321,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "عبدالله العيافي (العيافي)",
     districtEnglishName: "Abdullah Al Eyafi (Al Eyafi)"
   },
@@ -25330,7 +25330,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله محسنالمحاسنة",
     districtEnglishName: "Halah Muhsin Al Muhasana"
   },
@@ -25339,7 +25339,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الجعاونه",
     districtEnglishName: "Al Jaeawunah"
   },
@@ -25348,7 +25348,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "السروريه",
     districtEnglishName: "Al Saruriyah"
   },
@@ -25357,7 +25357,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله القميري",
     districtEnglishName: "Halah Al Qamiri"
   },
@@ -25366,7 +25366,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ابو دنقور",
     districtEnglishName: "Abu Danqur"
   },
@@ -25375,7 +25375,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ام القحفه",
     districtEnglishName: "Umm Al Qahfah"
   },
@@ -25384,7 +25384,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله مروعي بن شامي",
     districtEnglishName: "Halah Maruei Bin Shamy"
   },
@@ -25393,7 +25393,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العداية",
     districtEnglishName: "Al Addayah"
   },
@@ -25402,7 +25402,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "قبه",
     districtEnglishName: "Qibah"
   },
@@ -25411,7 +25411,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العواجمه",
     districtEnglishName: "Aleawajimuh"
   },
@@ -25420,7 +25420,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النزلـــه",
     districtEnglishName: "Alnzlh"
   },
@@ -25429,7 +25429,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "البطيح",
     districtEnglishName: "Albatih"
   },
@@ -25438,7 +25438,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الكومه",
     districtEnglishName: "Alkawmuh"
   },
@@ -25447,7 +25447,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العشة",
     districtEnglishName: "Al Ashah"
   },
@@ -25456,7 +25456,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حنقفه",
     districtEnglishName: "Hanaqfah"
   },
@@ -25465,7 +25465,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ابو الطيور",
     districtEnglishName: "Abu Altuyur"
   },
@@ -25474,7 +25474,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "عوانه",
     districtEnglishName: "Eawanah"
   },
@@ -25483,7 +25483,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العرضه",
     districtEnglishName: "Al Ardah"
   },
@@ -25492,7 +25492,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة العرشي",
     districtEnglishName: "Hulat Al Earshi"
   },
@@ -25501,7 +25501,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العسيله",
     districtEnglishName: "Aleasiluh"
   },
@@ -25510,7 +25510,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحقاويه",
     districtEnglishName: "Alhaqawih"
   },
@@ -25519,7 +25519,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشعاره",
     districtEnglishName: "Al Shiarah"
   },
@@ -25528,7 +25528,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "القواعة",
     districtEnglishName: "Al Qawaea"
   },
@@ -25537,7 +25537,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "تيهان (حلة تيهان)",
     districtEnglishName: "Tyhan (Hulat Tyhan)"
   },
@@ -25546,7 +25546,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الدواحشه",
     districtEnglishName: "Al Dawahishah"
   },
@@ -25555,7 +25555,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الباطنه",
     districtEnglishName: "Al Batinah"
   },
@@ -25564,7 +25564,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشمه",
     districtEnglishName: "Al Shamuh"
   },
@@ -25573,7 +25573,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الطراشه",
     districtEnglishName: "Alt Arashah"
   },
@@ -25582,7 +25582,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "جريبه",
     districtEnglishName: "Jaribuh"
   },
@@ -25591,7 +25591,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الهدوى",
     districtEnglishName: "Alhadwaa"
   },
@@ -25600,7 +25600,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة ابو حبيبه",
     districtEnglishName: "Hulat Abu Habibuh"
   },
@@ -25609,7 +25609,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحرف",
     districtEnglishName: "Alharaf"
   },
@@ -25618,7 +25618,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "المجديره",
     districtEnglishName: "Almajdiruh"
   },
@@ -25627,7 +25627,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "السبخة",
     districtEnglishName: "Al Sabakhah"
   },
@@ -25636,7 +25636,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "منسيه",
     districtEnglishName: "Mansih"
   },
@@ -25645,7 +25645,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الخواره",
     districtEnglishName: "Al Khawarah"
   },
@@ -25654,7 +25654,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الهجاريه",
     districtEnglishName: "Al Hajariah"
   },
@@ -25663,7 +25663,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشواجرة والجرابية",
     districtEnglishName: "Al Shawajirat Wal Jarabiyah"
   },
@@ -25672,7 +25672,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الخواجيه",
     districtEnglishName: "Al Khawajih"
   },
@@ -25681,7 +25681,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "السوالمه",
     districtEnglishName: "Al Sawalimah"
   },
@@ -25690,7 +25690,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النعامية",
     districtEnglishName: "Al Naeamia"
   },
@@ -25699,7 +25699,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفقرة",
     districtEnglishName: "Al Fiqarah"
   },
@@ -25708,7 +25708,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الزيديه",
     districtEnglishName: "Alzaydiuh"
   },
@@ -25717,7 +25717,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الخوالده",
     districtEnglishName: "Alkhawaliduh"
   },
@@ -25726,7 +25726,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ام العرش",
     districtEnglishName: "Umm Alearsh"
   },
@@ -25735,7 +25735,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحمضيه",
     districtEnglishName: "Alhimdih"
   },
@@ -25744,7 +25744,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الصنيف",
     districtEnglishName: "Alsanif"
   },
@@ -25753,7 +25753,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "وجه الحسن",
     districtEnglishName: "Wajah Alhasan"
   },
@@ -25762,7 +25762,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "قوز الجعافره",
     districtEnglishName: "Qouz Al Jaafrah"
   },
@@ -25771,7 +25771,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العبده",
     districtEnglishName: "Aleabduh"
   },
@@ -25780,7 +25780,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة ابراهيم عيسى",
     districtEnglishName: "Hulat Iibrahim Eisaa"
   },
@@ -25789,7 +25789,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الرجيع",
     districtEnglishName: "Al Rajie"
   },
@@ -25798,7 +25798,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الأثلة",
     districtEnglishName: "Al Athlah"
   },
@@ -25807,7 +25807,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "زربه",
     districtEnglishName: "Zarabah"
   },
@@ -25816,7 +25816,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الجديين",
     districtEnglishName: "Al Jidiayn"
   },
@@ -25825,7 +25825,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "شيبان",
     districtEnglishName: "Shayban"
   },
@@ -25834,7 +25834,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحجرين",
     districtEnglishName: "Alhajarayn"
   },
@@ -25843,7 +25843,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "زباره الجديين",
     districtEnglishName: "Zubarah Al Jidyeen"
   },
@@ -25852,7 +25852,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله محمد عيسى",
     districtEnglishName: "Halah Muhamad Eisa"
   },
@@ -25861,7 +25861,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله العقيبي",
     districtEnglishName: "Halah Aleaqibiu"
   },
@@ -25870,7 +25870,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله الحو تين",
     districtEnglishName: "Halah Alhawa Tyn"
   },
@@ -25879,7 +25879,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله الصهلولي",
     districtEnglishName: "Halah Al Sahluli"
   },
@@ -25888,7 +25888,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله مشاري",
     districtEnglishName: "Halah Mishary"
   },
@@ -25897,7 +25897,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله الحكمى",
     districtEnglishName: "Halah Al Hukmaa"
   },
@@ -25906,7 +25906,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله عبدالله قبع",
     districtEnglishName: "Halah Abdullah Qabea"
   },
@@ -25915,7 +25915,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله الكلابيه",
     districtEnglishName: "Halah Al Kalabih"
   },
@@ -25924,7 +25924,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله بن علوان",
     districtEnglishName: "Halah Bin Alwaan"
   },
@@ -25933,7 +25933,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة المكي",
     districtEnglishName: "Hulat Al Makki"
   },
@@ -25942,7 +25942,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله ابو مرعي",
     districtEnglishName: "Halah Abu Marei"
   },
@@ -25951,7 +25951,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حله عطيه",
     districtEnglishName: "Halah Attieh"
   },
@@ -25960,7 +25960,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الخضراء",
     districtEnglishName: "Al Khadraa"
   },
@@ -25969,7 +25969,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الجمالة",
     districtEnglishName: "Al Jammalah"
   },
@@ -25978,7 +25978,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الدحيقي",
     districtEnglishName: "Al Daheeqi"
   },
@@ -25987,7 +25987,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "قرية الجوابره",
     districtEnglishName: "Qaryat Al Jawabirih"
   },
@@ -25996,7 +25996,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الزقله",
     districtEnglishName: "Al Zaqlah"
   },
@@ -26005,7 +26005,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "نورة",
     districtEnglishName: "Nurah"
   },
@@ -26014,7 +26014,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "جميما",
     districtEnglishName: "Jameema"
   },
@@ -26023,7 +26023,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "المحاصيه",
     districtEnglishName: "Al Mahasih"
   },
@@ -26032,7 +26032,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الجاره القديمه",
     districtEnglishName: "Al Jarah Al Qadiumah"
   },
@@ -26041,7 +26041,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الزينيه",
     districtEnglishName: "Al Ziniyah"
   },
@@ -26050,7 +26050,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "حلة علي بن موسى",
     districtEnglishName: "Hulat Ali Bin Musa"
   },
@@ -26059,7 +26059,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الصامخ",
     districtEnglishName: "Al Samikh"
   },
@@ -26068,7 +26068,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشقافه والمصاوفة",
     districtEnglishName: "Al Shiqafah Wal Musawafa"
   },
@@ -26077,7 +26077,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الكلبه",
     districtEnglishName: "Al Kalabah"
   },
@@ -26086,7 +26086,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الفصاله والدغاريه",
     districtEnglishName: "Al Fisalah Wal Dagharih"
   },
@@ -26095,7 +26095,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحوامضه جحيش",
     districtEnglishName: "Al Hawamidah Jahish"
   },
@@ -26104,7 +26104,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشعافه",
     districtEnglishName: "Al Shaeafah"
   },
@@ -26113,7 +26113,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ابوالمقره",
     districtEnglishName: "Abu Al Maqrah"
   },
@@ -26122,7 +26122,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ام الشباقاء",
     districtEnglishName: "Umm Al Shibaqa"
   },
@@ -26131,7 +26131,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "اللخبصية",
     districtEnglishName: "Al Lakhabsia"
   },
@@ -26140,7 +26140,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الشاخر",
     districtEnglishName: "Al Shaakhir"
   },
@@ -26149,7 +26149,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ابو السلع",
     districtEnglishName: "Abu As Sala"
   },
@@ -26158,7 +26158,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الزيني",
     districtEnglishName: "Al Zayni"
   },
@@ -26167,7 +26167,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العمارده",
     districtEnglishName: "Al Amaridah"
   },
@@ -26176,7 +26176,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الحواية",
     districtEnglishName: "Al Hiwaya"
   },
@@ -26185,7 +26185,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "القصاده",
     districtEnglishName: "Al Qasadah"
   },
@@ -26194,7 +26194,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "النجابه و الجحاجح",
     districtEnglishName: "Al Nijabah Wal Jahajih"
   },
@@ -26203,7 +26203,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "العرجين",
     districtEnglishName: "Al Arjeen"
   },
@@ -26212,7 +26212,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "ابو الكرش",
     districtEnglishName: "Abu Alkarsh"
   },
@@ -26221,7 +26221,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "السداده",
     districtEnglishName: "Alsidaduh"
   },
@@ -26230,7 +26230,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صبيا",
-    cityEnglishName: "SABYA",
+    cityEnglishName: "Sabya",
     districtArabicName: "الرافعي",
     districtEnglishName: "Al Rafie"
   },
@@ -26239,7 +26239,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "السادلية",
     districtEnglishName: "As Sadiliyah"
   },
@@ -26248,7 +26248,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -26257,7 +26257,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -26266,7 +26266,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "القدس",
     districtEnglishName: "Al Quds"
   },
@@ -26275,7 +26275,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -26284,7 +26284,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -26293,7 +26293,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -26302,7 +26302,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -26311,7 +26311,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -26320,7 +26320,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -26329,7 +26329,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -26338,7 +26338,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -26347,7 +26347,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -26356,7 +26356,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -26365,7 +26365,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -26374,7 +26374,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "العقدة",
     districtEnglishName: "Al Uqdah"
   },
@@ -26383,7 +26383,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "المريخية",
     districtEnglishName: "Al Muraikhiyah"
   },
@@ -26392,7 +26392,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "المهدج",
     districtEnglishName: "Al Muhdaj"
   },
@@ -26401,7 +26401,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "قويعية",
     districtEnglishName: "Quwaiyyah"
   },
@@ -26410,7 +26410,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "قامرة",
     districtEnglishName: "Kamirah"
   },
@@ -26419,7 +26419,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "حاكمة ابي عريش",
     districtEnglishName: "Hakimat Abi Arish"
   },
@@ -26428,7 +26428,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "ابو عريش",
-    cityEnglishName: "ABU ARISH",
+    cityEnglishName: "Abu Arish",
     districtArabicName: "الشاقة",
     districtEnglishName: "Ash Shakah"
   },
@@ -26437,7 +26437,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الركوبة",
     districtEnglishName: "Ar Rakubah"
   },
@@ -26446,7 +26446,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الجردية",
     districtEnglishName: "Al Jurdiyyah"
   },
@@ -26455,7 +26455,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الجرادية",
     districtEnglishName: "Al Jaradiyah"
   },
@@ -26464,7 +26464,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "صامطة",
     districtEnglishName: "Samtah"
   },
@@ -26473,7 +26473,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الطرشية",
     districtEnglishName: "Al Turshiah"
   },
@@ -26482,7 +26482,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "مجعر",
     districtEnglishName: "Majaar"
   },
@@ -26491,7 +26491,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الخضراء",
     districtEnglishName: "Al Khadra"
   },
@@ -26500,7 +26500,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الواسط",
     districtEnglishName: "Al Wasit"
   },
@@ -26509,7 +26509,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "صامطة",
-    cityEnglishName: "SAMTAH",
+    cityEnglishName: "Samtah",
     districtArabicName: "الزاوية",
     districtEnglishName: "Al Zawiyah"
   },
@@ -26518,7 +26518,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "العارضة",
-    cityEnglishName: "AL ARIDAH",
+    cityEnglishName: "Al Aridah",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -26527,7 +26527,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "العارضة",
-    cityEnglishName: "AL ARIDAH",
+    cityEnglishName: "Al Aridah",
     districtArabicName: "الروابى",
     districtEnglishName: "Ar Rawabi"
   },
@@ -26536,7 +26536,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "العارضة",
-    cityEnglishName: "AL ARIDAH",
+    cityEnglishName: "Al Aridah",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -26545,7 +26545,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الغصينية",
     districtEnglishName: "Al Ghusainiah"
   },
@@ -26554,7 +26554,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الواسط",
     districtEnglishName: "Al Wasit"
   },
@@ -26563,7 +26563,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "العمارية",
     districtEnglishName: "Al Amariyah"
   },
@@ -26572,7 +26572,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "القسوم",
     districtEnglishName: "Al Qasum"
   },
@@ -26581,7 +26581,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -26590,7 +26590,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "البياطرية",
     districtEnglishName: "Al Bayatirah"
   },
@@ -26599,7 +26599,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "خلب",
     districtEnglishName: "Khalab"
   },
@@ -26608,7 +26608,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -26617,7 +26617,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "العز",
     districtEnglishName: "Al Izz"
   },
@@ -26626,7 +26626,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "البلدية",
     districtEnglishName: "Al Baladiah"
   },
@@ -26635,7 +26635,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الميزاب",
     districtEnglishName: "Al Mizab"
   },
@@ -26644,7 +26644,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "المنزم",
     districtEnglishName: "Al Manzam"
   },
@@ -26653,7 +26653,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "المطلع",
     districtEnglishName: "Al Mutalla"
   },
@@ -26662,7 +26662,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الحصامة",
     districtEnglishName: "Al Hasamah"
   },
@@ -26671,7 +26671,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "المنطقة الصناعية",
     districtEnglishName: "Industrial Area"
   },
@@ -26680,7 +26680,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "حكامية العز",
     districtEnglishName: "Hakimiat Al Iz"
   },
@@ -26689,7 +26689,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "حاكمة الدغارير",
     districtEnglishName: "Hakimat Al Dagharir"
   },
@@ -26698,7 +26698,7 @@ export const locations = [
     regionArabicName: "جازان",
     regionEnglishName: "Jazan",
     cityArabicName: "احد المسارحة",
-    cityEnglishName: "AHAD AL MUSARIHAH",
+    cityEnglishName: "Ahad Al Musarihah",
     districtArabicName: "الدغارير",
     districtEnglishName: "Al Dagharir"
   },
@@ -26707,7 +26707,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "يدمة",
-    cityEnglishName: "YADAMAH",
+    cityEnglishName: "Yadamah",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salihiyah"
   },
@@ -26716,7 +26716,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "يدمة",
-    cityEnglishName: "YADAMAH",
+    cityEnglishName: "Yadamah",
     districtArabicName: "يدمة الثاني",
     districtEnglishName: "Yadamah Al Thani"
   },
@@ -26725,7 +26725,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "يدمة",
-    cityEnglishName: "YADAMAH",
+    cityEnglishName: "Yadamah",
     districtArabicName: "جنوب يدمة",
     districtEnglishName: "Janub Yadamah"
   },
@@ -26734,7 +26734,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "يدمة",
-    cityEnglishName: "YADAMAH",
+    cityEnglishName: "Yadamah",
     districtArabicName: "يدمة الاول",
     districtEnglishName: "Yadamah Al Awal"
   },
@@ -26743,7 +26743,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "يدمة",
-    cityEnglishName: "YADAMAH",
+    cityEnglishName: "Yadamah",
     districtArabicName: "الحزام الشرقي",
     districtEnglishName: "Al Hizam Ash Sharqi"
   },
@@ -26752,7 +26752,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -26761,7 +26761,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "السوق",
     districtEnglishName: "As Suq"
   },
@@ -26770,7 +26770,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "جنوب المستشفى العسكري",
     districtEnglishName: "Janub Al Mustashfa Al Askari"
   },
@@ -26779,7 +26779,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -26788,7 +26788,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "المستشفى العسكري",
     districtEnglishName: "Al Mustashfa Al Askari"
   },
@@ -26797,7 +26797,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "الروضة الشمالية",
     districtEnglishName: "Ar Rawdah Ash Shamaliyyah"
   },
@@ -26806,7 +26806,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "مخطط ا",
     districtEnglishName: "Subdivision Plan A"
   },
@@ -26815,7 +26815,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "مخطط ب",
     districtEnglishName: "Subdivision Plan B"
   },
@@ -26824,7 +26824,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiiyah"
   },
@@ -26833,7 +26833,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -26842,7 +26842,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "شرورة",
-    cityEnglishName: "SHARURAH",
+    cityEnglishName: "Sharurah",
     districtArabicName: "الروضة الجنوبية",
     districtEnglishName: "Ar Rawdah Al Janubiyyah"
   },
@@ -26851,7 +26851,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "العان",
     districtEnglishName: "Al Aan"
   },
@@ -26860,7 +26860,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشرفة الجنوبية",
     districtEnglishName: "South Shurfah"
   },
@@ -26869,7 +26869,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الغويلا ب",
     districtEnglishName: "Al Ghuwayla B"
   },
@@ -26878,7 +26878,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "القابل",
     districtEnglishName: "Al Qabil"
   },
@@ -26887,7 +26887,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق رجلا",
     districtEnglishName: "East Rajla"
   },
@@ -26896,7 +26896,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشبهان",
     districtEnglishName: "Al Shabhan"
   },
@@ -26905,7 +26905,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "صهبان",
     districtEnglishName: "Sahban"
   },
@@ -26914,7 +26914,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شعب رير",
     districtEnglishName: "Shiab Reer"
   },
@@ -26923,7 +26923,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -26932,7 +26932,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المعامر",
     districtEnglishName: "Al Maamir"
   },
@@ -26941,7 +26941,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "زور الحارث",
     districtEnglishName: "Zawr Al Harith"
   },
@@ -26950,7 +26950,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "ريمان",
     districtEnglishName: "Rayman"
   },
@@ -26959,7 +26959,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -26968,7 +26968,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الامير مشعل",
     districtEnglishName: "Prince Mishal"
   },
@@ -26977,7 +26977,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المطار",
     districtEnglishName: "Airport"
   },
@@ -26986,7 +26986,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الجربة",
     districtEnglishName: "Al Jurbah"
   },
@@ -26995,7 +26995,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الحصين",
     districtEnglishName: "Al Husayn"
   },
@@ -27004,7 +27004,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المركب",
     districtEnglishName: "Al Markab"
   },
@@ -27013,7 +27013,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "أبا السعود",
     districtEnglishName: "Aba Al Saud"
   },
@@ -27022,7 +27022,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "نهوقة",
     districtEnglishName: "Nahuqah"
   },
@@ -27031,7 +27031,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "صحيفات",
     districtEnglishName: "Sahifat"
   },
@@ -27040,7 +27040,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "بنى سلمان",
     districtEnglishName: "Bani Salman"
   },
@@ -27049,7 +27049,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "زور العماري",
     districtEnglishName: "Zawr Al Ammari"
   },
@@ -27058,7 +27058,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "تصلال",
     districtEnglishName: "Thasallal"
   },
@@ -27067,7 +27067,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "جنوب الجامعة",
     districtEnglishName: "South of University"
   },
@@ -27076,7 +27076,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الخرعاء",
     districtEnglishName: "Al Khuraa"
   },
@@ -27085,7 +27085,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الصفا",
     districtEnglishName: "As Safa"
   },
@@ -27094,7 +27094,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "سقام",
     districtEnglishName: "Suqam"
   },
@@ -27103,7 +27103,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "أبا الخريـت",
     districtEnglishName: "Aba Al Khareet"
   },
@@ -27112,7 +27112,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "فواز",
     districtEnglishName: "Fawaz"
   },
@@ -27121,7 +27121,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الاثايبة",
     districtEnglishName: "Al Athaybah"
   },
@@ -27130,7 +27130,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "العريسة",
     districtEnglishName: "Al Uraysah"
   },
@@ -27139,7 +27139,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "صاغر",
     districtEnglishName: "Saaghir"
   },
@@ -27148,7 +27148,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المسماة",
     districtEnglishName: "Al Masmat"
   },
@@ -27157,7 +27157,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -27166,7 +27166,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق المطار أ",
     districtEnglishName: "East Airport A"
   },
@@ -27175,7 +27175,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "جامعة نجران",
     districtEnglishName: "Najran University"
   },
@@ -27184,7 +27184,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الحضن",
     districtEnglishName: "Al Hadn"
   },
@@ -27193,7 +27193,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الموفجة",
     districtEnglishName: "Al Mawfijah"
   },
@@ -27202,7 +27202,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "غرب الدارة",
     districtEnglishName: "Al Darah West"
   },
@@ -27211,7 +27211,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "بئر أبين",
     districtEnglishName: "Bir Abayn"
   },
@@ -27220,7 +27220,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "برك",
     districtEnglishName: "Barak"
   },
@@ -27229,7 +27229,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الفهد",
     districtEnglishName: "Al Fahd"
   },
@@ -27238,7 +27238,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الحايرة",
     districtEnglishName: "Al Hayirah"
   },
@@ -27247,7 +27247,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الرويكبة",
     districtEnglishName: "Al Ruwaikibah"
   },
@@ -27256,7 +27256,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شعب بران",
     districtEnglishName: "Shuab Bran"
   },
@@ -27265,7 +27265,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "النهضة",
     districtEnglishName: "Al Nahdah"
   },
@@ -27274,7 +27274,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الغويلا د",
     districtEnglishName: "Ghuwayla D"
   },
@@ -27283,7 +27283,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المشعلية الشمالية",
     districtEnglishName: "North Mishaliyah"
   },
@@ -27292,7 +27292,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشعبة الغربية",
     districtEnglishName: "West Shuabah"
   },
@@ -27301,7 +27301,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "دحضة",
     districtEnglishName: "Dahdah"
   },
@@ -27310,7 +27310,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الغويلا أ",
     districtEnglishName: "Ghuwayla A"
   },
@@ -27319,7 +27319,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الابرقين",
     districtEnglishName: "Al Abraqeen"
   },
@@ -27328,7 +27328,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "ابا الرشاش",
     districtEnglishName: "Aba Al Rashash"
   },
@@ -27337,7 +27337,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "العريسة",
     districtEnglishName: "Al Uraysah"
   },
@@ -27346,7 +27346,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "سلوى",
     districtEnglishName: "Salwa"
   },
@@ -27355,7 +27355,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "زور وادعة",
     districtEnglishName: "Zawr Wadiah"
   },
@@ -27364,7 +27364,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "نهيقة",
     districtEnglishName: "Nahiqah"
   },
@@ -27373,7 +27373,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشرفة الغربية",
     districtEnglishName: "West Shurfah"
   },
@@ -27382,7 +27382,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الغويلا ج",
     districtEnglishName: "Ghuwayla C"
   },
@@ -27391,7 +27391,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الخضراء القديمة",
     districtEnglishName: "Al Khadra Al Qadimah"
   },
@@ -27400,7 +27400,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق المطار ج",
     districtEnglishName: "East Airport C"
   },
@@ -27409,7 +27409,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق المطار د",
     districtEnglishName: "East Airport D"
   },
@@ -27418,7 +27418,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق المطار ب",
     districtEnglishName: "East Airport B"
   },
@@ -27427,7 +27427,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "شرق الدارة",
     districtEnglishName: "East Darah"
   },
@@ -27436,7 +27436,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشعبة الشرقية",
     districtEnglishName: "East Shuabah"
   },
@@ -27445,7 +27445,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المشعلية الجنوبية",
     districtEnglishName: "South Mishaliyah"
   },
@@ -27454,7 +27454,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الـرمال",
     districtEnglishName: "Al Rimal"
   },
@@ -27463,7 +27463,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "رجلا الشماليـة",
     districtEnglishName: "North Rajla"
   },
@@ -27472,7 +27472,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الاخدود",
     districtEnglishName: "Al Ukhdud"
   },
@@ -27481,7 +27481,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "رجلا الجنوبية",
     districtEnglishName: "South Rajla"
   },
@@ -27490,7 +27490,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "الشرفة الشمالية",
     districtEnglishName: "North Shurfah"
   },
@@ -27499,7 +27499,7 @@ export const locations = [
     regionArabicName: "نجران",
     regionEnglishName: "Najran",
     cityArabicName: "نجران",
-    cityEnglishName: "NAJRAN",
+    cityEnglishName: "Najran",
     districtArabicName: "المخيم",
     districtEnglishName: "Al Mukheem"
   },
@@ -27508,7 +27508,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "بلجرشي",
-    cityEnglishName: "BILJURASHI",
+    cityEnglishName: "Biljurashi",
     districtArabicName: "الشطيبة",
     districtEnglishName: "Shateebah"
   },
@@ -27517,7 +27517,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الشروق",
     districtEnglishName: "Al Shorouk"
   },
@@ -27526,7 +27526,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -27535,7 +27535,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "السلامة",
     districtEnglishName: "As Salamah"
   },
@@ -27544,7 +27544,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -27553,7 +27553,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الازهر",
     districtEnglishName: "Al Azhar"
   },
@@ -27562,7 +27562,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الضباب",
     districtEnglishName: "Ad Dabab"
   },
@@ -27571,7 +27571,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "شهبة",
     districtEnglishName: "Shahbah"
   },
@@ -27580,7 +27580,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -27589,7 +27589,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -27598,7 +27598,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shifa"
   },
@@ -27607,7 +27607,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "البريدة",
     districtEnglishName: "Al Buraydah"
   },
@@ -27616,7 +27616,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "المرتفعات",
     districtEnglishName: "Al Murtafat"
   },
@@ -27625,7 +27625,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الروضة",
     districtEnglishName: "Al Rawdha"
   },
@@ -27634,7 +27634,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الباهر",
     districtEnglishName: "Al Baher"
   },
@@ -27643,7 +27643,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الحجاز",
     districtEnglishName: "Al Hijaz"
   },
@@ -27652,7 +27652,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "ج1",
     districtEnglishName: "1 C"
   },
@@ -27661,7 +27661,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "ج2",
     districtEnglishName: "2 C"
   },
@@ -27670,7 +27670,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "ج4",
     districtEnglishName: "4 C"
   },
@@ -27679,7 +27679,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "ج5",
     districtEnglishName: "5 C"
   },
@@ -27688,7 +27688,7 @@ export const locations = [
     regionArabicName: "الباحة",
     regionEnglishName: "Bahah",
     cityArabicName: "الباحة",
-    cityEnglishName: "BAHAH",
+    cityEnglishName: "Bahah",
     districtArabicName: "الطفير",
     districtEnglishName: "At Tafeer"
   },
@@ -27697,7 +27697,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "حصيدة",
     districtEnglishName: "Husaydah"
   },
@@ -27706,7 +27706,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "العليا",
     districtEnglishName: "Al Olaya"
   },
@@ -27715,7 +27715,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -27724,7 +27724,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -27733,7 +27733,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الغزالي",
     districtEnglishName: "Al Ghzali"
   },
@@ -27742,7 +27742,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -27751,7 +27751,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -27760,7 +27760,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "السديرية",
     districtEnglishName: "As Sadiriyyah"
   },
@@ -27769,7 +27769,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الدفاع",
     districtEnglishName: "Ad Difa"
   },
@@ -27778,7 +27778,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "التحلية",
     districtEnglishName: "At Tahliyyah"
   },
@@ -27787,7 +27787,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -27796,7 +27796,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الشفا",
     districtEnglishName: "Ash Shifa"
   },
@@ -27805,7 +27805,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "المطار",
     districtEnglishName: "Al Matar"
   },
@@ -27814,7 +27814,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "الحميدية",
     districtEnglishName: "Al Hamidiyyah"
   },
@@ -27823,7 +27823,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "القريات",
-    cityEnglishName: "AL QURAYYAT",
+    cityEnglishName: "Al Qurayyat",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -27832,7 +27832,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -27841,7 +27841,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الفرسان",
     districtEnglishName: "Al Fursan"
   },
@@ -27850,7 +27850,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -27859,7 +27859,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -27868,7 +27868,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -27877,7 +27877,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayaan"
   },
@@ -27886,7 +27886,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -27895,7 +27895,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -27904,7 +27904,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -27913,7 +27913,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -27922,7 +27922,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "صوير",
-    cityEnglishName: "SUWAYR",
+    cityEnglishName: "Suwayr",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -27931,7 +27931,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -27940,7 +27940,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الشعلة",
     districtEnglishName: "Ash Shulah"
   },
@@ -27949,7 +27949,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الهدا",
     districtEnglishName: "Al Hada"
   },
@@ -27958,7 +27958,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -27967,7 +27967,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الرحمانية",
     districtEnglishName: "Ar Rahmaniyah"
   },
@@ -27976,7 +27976,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "البديعة",
     districtEnglishName: "Al Badiah"
   },
@@ -27985,7 +27985,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -27994,7 +27994,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الزهور",
     districtEnglishName: "Az Zuhur"
   },
@@ -28003,7 +28003,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الرواد",
     districtEnglishName: "Ruwad"
   },
@@ -28012,7 +28012,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المنار",
     districtEnglishName: "Al Manar"
   },
@@ -28021,7 +28021,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "النور",
     districtEnglishName: "An Nur"
   },
@@ -28030,7 +28030,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -28039,7 +28039,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الزهراء",
     districtEnglishName: "Az Zahra"
   },
@@ -28048,7 +28048,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "السليمانية",
     districtEnglishName: "As Sulaymaniyah"
   },
@@ -28057,7 +28057,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الروضة",
     districtEnglishName: "Ar Rawdah"
   },
@@ -28066,7 +28066,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الندى",
     districtEnglishName: "An Nada"
   },
@@ -28075,7 +28075,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -28084,7 +28084,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -28093,7 +28093,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الزيتون",
     districtEnglishName: "Az Zaytun"
   },
@@ -28102,7 +28102,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -28111,7 +28111,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الازدهار",
     districtEnglishName: "Al Izdihar"
   },
@@ -28120,7 +28120,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -28129,7 +28129,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الصناعية",
     districtEnglishName: "As Sinaiyah"
   },
@@ -28138,7 +28138,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المجد",
     districtEnglishName: "Al Majd"
   },
@@ -28147,7 +28147,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الريان",
     districtEnglishName: "Ar Rayaan"
   },
@@ -28156,7 +28156,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -28165,7 +28165,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "النهضة",
     districtEnglishName: "An Nahdah"
   },
@@ -28174,7 +28174,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "أحد",
     districtEnglishName: "Ahad"
   },
@@ -28183,7 +28183,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الفرسان",
     districtEnglishName: "Al Fursan"
   },
@@ -28192,7 +28192,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الرسالة",
     districtEnglishName: "Al Risalah"
   },
@@ -28201,7 +28201,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -28210,7 +28210,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -28219,7 +28219,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الشروق",
     districtEnglishName: "Ash Shrouk"
   },
@@ -28228,7 +28228,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -28237,7 +28237,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -28246,7 +28246,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الفاروق",
     districtEnglishName: "Al Farouk"
   },
@@ -28255,7 +28255,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الياسمين",
     districtEnglishName: "Al Yasmin"
   },
@@ -28264,7 +28264,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الطوير",
     districtEnglishName: "At Tuwair"
   },
@@ -28273,7 +28273,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "سلطانة",
     districtEnglishName: "Sultanah"
   },
@@ -28282,7 +28282,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "السنابل",
     districtEnglishName: "As Sanabel"
   },
@@ -28291,7 +28291,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الضاحية",
     districtEnglishName: "Ad Dahiah"
   },
@@ -28300,7 +28300,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الشعيب",
     districtEnglishName: "Ash Shuaib"
   },
@@ -28309,7 +28309,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -28318,7 +28318,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -28327,7 +28327,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المعاقلة",
     districtEnglishName: "Al Muaqilah"
   },
@@ -28336,7 +28336,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المطر",
     districtEnglishName: "Al Matr"
   },
@@ -28345,7 +28345,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الصديق",
     districtEnglishName: "As Sediq"
   },
@@ -28354,7 +28354,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -28363,7 +28363,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الخليج",
     districtEnglishName: "Al Khalij"
   },
@@ -28372,7 +28372,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الفتح",
     districtEnglishName: "Al Fath"
   },
@@ -28381,7 +28381,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -28390,7 +28390,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   },
@@ -28399,7 +28399,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "السوق",
     districtEnglishName: "As Suq"
   },
@@ -28408,7 +28408,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الشلهوب",
     districtEnglishName: "Ash Shalhub"
   },
@@ -28417,7 +28417,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المحمدية",
     districtEnglishName: "Al Muhammadiyah"
   },
@@ -28426,7 +28426,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الزعفران",
     districtEnglishName: "Al Zaafran"
   },
@@ -28435,7 +28435,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "النفل",
     districtEnglishName: "An Naql"
   },
@@ -28444,7 +28444,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -28453,7 +28453,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "اليرموك",
     districtEnglishName: "Al Yarmuk"
   },
@@ -28462,7 +28462,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الصفاء",
     districtEnglishName: "Al Safa"
   },
@@ -28471,7 +28471,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الكوثر",
     districtEnglishName: "Al Kawthar"
   },
@@ -28480,7 +28480,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الضلع",
     districtEnglishName: "Al Dil"
   },
@@ -28489,7 +28489,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "بدر",
     districtEnglishName: "Badr"
   },
@@ -28498,7 +28498,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -28507,7 +28507,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الياقوت",
     districtEnglishName: "Al Yaqoot"
   },
@@ -28516,7 +28516,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "السنبلة",
     districtEnglishName: "As Sunbulah"
   },
@@ -28525,7 +28525,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "المرجان",
     districtEnglishName: "Al Murjan"
   },
@@ -28534,7 +28534,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الظلال",
     districtEnglishName: "Adh Dhilal"
   },
@@ -28543,7 +28543,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "اليمام",
     districtEnglishName: "Al Yamam"
   },
@@ -28552,7 +28552,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "اجياد",
     districtEnglishName: "Ajyad"
   },
@@ -28561,7 +28561,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الروابي",
     districtEnglishName: "Ar Rawabi"
   },
@@ -28570,7 +28570,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "سكاكا",
-    cityEnglishName: "SAKAKA",
+    cityEnglishName: "Sakaka",
     districtArabicName: "الرابية",
     districtEnglishName: "Ar Rabiyah"
   },
@@ -28579,7 +28579,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الزيتون",
     districtEnglishName: "Al Zaytun"
   },
@@ -28588,7 +28588,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -28597,7 +28597,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -28606,7 +28606,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الرحمانية",
     districtEnglishName: "Ar Rahmaniyah"
   },
@@ -28615,7 +28615,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الخزامى",
     districtEnglishName: "Al Khuzama"
   },
@@ -28624,7 +28624,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "حدرج",
     districtEnglishName: "Hadraj"
   },
@@ -28633,7 +28633,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الربيع",
     districtEnglishName: "Ar Rabie"
   },
@@ -28642,7 +28642,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "النسيم",
     districtEnglishName: "Al Naseem"
   },
@@ -28651,7 +28651,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "البستان",
     districtEnglishName: "Al Bustan"
   },
@@ -28660,7 +28660,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الصفا",
     districtEnglishName: "Al Safa"
   },
@@ -28669,7 +28669,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الاندلس",
     districtEnglishName: "Al Andalus"
   },
@@ -28678,7 +28678,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -28687,7 +28687,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "النفل",
     districtEnglishName: "Al Nafl"
   },
@@ -28696,7 +28696,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "النخيل",
     districtEnglishName: "Al Nakhil"
   },
@@ -28705,7 +28705,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الحزم",
     districtEnglishName: "Al Hazm"
   },
@@ -28714,7 +28714,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الواحة",
     districtEnglishName: "Al Wahah"
   },
@@ -28723,7 +28723,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "السلام",
     districtEnglishName: "Al Salam"
   },
@@ -28732,7 +28732,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الشفاء",
     districtEnglishName: "Al Shifa"
   },
@@ -28741,7 +28741,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الورود",
     districtEnglishName: "Al Wurud"
   },
@@ -28750,7 +28750,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "المروة",
     districtEnglishName: "Al Marwah"
   },
@@ -28759,7 +28759,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "السمح",
     districtEnglishName: "Al Samh"
   },
@@ -28768,7 +28768,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "النزهة",
     districtEnglishName: "Al Nuzhah"
   },
@@ -28777,7 +28777,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الصالحية",
     districtEnglishName: "As Salhiyah"
   },
@@ -28786,7 +28786,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الروابي",
     districtEnglishName: "Al Rawabi"
   },
@@ -28795,7 +28795,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -28804,7 +28804,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "العروبة",
     districtEnglishName: "Al Urubah"
   },
@@ -28813,7 +28813,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "المنتزة",
     districtEnglishName: "Al Montazah"
   },
@@ -28822,7 +28822,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "طبرجل",
-    cityEnglishName: "TUBARJAL",
+    cityEnglishName: "Tubarjal",
     districtArabicName: "الرحاب",
     districtEnglishName: "Al Rehab"
   },
@@ -28831,7 +28831,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الغروب",
     districtEnglishName: "Al Ghurub"
   },
@@ -28840,7 +28840,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "التحكيم",
     districtEnglishName: "At Tahkim"
   },
@@ -28849,7 +28849,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "غرب دومة الجندل",
     districtEnglishName: "West Dawmat Al Jandal"
   },
@@ -28858,7 +28858,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الغربي",
     districtEnglishName: "Al Gharbi"
   },
@@ -28867,7 +28867,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الوادي",
     districtEnglishName: "Al Wadi"
   },
@@ -28876,7 +28876,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "البحيرات",
     districtEnglishName: "Al Buhayrat"
   },
@@ -28885,7 +28885,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الربوة",
     districtEnglishName: "Ar Rabwah"
   },
@@ -28894,7 +28894,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -28903,7 +28903,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "خذماء",
     districtEnglishName: "Khazma"
   },
@@ -28912,7 +28912,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "العزيزية",
     districtEnglishName: "Al Aziziyah"
   },
@@ -28921,7 +28921,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الفيصلية",
     districtEnglishName: "Al Faisaliyah"
   },
@@ -28930,7 +28930,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "سيل الدلهمية",
     districtEnglishName: "Sayl Al Dalhimiyah"
   },
@@ -28939,7 +28939,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الملك عبدالعزيز",
     districtEnglishName: "King Abdulaziz"
   },
@@ -28948,7 +28948,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "اليمامة",
     districtEnglishName: "Al Yamamah"
   },
@@ -28957,7 +28957,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الخالدية",
     districtEnglishName: "Al Khalidiyah"
   },
@@ -28966,7 +28966,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "المروج",
     districtEnglishName: "Al Muruj"
   },
@@ -28975,7 +28975,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الصفاه الاول",
     districtEnglishName: "Al Safat 1"
   },
@@ -28984,7 +28984,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "أصفان",
     districtEnglishName: "Asfan"
   },
@@ -28993,7 +28993,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الرديفة والرافعية",
     districtEnglishName: "Ar Radifah Wal Rafeiyah"
   },
@@ -29002,7 +29002,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الدانة",
     districtEnglishName: "Ad Danah"
   },
@@ -29011,7 +29011,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "التلال",
     districtEnglishName: "At Talal"
   },
@@ -29020,7 +29020,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "البوداي",
     districtEnglishName: "Al Bawadi"
   },
@@ -29029,7 +29029,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الصناعي",
     districtEnglishName: "Industrial"
   },
@@ -29038,7 +29038,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "النزهة",
     districtEnglishName: "An Nuzhah"
   },
@@ -29047,7 +29047,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الشفاء",
     districtEnglishName: "Ash Shifa"
   },
@@ -29056,7 +29056,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الغدير",
     districtEnglishName: "Al Ghadir"
   },
@@ -29065,7 +29065,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الجوهرة",
     districtEnglishName: "Al Jawharah"
   },
@@ -29074,7 +29074,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "الصفاه الثاني",
     districtEnglishName: "Al Safat 2"
   },
@@ -29083,7 +29083,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "دومة الجندل",
-    cityEnglishName: "DAWMAT AL JANDAL",
+    cityEnglishName: "Dawmat Al Jandal",
     districtArabicName: "المصيف",
     districtEnglishName: "Al Masif"
   },
@@ -29092,7 +29092,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "الأضارع",
-    cityEnglishName: "AL ADARI",
+    cityEnglishName: "Al Adari",
     districtArabicName: "الملك فهد",
     districtEnglishName: "King Fahd"
   },
@@ -29101,7 +29101,7 @@ export const locations = [
     regionArabicName: "الجوف",
     regionEnglishName: "Jawf",
     cityArabicName: "الأضارع",
-    cityEnglishName: "AL ADARI",
+    cityEnglishName: "Al Adari",
     districtArabicName: "السلام",
     districtEnglishName: "As Salam"
   }

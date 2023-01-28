@@ -1,0 +1,14 @@
+{
+      "makeDriverTitle": "Make a driver",
+      "makeDriverInputOneTitle": "Full Name",
+      "makeDriverInputOneLbl": "Enter driver name",
+      "makeDriverInputTwoTitle": "Phone",
+      "makeDriverInputTwoLbl": "Enter driver Phone",
+      "makeDriverInputThreeTitle": "Password",
+      "makeDriverInputThreeLbl": "Enter a password",
+      "makeDriverInputFourTitle": "Location",
+      "makeDriverInputFourLbl": "Enter driver location",
+      "makeDriverInputBtn": "Submit",
+      "makeDriverInputScssMss": "Your entry successfully submitted.",
+      "makeDriverInputErrMss": "Something went wrong. Please try again"
+}

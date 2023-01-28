@@ -1,0 +1,14 @@
+{
+      "makeAdminTitle": "جعل المسؤول",
+      "makeAdInOneTitle": "الاسم بالكامل",
+      "makeAdInOneLbl": "أدخل اسم المسؤول",
+      "makeAdInTwoTitle": "هاتف",
+      "makeAdInTwoLbl": "أدخل هاتف المسؤول",
+      "makeAdInThreeTitle": "كلمة المرور",
+      "makeAdInThreeLbl": "أدخل كلمة المرور",
+      "makeAdInFourTitle": "دور",
+      "makeAdInFourLbl": "حدد دورًا",
+      "makeAdInBtn": "إرسال",
+      "makeAdDlgSccMss": "أدخلت بنجاح.",
+      "makeAdDlgErrMss": "هناك خطأ ما. حاول مرة اخرى"
+}

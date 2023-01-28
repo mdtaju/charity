@@ -1,24 +1,16 @@
+import { useTranslation } from 'next-i18next';
 import React from 'react';
+import { HiMail } from 'react-icons/hi';
 
 const FooterBlgTwo = () => {
+      const { t } = useTranslation('common');
       return (
-            <div className='p-2 md:pr-2 md:p-0'>
-                  <div className='mb-4'>
-                        <h1 className='mb-2 capitalize font-medium text-xl text-white'>Latest news</h1>
-                        <div className='w-1/2 h-[1px] bg-[#0A5174]'></div>
-                  </div>
-                  <div className="flex flex-col gap-4">
-                        <div className='mb-2'>
-                              <p className='text-gray-400 text-sm font-thin mb-1'>Shows Donations</p>
-                              <p className='text-xs font-thin text-gray-500'>22 Nov, 2022</p>
-                        </div>
-                        <div className='mb-2'>
-                              <p className='text-gray-400 text-sm font-thin mb-1'>Shows Donations</p>
-                              <p className='text-xs font-thin text-gray-500'>22 Nov, 2022</p>
-                        </div>
-                        <div className='mb-2'>
-                              <p className='text-gray-400 text-sm font-thin mb-1'>Shows Donations</p>
-                              <p className='text-xs font-thin text-gray-500'>22 Nov, 2022</p>
+            <div className='p-2 md:pr-2 md:p-0  text-gray-400 text-sm'>
+                  <p className='font-thin text-sm'>{t("footerDes")}</p>
+                  <div className='flex flex-col gap-2 mt-6'>
+                        <div className='flex items-center gap-3'>
+                              <HiMail className='text-gray-200' />
+                              <p>admin@rhma.sa</p>
                         </div>
                   </div>
             </div>

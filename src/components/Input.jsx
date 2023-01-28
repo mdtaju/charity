@@ -9,8 +9,8 @@ const Input = ({ title, lbl, ...rest }) => {
                         {/* <span className='text-red-500 font-bold text-lg'>{"*"}</span> */}
                   </p>
                   <TextField
-                        {...rest}
                         required
+                        {...rest}
                         // id="contained"
                         variant='filled'
                         label={lbl}

@@ -1,0 +1,14 @@
+{
+      "makeAdminTitle": "Make a Admin",
+      "makeAdInOneTitle": "Full Name",
+      "makeAdInOneLbl": "Enter admin name",
+      "makeAdInTwoTitle": "Phone",
+      "makeAdInTwoLbl": "Enter admin phone",
+      "makeAdInThreeTitle": "Password",
+      "makeAdInThreeLbl": "Enter a password",
+      "makeAdInFourTitle": "Role",
+      "makeAdInFourLbl": "Set a role",
+      "makeAdInBtn": "Submit",
+      "makeAdDlgSccMss": "Your entry successfully submitted.",
+      "makeAdDlgErrMss": "Something went wrong. Please try again"
+}

@@ -1,0 +1,16 @@
+{
+      "allSKUMainTitle": "كل SKU's",
+      "allSKUInputTitle": "حالة",
+      "allSKUInputLbl": "حدد حالة SKU",
+      "allSKUInputBtnDelete": "حذف",
+      "allSKUInputBtnReset": "إعادة ضبط",
+      "allSKUInputBtnGenerate": "إنشاء SKU's",
+      "allSKUTableHeaderOne": "عدد سكو",
+      "allSKUTableHeaderTwo": "تاريخ",
+      "allSKUTableHeaderThree": "تم إنشاؤها بواسطة",
+      "allSKUTableHeaderFour": "حالة",
+      "allSKUDialogTitle": "SKU المحدد للحذف",
+      "allSKUDialogBtn": "تأكيد للحذف",
+      "allSKUDelMss": "تم الحذف بنجاح.",
+      "allSKUErrMss": "هناك خطأ ما. حاول مرة اخرى."
+}

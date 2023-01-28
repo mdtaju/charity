@@ -11,7 +11,7 @@ const HeroIntroChild = ({ title, pointDes, description, Icon }) => {
                         {
                               description ?
                                     <p className='font-medium mt-2 text-gray-500 text-justify'>{description}</p> :
-                                    <ol className=''>
+                                    <ol className='pl-3 md:pl-0'>
                                           {
                                                 pointDes.map((item, i) => (
                                                       <li className='font-medium mt-2 text-gray-500 list-decimal text-justify' key={i}>{item}</li>

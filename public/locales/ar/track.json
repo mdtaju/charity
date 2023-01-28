@@ -1,0 +1,23 @@
+{
+      "trackInputTitle": "تتبع الطلبات عن طريق رقم الجوال او رقم التتبع",
+      "trackInputLabel": "ادخل رقم الجوال(966) او رقم التتبع",
+      "trackSubmit": "ادخال",
+      "trackNoteMcs": "يمكنك رؤية كل طلباتك من خلال ادخال رقم هاتفك ، ومن خلال رقم تتبع الطلب.",
+      "trackIdTitle": "رقم التتبع",
+      "trackPDName": "نوعية الاغراض",
+      "trackPDCondition": "حالة الاغراض",
+      "trackMainStepOne": "تم حجز موعد",
+      "trackMainStepTwo": "تم ارسال الطلب للمندوب",
+      "trackMainStepThree": "تم استلام الطلب من المندوب",
+      "trackMainStepFour": "وصل الطلب للمستودع",
+
+      "trackInfoOne": "معرف التتبع",
+      "trackInfoTwo": "اسم",
+      "trackInfoThree": "رقم الاتصال",
+      "trackInfoFour": "مدينة",
+      "trackInfoFive": "يصرف",
+      "trackInfoSix": "تبوك",
+      "trackInfoSeven": "حالة المنتج",
+      "trackInfoEight": "وصف المنتج",
+      "trackInfoNine": "عدد OFP"
+}

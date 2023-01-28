@@ -1,0 +1,12 @@
+{
+      "uploadImgTitle": "Upload Images",
+      "upImgInTitle": "Select Images",
+      "upImgUpBtn": "Upload",
+      "upImgUpTitle": "Uploaded Images",
+      "upImgDelBtn": "Delete",
+      "upImgDelDlgTitle": "Selected image for delete",
+      "upImgDelDlgBtn": "Confirm To Delete",
+      "upImgReBtn": "Reset",
+      "upImgUpSccMss": "Your entry successfully submitted.",
+      "upImgUpErrMss": "Something went wrong. Please try again."
+}

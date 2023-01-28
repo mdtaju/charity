@@ -1,0 +1,21 @@
+{
+      "stocksStatusMainTitle": "حالة الأسهم",
+      "stocksStatusDateFilter": "مرشح التاريخ",
+      "stocksStatusDateFilterFilter": "منقي",
+      "stocksStatusReset": "إعادة ضبط",
+      "stocksStatusInputOneTitle": "حالة",
+      "stocksStatusInputOneLbl": "حدد حالة المخزون",
+      "stocksStatusInputTwoTitle": "حالة",
+      "stocksStatusInputTwoLbl": "حدد حالة المنتج",
+      "stocksStatusTableHeaderOne": "عدد سكو",
+      "stocksStatusTableHeaderTwo": "المخزون في التاريخ والوقت",
+      "stocksStatusTableHeaderThree": "حالة",
+      "stocksStatusTableHeaderFour": "فئة",
+      "stocksStatusTableHeaderFive": "في المخزن",
+      "stocksStatusTableHeaderSix": "تحديث بواسطة",
+      "stocksStatusTableHeaderSeven": "تاريخ ووقت نفاد المخزون",
+      "stocksStatusTableHeaderEight": "سبب",
+      "stocksStatusTableHeaderNine": "تعليق",
+      "stocksStatusTableHeaderTen": "السعر",
+      "stocksStatusTableHeaderEleven": "تحديث بواسطة"
+}

@@ -10,7 +10,7 @@ const AdminLayout = ({ children }) => {
       return (
             <div className='admin_main_container'>
                   <Sidebar getRef={getRef} />
-                  <div className='admin_hero_section'>
+                  <div className='w-full sm:admin_hero_section'>
                         <AdminTopNav handler={toggleHandler} />
                         <div className="container mx-auto">
                               {children}

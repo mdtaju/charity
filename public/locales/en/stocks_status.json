@@ -1,0 +1,21 @@
+{
+      "stocksStatusMainTitle": "Stocks Status",
+      "stocksStatusDateFilter": "Date Filter",
+      "stocksStatusDateFilterFilter": "Filter",
+      "stocksStatusReset": "Reset",
+      "stocksStatusInputOneTitle": "Status",
+      "stocksStatusInputOneLbl": "Select stocks status",
+      "stocksStatusInputTwoTitle": "Condition",
+      "stocksStatusInputTwoLbl": "Select product condition",
+      "stocksStatusTableHeaderOne": "SKU Number",
+      "stocksStatusTableHeaderTwo": "Stock in Date and Time",
+      "stocksStatusTableHeaderThree": "Condition",
+      "stocksStatusTableHeaderFour": "Category",
+      "stocksStatusTableHeaderFive": "In Stock",
+      "stocksStatusTableHeaderSix": "Update By",
+      "stocksStatusTableHeaderSeven": "Stock Out Date and Time",
+      "stocksStatusTableHeaderEight": "Reason",
+      "stocksStatusTableHeaderNine": "Comment",
+      "stocksStatusTableHeaderTen": "Price",
+      "stocksStatusTableHeaderEleven": "Update By"
+}

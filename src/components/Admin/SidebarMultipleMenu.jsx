@@ -1,4 +1,5 @@
 import { IconButton } from '@mui/material';
+import Link from 'next/link';
 import React, { useRef } from 'react';
 import { AiFillCaretDown } from 'react-icons/ai';
 
@@ -24,7 +25,9 @@ const SidebarMultipleMenu = ({ Icon, title, options }) => {
                         {
                               options.map((option, i) => (
                                     <li className="multiple_menu_link" key={i}>
-                                          <p className='sidebar_link_name cursor-pointer'>{option}</p>
+                                          <Link href={option.link}>
+                                                <p className='sidebar_link_name cursor-pointer'>{option.name}</p>
+                                          </Link>
                                     </li>
                               ))
                         }

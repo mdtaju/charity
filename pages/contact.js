@@ -1,9 +1,10 @@
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import React from 'react';
 import Contact from '../src/components/Contact/Contact';
 import DonateBanner from '../src/components/Donate/DonateBanner';
 import Layout from '../src/components/Layout';
 
-const contact = () => {
+const ContactPage = () => {
       return (
             <>
                   <Layout>
@@ -13,5 +14,14 @@ const contact = () => {
             </>
       );
 };
-
-export default contact;
+export async function getStaticProps({ locale }) {
+      return {
+            props: {
+                  ...(await serverSideTranslations(locale, [
+                        'common',
+                        'contact',
+                  ])),
+            }
+      }
+}
+export default ContactPage;

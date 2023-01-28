@@ -1,14 +1,18 @@
+import { useTranslation } from 'next-i18next';
+import Link from 'next/link';
 import React from 'react';
 
 const AboutFirstSec = () => {
+      const { t } = useTranslation("about");
       return (
             <div className='gap'>
                   <div className="container mx-auto px-2 sm:px-4">
                         <div className='p-2'>
-                              <p className='text-base text-gray-700 font-light mb-4'>{
-                                    `It’s a project of the National Committee Released Prisoners and Their Families’ care "Tarahum", It’s based on collecting used clothes, utensils, papers and devices and recycling them in the purpose of providing what can still be used by Tarahum’s beneficiaries, and that’s for achieving social and environmental investment.`
-                              }</p>
-                              <button className='btn_primary'>donate</button>
+                              <p className='text-base text-gray-700 font-light mb-4'>{t("heroIntroTitle")}</p>
+                              <Link href={'/donate'}>
+
+                                    <button className='btn_primary'>{t("donate")}</button>
+                              </Link>
                         </div>
                   </div>
             </div>

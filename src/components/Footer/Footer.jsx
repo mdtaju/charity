@@ -1,7 +1,6 @@
 import React from 'react';
 import FooterBlgBtm from './FooterBlgBtm';
 import FooterBlgFour from './FooterBlgFour';
-import FooterBlgMdl from './FooterBlgMdl';
 import FooterBlgOne from './FooterBlgOne';
 import FooterBlgThree from './FooterBlgThree';
 import FooterBlgTwo from './FooterBlgTwo';
@@ -18,10 +17,6 @@ const Footer = () => {
                                     <FooterBlgThree />
                                     <FooterBlgFour />
                               </div>
-                              <div className='grid grid-cols-1 sm:gird-cols-2 md:grid-cols-4 gap-4 mt-8'>
-                                    <FooterBlgMdl />
-                              </div>
-                              <div></div>
                         </div>
                   </div>
                   <FooterBlgBtm />

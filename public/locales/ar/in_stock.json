@@ -1,0 +1,12 @@
+{
+      "inStockMainTitle": "تحديث المستودع (في المخزن).",
+      "inStockInputOneTitle": "عدد سكو",
+      "inStockInputOneLbl": "أدخل رقم SKU",
+      "inStockInputTwoTitle": "حالة",
+      "inStockInputTwoLbl": "حدد حالة المنتج",
+      "inStockInputThreeTitle": "فئة",
+      "inStockInputThreeLbl": "حدد فئة المنتج",
+      "inStockInputBtn": "إرسال",
+      "inputStockSccMss": "تم تحديث قاعدة البيانات بنجاح.",
+      "inputStockErrMss": "هناك خطأ ما. حاول مرة اخرى."
+}

@@ -1,0 +1,14 @@
+{
+      "stockOutMainTitle": "تحديث المستودع (مخزون).",
+      "stockOutInputTitle": "عدد سكو",
+      "stockOutInputLbl": "أدخل رقم SKU",
+      "stockOutInputTwoTitle": "سبب",
+      "stockOutInputTwoLbl": "اختر سببا",
+      "stockOutInputThreeTitle": "تعليق",
+      "stockOutInputThreeLbl": "أكتب تعليقا",
+      "stockOutInputFourTitle": "السعر",
+      "stockOutInputFourLbl": "أدخل السعر",
+      "stockOutInputBtn": "إرسال",
+      "stockOutSccMss": "تم تحديث قاعدة البيانات بنجاح.",
+      "stockOutErrMss": "هناك خطأ ما. حاول مرة اخرى."
+}

@@ -11,7 +11,7 @@ export default async function handler(req, res) {
 
 const getFromDatabase = async (req, res) => {
       try {
-            const [result] = await pool.query("SELECT * FROM locations WHERE regionEnglishName = ?", ["Tabuk"]);
+            const [result] = await pool.query("SELECT * FROM locations");
             return res.status(200).json(result)
       } catch (error) {
             return res.status(500).json(error)

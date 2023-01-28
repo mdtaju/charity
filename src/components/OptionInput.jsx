@@ -8,7 +8,6 @@ const OptionInput = ({ title, lbl, options, state, setState, ...rest }) => {
       return (
             <div className='flex flex-col gap-2'>
                   <p className='font-semibold text-[#0A5174]'>{title}
-                        {/* <span className='text-red-500 font-bold text-lg'>{"*"}</span> */}
                   </p>
                   <FormControl fullWidth>
                         <InputLabel id="demo-simple-select-label">{lbl}</InputLabel>
@@ -30,14 +29,6 @@ const OptionInput = ({ title, lbl, options, state, setState, ...rest }) => {
                               }
                         </Select>
                   </FormControl>
-                  {/* <select defaultValue={'DEFAULT'} {...rest} className='default_select'>
-                        <option style={{ padding: '5px !important' }} value="DEFAULT" disabled>{defOption}</option>
-                        {
-                              options.map((item, i) => (
-                                    <option value={item} key={i}>{item}</option>
-                              ))
-                        }
-                  </select> */}
             </div>
       );
 };

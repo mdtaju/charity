@@ -1,19 +1,10 @@
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import AOS from "aos";
-import "aos/dist/aos.css";
+import { appWithTranslation } from 'next-i18next';
 import Head from "next/head";
-import Script from "next/script";
-import { useEffect } from 'react';
-import { AuthProvider } from '../src/components/AuthContext';
+import nextI18nextConfig from '../next-i18next.config';
 import '../styles/globals.css';
-
 function MyApp({ Component, pageProps }) {
-  useEffect(() => {
-    AOS.init({
-      once: true
-    });
 
-  }, []);
   const Theme = createTheme({
     palette: {
       primary: {
@@ -41,15 +32,13 @@ function MyApp({ Component, pageProps }) {
         <meta name="msapplication-TileColor" content="#ffffff" />
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
         <meta name="theme-color" content="#ffffff" />
+        <title>Rhma</title>
       </Head>
-      <Script src="https://maps.googleapis.com/maps/api/geocode/outputFormat?parameters&key=AIzaSyAkbymp5iyJD-4_GKPp8Ygj0RSguqLFJcM"></Script>
-      <AuthProvider>
-        <ThemeProvider theme={Theme}>
-          <Component {...pageProps} />
-        </ThemeProvider>
-      </AuthProvider>
+      <ThemeProvider theme={Theme}>
+        <Component {...pageProps} />
+      </ThemeProvider>
     </>
   )
 }
 
-export default MyApp
+export default appWithTranslation(MyApp, nextI18nextConfig);

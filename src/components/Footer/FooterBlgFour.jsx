@@ -1,40 +1,30 @@
+import { useTranslation } from 'next-i18next';
 import React from 'react';
-
+import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai';
+import { BsSnapchat } from 'react-icons/bs';
+import { GrFacebookOption } from 'react-icons/gr';
 const FooterBlgFour = () => {
+      const { t } = useTranslation('common');
       return (
             <div className='p-2 md:pr-2 md:p-0'>
-                  <div className='mb-4'>
-                        <h1 className='mb-2 capitalize font-medium text-xl text-white'>Opening Hours</h1>
-                        <div className='w-1/2 h-[1px] bg-[#0A5174]'></div>
-                  </div>
-                  <div className="flex flex-col gap-4">
-                        <div>
-                              <div className='flex items-center justify-between gap-3 text-gray-400'>
-                                    <p className='text-sm'>Mon - Tues :{" "}</p>
-                                    <p className='text-sm'>6.00 am - 10.00 pm</p>
-                              </div>
-                              <div className='mt-2 w-full h-[1px] bg-gray-500'></div>
-                        </div>
-                        <div>
-                              <div className='flex items-center justify-between gap-3 text-gray-400'>
-                                    <p className='text-sm'>Wednes - Thurs :{" "}</p>
-                                    <p className='text-sm'>6.00 am - 10.00 pm</p>
-                              </div>
-                              <div className='mt-2 w-full h-[1px] bg-gray-500'></div>
-                        </div>
-                        <div>
-                              <div className='flex items-center justify-between gap-3 text-gray-400'>
-                                    <p className='text-sm'>Fri :{" "}</p>
-                                    <p className='text-sm'>6.00 am - 10.00 pm</p>
-                              </div>
-                              <div className='mt-2 w-full h-[1px] bg-gray-500'></div>
-                        </div>
-                        <div>
-                              <div className='flex items-center justify-between gap-3 text-gray-400'>
-                                    <p className='text-sm'>Sun :{" "}</p>
-                                    <p className='text-sm'>6.00 am - 10.00 pm</p>
-                              </div>
-                              <div className='mt-2 w-full h-[1px] bg-gray-500'></div>
+                  <div>
+                        <h1 className='text-gray-200 text-base font-thin mb-3'>{t("footerContactTitle")}</h1>
+                        <div className='flex items-center gap-2'>
+                              <a target={'_blank'} rel="noreferrer" href={'https://www.facebook.com/profile.php?id=100085171167052&mibextid=ZbWKwL'}>
+                                    <div className='p-2 bg-gray-500 cursor-pointer rounded-full text-white hover:text-[#0A5174]'><GrFacebookOption className='text-lg' /></div>
+                              </a>
+
+                              <a target={'_blank'} rel="noreferrer" href={'https://www.instagram.com/mashru3_rahma'}>
+                                    <div className='p-2 bg-gray-500 cursor-pointer rounded-full text-white hover:text-[#0A5174]'><AiFillInstagram className='text-lg' /></div>
+                              </a>
+
+                              <a target={'_blank'} rel="noreferrer" href={'https://www.twitter.com/@Mashru3_Rahma'}>
+                                    <div className='p-2 bg-gray-500 cursor-pointer rounded-full text-white hover:text-[#0A5174]'><AiOutlineTwitter className='text-lg' /></div>
+                              </a>
+
+                              <a target={'_blank'} rel="noreferrer" href={'https://www.snapchat.com/add/mashru3rahmh'}>
+                                    <div className='p-2 bg-gray-500 cursor-pointer rounded-full text-white hover:text-[#0A5174]'><BsSnapchat className='text-lg' /></div>
+                              </a>
                         </div>
                   </div>
             </div>

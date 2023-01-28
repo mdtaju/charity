@@ -1,0 +1,23 @@
+{
+      "trackInputTitle": "Track donations by phone or track id",
+      "trackInputLabel": "Type your phone or track id",
+      "trackSubmit": "Submit",
+      "trackNoteMcs": "Note: You can see all your donations by submitting with your phone number. And if you submit with your track id then you can see about that particular donation.",
+      "trackIdTitle": "Track id",
+      "trackPDName": "Product Name",
+      "trackPDCondition": "Product Condition",
+      "trackMainStepOne": "Order Created",
+      "trackMainStepTwo": "Assigned to Driver",
+      "trackMainStepThree": "Picked by driver",
+      "trackMainStepFour": "Received in Warehouse",
+      
+      "trackInfoOne": "Tracking ID",
+      "trackInfoTwo": "Name",
+      "trackInfoThree": "Contact Number",
+      "trackInfoFour": "City",
+      "trackInfoFive": "District",
+      "trackInfoSix": "Address",
+      "trackInfoSeven": "Product Condition",
+      "trackInfoEight": "Product Description",
+      "trackInfoNine": "OFP Count"
+}

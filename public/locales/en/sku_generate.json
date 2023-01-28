@@ -1,0 +1,9 @@
+{
+      "generateSKUMainTitle": "Generate SKU's",
+      "generateSKUInputTitle": "SKU's",
+      "generateSKUInputLbl": "Please input quantities",
+      "generateSKUInputBtn": "Generate",
+      "generateSKUDownloadBtn": "Download And Send to Database",
+      "generateSKUSssMss": "Successfully send to database.",
+      "generateSKUErrMss": "Something went wrong. please try again."
+}

@@ -1,14 +1,34 @@
+import { useTranslation } from 'next-i18next';
+import { useRouter } from 'next/router';
 import React from 'react';
 import { BiRocket } from 'react-icons/bi';
 import { TbLeaf } from 'react-icons/tb';
 import HeroIntroChild from './HeroIntroChild';
 
 const HeroIntro = () => {
+      const { t } = useTranslation('home');
+      const router = useRouter();
+      const pointsArr = [t("heroIntroSecOnePointOne"), t("heroIntroSecOnePointTwo"), t("heroIntroSecOnePointThree"), t("heroIntroSecOnePointFour")]
       return (
             <div className='gap bg-gray-100'>
                   <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 gap-4 px-3 md:px-8">
-                        <HeroIntroChild title="our mission" pointDes={[" Achieving financial sustainability for the National Committee which is formed for the Care of Prisoners, Released Persons and Their Families.", "Bringing about a renaissance with the National Committee for the Care of Prisoners, Released Persons and Their Families in the field of environmental recycling and converting waste into financial profit.", "Training, rehabilitating and employing the beneficiaries of the National Committee for the Care of Prisoners and Released prisoners and their families.", "Providing additional services to the families of prisoners and those who are released that raises the standard of living and humanity"]} description="" Icon={BiRocket} />
-                        <HeroIntroChild title="our vision" pointDes={[]} description="The project is aimed to be a pioneer in social investment by uniting the community with the prisoners’ families and the released prisoners, by receiving clothes, utensils, papers, and devices, and recycling them and investing them for the benefit of the beneficiaries of the National Committee which is formed to take care of prisoners, released prisoners and their families, by training and empowering them and creating investment opportunities for them, and that’s achieved by making community partnerships that enhances the value of the project and provides services that contributes to preserving the environment." Icon={TbLeaf} />
+                        <div className='p-3 md:p-8 bg-gray-200 text-center rounded-md group/heInt'>
+                              <div className="w-fit mx-auto p-6 border-2 border-[#0A5174] rounded-full group-hover/heInt:bg-[#0A5174] duration-200">
+                                    <BiRocket className='text-6xl group-hover/heInt:text-white duration-200' />
+                              </div>
+                              <div className="mt-4">
+                                    <h1 className='uppercase text-[#0A5174] font-bold text-xl'>{t("heroIntroSecOneTitle")}</h1>
+                                    {
+                                          pointsArr &&
+                                          pointsArr.map((item, i) => (
+                                                <div key={i}>
+                                                      <p style={router.locale === "en" ? { textAlign: 'justify' } : { textAlign: 'right' }} className='font-medium mt-2 text-gray-500 text-justify'>{item}</p>
+                                                </div>
+                                          ))
+                                    }
+                              </div>
+                        </div>
+                        <HeroIntroChild title={t("heroIntroSecTwoTitle")} pointDes={[]} description={t("heroIntroSecTwoDescription")} Icon={TbLeaf} />
                   </div>
             </div>
       );

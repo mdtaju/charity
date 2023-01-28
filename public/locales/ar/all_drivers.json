@@ -1,0 +1,25 @@
+{
+      "allDriversMainTitle": "كل السائقين",
+      "allDriversUpBtn": "تحديث",
+      "allDriversDelBtn": "حذف",
+      "allDriversUpDlgInOneTitle": "الاسم بالكامل",
+      "allDriversUpDlgInOneLbl": "أدخل اسم السائق",
+      "allDriversUpDlgInTwoTitle": "هاتف",
+      "allDriversUpDlgInTwoLbl": "أدخل هاتف السائق",
+      "allDriversUpDlgInThreeTitle": "كلمة المرور",
+      "allDriversUpDlgInThreeLbl": "أدخل كلمة المرور",
+      "allDriversUpDlgInFourTitle": "Location",
+      "allDriversUpDlgInFourLbl": "أدخل موقع السائق",
+      "allDriverUpDlgInBtn": "إرسال",
+      "allDriverDelDlgBtn": "أكد للحذف",
+      "allDriverDelDlgTitle": "سائق لا",
+      "allDriverTableHeaderOne": "اسم",
+      "allDriverTableHeaderTwo": "هاتف",
+      "allDriverTableHeaderThree": "كلمة المرور",
+      "allDriverTableHeaderFour": "موقع",
+      "allDriverTableHeaderFive": "تاريخ",
+
+      "allDriverDlgDelMss": "تم الحذف بنجاح.",
+      "allDriverWrongMss": "هناك خطأ ما. حاول مرة اخرى",
+      "allDriverDlgUpSccMss": "تم التحديث الخاص بك بنجاح."
+}

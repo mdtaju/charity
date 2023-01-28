@@ -1,17 +1,15 @@
 import Stack from '@mui/material/Stack';
 import Step from '@mui/material/Step';
+import StepConnector, { stepConnectorClasses } from '@mui/material/StepConnector';
 import StepLabel from '@mui/material/StepLabel';
 import Stepper from '@mui/material/Stepper';
 import { styled } from '@mui/material/styles';
+import { useTranslation } from 'next-i18next';
 import PropTypes from 'prop-types';
 import * as React from 'react';
-
-import { BsPeople } from 'react-icons/bs';
 import { MdOutlineDirectionsBike } from 'react-icons/md';
 import { RiHandHeartLine } from 'react-icons/ri';
-import { TbBuildingWarehouse } from 'react-icons/tb';
-
-import StepConnector, { stepConnectorClasses } from '@mui/material/StepConnector';
+import { TbBuildingWarehouse, TbPaperBag } from 'react-icons/tb';
 
 const ColorlibConnector = styled(StepConnector)(({ theme }) => ({
       [`&.${stepConnectorClasses.alternativeLabel}`]: {
@@ -68,8 +66,8 @@ function ColorlibStepIcon(props) {
       const icons = {
             1: <RiHandHeartLine />,
             2: <MdOutlineDirectionsBike />,
-            3: <TbBuildingWarehouse />,
-            4: <BsPeople />,
+            3: <TbPaperBag />,
+            4: <TbBuildingWarehouse />,
       };
 
       return (
@@ -97,9 +95,10 @@ ColorlibStepIcon.propTypes = {
       icon: PropTypes.node,
 };
 
-const steps = ['Your Donation', 'Handover', 'Warehouse', 'Poor People'];
 
 export default function CustomizedSteppers({ TrackStatus = 0 }) {
+      const { t } = useTranslation("track");
+      const steps = [t("trackMainStepOne"), t("trackMainStepTwo"), t("trackMainStepThree"), t("trackMainStepFour")];
       return (
             <div className='overflow-scroll sm:overflow-hidden py-6 w-full'>
                   <Stack sx={{ width: '100%' }} spacing={4}>

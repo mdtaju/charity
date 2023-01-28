@@ -1,0 +1,7 @@
+{
+      "adminMainTitle": "Welcome to Rhma",
+      "adminPhone": "Enter your User ID",
+      "adminPassword": "Enter your password",
+      "adminLoginErr": "User ID or password not matched.",
+      "submit": "Login"
+}
